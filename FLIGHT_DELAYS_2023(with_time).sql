@@ -9,6 +9,9 @@
 -- DELAY_DUE_SECURITY: Security Delay, in Minutes --
 -- DELAY_DUE_LATE_AIRCRAFT:	Late Aircraft Delay, in Minutes --
 
+--data visualisation with tableau--
+--https://public.tableau.com/views/Airline_delays_2023/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link--
+
 SELECT AIRLINE,
 FL_DATE,
 TIME_FORMAT(sec_to_time(ARR_DELAY*60), '%H:%i') AS 'ARR_DELAY',
