@@ -1,0 +1,1645 @@
+AIRLINE,FL_DATE,ARR_DELAY,FL_NUMBER,ORIGIN_CITY,CANCELLED,DELAY_DUE_CARRIER,DELAY_DUE_WEATHER,DELAY_DUE_NAS,DELAY_DUE_SECURITY,DELAY_DUE_LATE_AIRCRAFT
+Southwest Airlines Co.,2023-01-01,-3.0,1254,"Kansas City, MO",0.0,7.0,0.0,0.0,0.0,9.0
+Republic Airline,2023-01-01,-17.0,5592,"Richmond, VA",0.0,0.0,0.0,34.0,0.0,0.0
+Envoy Air,2023-01-01,-16.0,3505,"Madison, WI",0.0,0.0,0.0,18.0,0.0,0.0
+Allegiant Air,2023-01-01,92.0,661,"Springfield, MO",0.0,4.0,0.0,5.0,0.0,83.0
+SkyWest Airlines Inc.,2023-01-01,2.0,5077,"Liberal, KS",0.0,0.0,0.0,0.0,0.0,36.0
+Spirit Air Lines,2023-01-01,3.0,1746,"Charleston/Dunbar, WV",1.0,13.0,0.0,0.0,0.0,80.0
+United Air Lines Inc.,2023-01-02,12.0,2632,"Sarasota/Bradenton, FL",0.0,9.0,0.0,0.0,0.0,14.0
+Spirit Air Lines,2023-01-02,192.0,1190,"Chicago, IL",0.0,0.0,0.0,148.0,0.0,44.0
+JetBlue Airways,2023-01-02,4.0,2222,"Kansas City, MO",0.0,18.0,0.0,0.0,0.0,327.0
+Republic Airline,2023-01-02,-21.0,4715,"Huntsville, AL",0.0,22.0,0.0,0.0,0.0,54.0
+Alaska Airlines Inc.,2023-01-02,195.0,362,"Jackson, WY",0.0,195.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-01-02,-41.0,428,"Lihue, HI",0.0,3.0,0.0,0.0,0.0,103.0
+Allegiant Air,2023-01-03,2.0,1206,"Concord, NC",0.0,0.0,0.0,4.0,0.0,31.0
+Endeavor Air Inc.,2023-01-03,-26.0,4867,"Buffalo, NY",0.0,0.0,0.0,17.0,0.0,0.0
+Endeavor Air Inc.,2023-01-03,-17.0,5531,"Montgomery, AL",0.0,0.0,0.0,0.0,0.0,168.0
+Delta Air Lines Inc.,2023-01-03,-16.0,462,"Knoxville, TN",1.0,0.0,0.0,0.0,0.0,111.0
+PSA Airlines Inc.,2023-01-03,-25.0,5150,"St. Louis, MO",0.0,35.0,0.0,41.0,0.0,0.0
+United Air Lines Inc.,2023-01-03,6.0,1706,"Hilo, HI",0.0,,,,,
+Spirit Air Lines,2023-01-04,-14.0,303,"Atlantic City, NJ",0.0,0.0,0.0,31.0,0.0,0.0
+American Airlines Inc.,2023-01-04,-6.0,590,"St. Louis, MO",0.0,0.0,0.0,0.0,0.0,114.0
+Allegiant Air,2023-01-04,30.0,3964,"Nashville, TN",0.0,0.0,0.0,30.0,0.0,0.0
+SkyWest Airlines Inc.,2023-01-04,85.0,4995,"Springfield, IL",0.0,85.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-01-04,-5.0,3451,"Ithaca/Cortland, NY",0.0,,,,,
+SkyWest Airlines Inc.,2023-01-04,-24.0,3056,"Columbus, GA",0.0,,,,,
+Envoy Air,2023-01-04,-22.0,3380,"Albany, NY",0.0,,,,,
+Alaska Airlines Inc.,2023-01-05,141.0,279,"Seattle, WA",0.0,137.0,0.0,4.0,0.0,0.0
+Allegiant Air,2023-01-05,25.0,2587,"Punta Gorda, FL",0.0,25.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-01-05,10.0,1689,"Fort Myers, FL",0.0,123.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-01-05,137.0,1322,"Cedar Rapids/Iowa City, IA",0.0,64.0,0.0,48.0,0.0,25.0
+Envoy Air,2023-01-05,-6.0,3358,"St. Louis, MO",0.0,34.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-01-05,-10.0,4036,"Marquette, MI",1.0,18.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-01-05,41.0,4682,"Minot, ND",0.0,20.0,0.0,21.0,0.0,0.0
+Delta Air Lines Inc.,2023-01-06,-42.0,2064,"New York, NY",0.0,0.0,0.0,1.0,0.0,47.0
+SkyWest Airlines Inc.,2023-01-06,64.0,5856,"Tucson, AZ",0.0,0.0,0.0,64.0,0.0,0.0
+Delta Air Lines Inc.,2023-01-06,-20.0,2893,"Oklahoma City, OK",0.0,0.0,0.0,6.0,0.0,113.0
+Envoy Air,2023-01-06,-17.0,4192,"Abilene, TX",0.0,1.0,0.0,0.0,0.0,14.0
+SkyWest Airlines Inc.,2023-01-06,-7.0,3867,"Washington, DC",0.0,180.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-01-06,-2.0,1415,"Traverse City, MI",0.0,0.0,0.0,118.0,0.0,0.0
+Endeavor Air Inc.,2023-01-06,-17.0,4691,"Philadelphia, PA",0.0,,,,,
+Endeavor Air Inc.,2023-01-07,-32.0,5392,"Dothan, AL",0.0,0.0,0.0,14.0,0.0,11.0
+SkyWest Airlines Inc.,2023-01-07,-15.0,5079,"Sheridan, WY",0.0,50.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-01-07,14.0,4640,"Cedar Rapids/Iowa City, IA",0.0,,,,,
+Frontier Airlines Inc.,2023-01-07,31.0,2174,"Reno, NV",0.0,10.0,0.0,0.0,0.0,21.0
+Republic Airline,2023-01-07,-25.0,3491,"West Palm Beach/Palm Beach, FL",0.0,5.0,0.0,0.0,0.0,76.0
+American Airlines Inc.,2023-01-08,-18.0,2489,"West Palm Beach/Palm Beach, FL",0.0,16.0,0.0,4.0,0.0,4.0
+PSA Airlines Inc.,2023-01-08,-41.0,5365,"Augusta, GA",0.0,15.0,0.0,0.0,0.0,0.0
+JetBlue Airways,2023-01-08,62.0,579,"Washington, DC",0.0,39.0,0.0,17.0,0.0,6.0
+JetBlue Airways,2023-01-08,-12.0,1075,"Providence, RI",0.0,0.0,0.0,54.0,0.0,0.0
+United Air Lines Inc.,2023-01-08,-20.0,1608,"Montrose/Delta, CO",0.0,0.0,0.0,0.0,0.0,274.0
+Delta Air Lines Inc.,2023-01-08,-25.0,2387,"Montrose/Delta, CO",0.0,0.0,0.0,0.0,0.0,73.0
+Alaska Airlines Inc.,2023-01-09,5.0,1259,"San Diego, CA",0.0,0.0,0.0,10.0,0.0,35.0
+Delta Air Lines Inc.,2023-01-09,-9.0,1634,"Tucson, AZ",0.0,0.0,0.0,0.0,0.0,45.0
+Envoy Air,2023-01-09,-14.0,3519,"Houston, TX",0.0,13.0,0.0,44.0,0.0,42.0
+Envoy Air,2023-01-09,11.0,4222,"Lafayette, LA",0.0,0.0,0.0,24.0,0.0,17.0
+Endeavor Air Inc.,2023-01-09,-2.0,5463,"Albany, NY",0.0,0.0,0.0,131.0,0.0,0.0
+JetBlue Airways,2023-01-09,-21.0,1826,"San Antonio, TX",0.0,0.0,0.0,32.0,0.0,0.0
+Frontier Airlines Inc.,2023-01-09,-18.0,1075,"Grand Rapids, MI",0.0,0.0,0.0,32.0,0.0,0.0
+Endeavor Air Inc.,2023-01-09,-13.0,4718,"Evansville, IN",0.0,0.0,0.0,0.0,0.0,18.0
+SkyWest Airlines Inc.,2023-01-09,-7.0,3915,"Rochester, MN",0.0,,,,,
+Envoy Air,2023-01-09,-23.0,3467,"Sioux Falls, SD",0.0,39.0,0.0,7.0,0.0,0.0
+Allegiant Air,2023-01-09,17.0,863,"Traverse City, MI",0.0,0.0,0.0,17.0,0.0,0.0
+Delta Air Lines Inc.,2023-01-10,-11.0,2936,"Sarasota/Bradenton, FL",0.0,47.0,0.0,0.0,0.0,77.0
+Frontier Airlines Inc.,2023-01-10,-25.0,2347,"Philadelphia, PA",0.0,0.0,0.0,19.0,0.0,0.0
+Alaska Airlines Inc.,2023-01-10,11.0,543,"Dallas/Fort Worth, TX",0.0,0.0,0.0,15.0,0.0,0.0
+Hawaiian Airlines Inc.,2023-01-11,46.0,45,"San Jose, CA",0.0,32.0,14.0,0.0,0.0,0.0
+American Airlines Inc.,2023-01-11,193.0,671,"Raleigh/Durham, NC",0.0,0.0,0.0,193.0,0.0,0.0
+Delta Air Lines Inc.,2023-01-11,163.0,2546,"Raleigh/Durham, NC",0.0,0.0,0.0,163.0,0.0,0.0
+Spirit Air Lines,2023-01-11,-18.0,430,"Seattle, WA",0.0,13.0,0.0,1.0,0.0,8.0
+United Air Lines Inc.,2023-01-11,-4.0,362,"Honolulu, HI",0.0,0.0,0.0,36.0,0.0,0.0
+Southwest Airlines Co.,2023-01-11,9.0,3111,"Ontario, CA",0.0,0.0,0.0,18.0,0.0,30.0
+SkyWest Airlines Inc.,2023-01-11,4.0,5029,"Johnstown, PA",0.0,28.0,0.0,0.0,0.0,0.0
+Spirit Air Lines,2023-01-11,61.0,1169,"Nashville, TN",0.0,0.0,0.0,61.0,0.0,0.0
+JetBlue Airways,2023-01-11,-9.0,2332,"Sarasota/Bradenton, FL",0.0,6.0,0.0,0.0,0.0,38.0
+SkyWest Airlines Inc.,2023-01-11,64.0,4939,"Wichita Falls, TX",0.0,0.0,0.0,64.0,0.0,0.0
+Endeavor Air Inc.,2023-01-11,42.0,5196,"Chicago, IL",0.0,0.0,0.0,0.0,0.0,42.0
+JetBlue Airways,2023-01-11,87.0,458,"Burbank, CA",0.0,22.0,0.0,0.0,0.0,65.0
+SkyWest Airlines Inc.,2023-01-11,-12.0,5321,"New Orleans, LA",0.0,,,,,
+Frontier Airlines Inc.,2023-01-11,149.0,1299,"Newburgh/Poughkeepsie, NY",0.0,0.0,0.0,0.0,0.0,149.0
+SkyWest Airlines Inc.,2023-01-11,45.0,3506,"Raleigh/Durham, NC",0.0,0.0,0.0,0.0,45.0,0.0
+Envoy Air,2023-01-12,50.0,3729,"Columbus, OH",0.0,5.0,0.0,34.0,0.0,11.0
+SkyWest Airlines Inc.,2023-01-12,0.0,5437,"Fayetteville, AR",0.0,0.0,76.0,0.0,0.0,0.0
+Spirit Air Lines,2023-01-12,-23.0,1039,"San Antonio, TX",0.0,0.0,0.0,57.0,0.0,0.0
+SkyWest Airlines Inc.,2023-01-12,-6.0,3657,"Providence, RI",0.0,15.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-01-12,-20.0,5303,"Sioux Falls, SD",0.0,,,,,
+Envoy Air,2023-01-12,-9.0,3587,"Harlingen/San Benito, TX",0.0,0.0,0.0,0.0,0.0,93.0
+PSA Airlines Inc.,2023-01-12,-15.0,5663,"Burlington, VT",0.0,0.0,0.0,56.0,0.0,0.0
+SkyWest Airlines Inc.,2023-01-12,-17.0,5038,"Pueblo, CO",0.0,,,,,
+Southwest Airlines Co.,2023-01-13,-16.0,1628,"Houston, TX",0.0,17.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-01-13,-18.0,1383,"Jacksonville, FL",0.0,12.0,0.0,0.0,0.0,135.0
+Southwest Airlines Co.,2023-01-13,58.0,845,"Oakland, CA",0.0,49.0,0.0,0.0,0.0,9.0
+JetBlue Airways,2023-01-13,-8.0,2835,"San Francisco, CA",0.0,30.0,0.0,0.0,0.0,31.0
+Frontier Airlines Inc.,2023-01-13,14.0,2786,"Seattle, WA",0.0,15.0,0.0,0.0,0.0,134.0
+SkyWest Airlines Inc.,2023-01-13,-1.0,5290,"Charleston/Dunbar, WV",0.0,0.0,228.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-01-13,-13.0,1251,"Portland, ME",0.0,0.0,0.0,18.0,0.0,0.0
+Frontier Airlines Inc.,2023-01-13,-35.0,539,"Washington, DC",0.0,0.0,0.0,43.0,0.0,0.0
+Envoy Air,2023-01-13,45.0,3492,"Grand Rapids, MI",0.0,7.0,0.0,0.0,0.0,38.0
+Envoy Air,2023-01-13,-10.0,4004,"Monterey, CA",0.0,15.0,0.0,0.0,0.0,42.0
+Endeavor Air Inc.,2023-01-13,15.0,4695,"Omaha, NE",0.0,0.0,0.0,15.0,0.0,0.0
+Envoy Air,2023-01-14,-17.0,3485,"Corpus Christi, TX",0.0,0.0,0.0,35.0,0.0,29.0
+SkyWest Airlines Inc.,2023-01-14,-6.0,4935,"Beaumont/Port Arthur, TX",0.0,33.0,0.0,0.0,0.0,0.0
+Hawaiian Airlines Inc.,2023-01-14,-4.0,21,"Seattle, WA",0.0,0.0,1.0,20.0,0.0,0.0
+Endeavor Air Inc.,2023-01-15,-29.0,5264,"Grand Forks, ND",0.0,,,,,
+Republic Airline,2023-01-15,3.0,3549,"Milwaukee, WI",0.0,0.0,0.0,13.0,0.0,5.0
+United Air Lines Inc.,2023-01-15,-14.0,2410,"Fresno, CA",0.0,34.0,0.0,2.0,0.0,69.0
+Hawaiian Airlines Inc.,2023-01-15,6.0,59,"Sacramento, CA",0.0,30.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-01-15,-29.0,4814,"Harrisburg, PA",0.0,0.0,0.0,22.0,0.0,55.0
+PSA Airlines Inc.,2023-01-15,-10.0,5387,"New Orleans, LA",0.0,3.0,0.0,20.0,0.0,19.0
+Allegiant Air,2023-01-15,4.0,82,"Laredo, TX",0.0,32.0,0.0,7.0,0.0,17.0
+Envoy Air,2023-01-15,0.0,3601,"Kalamazoo, MI",0.0,0.0,3.0,14.0,0.0,62.0
+Endeavor Air Inc.,2023-01-15,-6.0,4879,"Gulfport/Biloxi, MS",0.0,,,,,
+SkyWest Airlines Inc.,2023-01-16,2.0,5762,"Denver, CO",0.0,0.0,276.0,0.0,0.0,0.0
+Envoy Air,2023-01-16,-5.0,3819,"New Orleans, LA",0.0,0.0,0.0,0.0,0.0,116.0
+Alaska Airlines Inc.,2023-01-16,-26.0,61,"Yakutat, AK",0.0,24.0,0.0,0.0,0.0,35.0
+Alaska Airlines Inc.,2023-01-16,-6.0,176,"Juneau, AK",0.0,0.0,2.0,0.0,0.0,21.0
+Frontier Airlines Inc.,2023-01-16,-8.0,2424,"Fort Myers, FL",0.0,0.0,0.0,2.0,0.0,108.0
+PSA Airlines Inc.,2023-01-16,-5.0,5577,"Greenville, NC",0.0,63.0,0.0,0.0,0.0,0.0
+JetBlue Airways,2023-01-16,89.0,1285,"Rochester, NY",0.0,0.0,0.0,0.0,0.0,89.0
+Spirit Air Lines,2023-01-16,-7.0,744,"San Diego, CA",0.0,0.0,0.0,4.0,0.0,11.0
+PSA Airlines Inc.,2023-01-16,13.0,5406,"Minneapolis, MN",0.0,1.0,0.0,38.0,0.0,4.0
+Allegiant Air,2023-01-16,-10.0,1172,"Savannah, GA",0.0,63.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-01-16,-37.0,5052,"Allentown/Bethlehem/Easton, PA",0.0,13.0,0.0,2.0,0.0,0.0
+Envoy Air,2023-01-16,-28.0,3694,"Flint, MI",0.0,5.0,0.0,27.0,0.0,3.0
+Delta Air Lines Inc.,2023-01-17,-6.0,2155,"Spokane, WA",0.0,0.0,0.0,0.0,0.0,214.0
+United Air Lines Inc.,2023-01-17,-26.0,1299,"Santa Barbara, CA",0.0,0.0,0.0,0.0,0.0,17.0
+American Airlines Inc.,2023-01-17,-3.0,401,"Cedar Rapids/Iowa City, IA",0.0,0.0,0.0,0.0,0.0,21.0
+Endeavor Air Inc.,2023-01-17,-12.0,4954,"Norfolk, VA",0.0,158.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-01-17,106.0,3581,"Peoria, IL",0.0,106.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-01-17,-17.0,3368,"Appleton, WI",0.0,0.0,0.0,2.0,0.0,59.0
+Endeavor Air Inc.,2023-01-17,-23.0,4815,"Fayetteville, AR",0.0,0.0,0.0,37.0,0.0,0.0
+SkyWest Airlines Inc.,2023-01-18,-2.0,5040,"Sioux City, IA",0.0,0.0,0.0,107.0,0.0,0.0
+Spirit Air Lines,2023-01-18,-3.0,1101,"Charlotte, NC",0.0,0.0,0.0,137.0,0.0,0.0
+Allegiant Air,2023-01-18,-21.0,2953,"Moline, IL",0.0,8.0,0.0,0.0,0.0,10.0
+SkyWest Airlines Inc.,2023-01-18,-6.0,5515,"Greer, SC",1.0,91.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-01-18,-1.0,5278,"Indianapolis, IN",0.0,0.0,0.0,59.0,0.0,150.0
+SkyWest Airlines Inc.,2023-01-18,-4.0,3114,"Grand Junction, CO",0.0,0.0,0.0,0.0,0.0,125.0
+Frontier Airlines Inc.,2023-01-18,-15.0,2196,"Oakland, CA",0.0,0.0,0.0,0.0,0.0,75.0
+Envoy Air,2023-01-18,-26.0,3351,"Rochester, NY",0.0,24.0,0.0,0.0,0.0,41.0
+Endeavor Air Inc.,2023-01-18,-20.0,4743,"White Plains, NY",0.0,0.0,0.0,0.0,0.0,112.0
+SkyWest Airlines Inc.,2023-01-18,-23.0,4167,"Gainesville, FL",0.0,,,,,
+Spirit Air Lines,2023-01-19,19.0,169,"Minneapolis, MN",0.0,0.0,0.0,19.0,0.0,0.0
+Republic Airline,2023-01-19,22.0,3473,"State College, PA",0.0,5.0,0.0,0.0,0.0,17.0
+Allegiant Air,2023-01-19,-25.0,1215,"Akron, OH",0.0,12.0,0.0,0.0,0.0,50.0
+Spirit Air Lines,2023-01-19,-5.0,250,"Hartford, CT",0.0,0.0,0.0,0.0,0.0,180.0
+United Air Lines Inc.,2023-01-19,-5.0,716,"Burbank, CA",0.0,8.0,0.0,12.0,0.0,0.0
+JetBlue Airways,2023-01-19,-35.0,610,"Dallas/Fort Worth, TX",0.0,0.0,0.0,32.0,0.0,0.0
+JetBlue Airways,2023-01-19,-17.0,836,"Minneapolis, MN",0.0,27.0,0.0,0.0,0.0,22.0
+PSA Airlines Inc.,2023-01-19,-15.0,5602,"Ashland, WV",0.0,,,,,
+Envoy Air,2023-01-20,-21.0,3577,"Champaign/Urbana, IL",0.0,15.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-01-20,-3.0,5137,"Charlotte, NC",0.0,697.0,0.0,27.0,0.0,72.0
+Frontier Airlines Inc.,2023-01-20,75.0,2169,"Las Vegas, NV",0.0,7.0,0.0,0.0,0.0,68.0
+United Air Lines Inc.,2023-01-20,-6.0,466,"Lihue, HI",0.0,1409.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-01-20,-7.0,5805,"Norfolk, VA",0.0,130.0,0.0,28.0,0.0,0.0
+United Air Lines Inc.,2023-01-20,14.0,2644,"Reno, NV",0.0,14.0,0.0,5.0,0.0,0.0
+United Air Lines Inc.,2023-01-20,-40.0,694,"Kansas City, MO",0.0,0.0,0.0,79.0,0.0,0.0
+Alaska Airlines Inc.,2023-01-20,-14.0,1005,"Spokane, WA",0.0,0.0,0.0,26.0,0.0,0.0
+American Airlines Inc.,2023-01-20,11.0,569,"Grand Rapids, MI",0.0,86.0,0.0,0.0,0.0,134.0
+Endeavor Air Inc.,2023-01-20,-10.0,5166,"Lexington, KY",0.0,0.0,0.0,39.0,0.0,16.0
+Frontier Airlines Inc.,2023-01-20,-17.0,1982,"Burbank, CA",0.0,,,,,
+SkyWest Airlines Inc.,2023-01-20,22.0,3967,"Elmira/Corning, NY",0.0,0.0,22.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-01-20,-33.0,4066,"Syracuse, NY",0.0,0.0,0.0,0.0,0.0,28.0
+Delta Air Lines Inc.,2023-01-21,-9.0,1015,"Orlando, FL",0.0,0.0,0.0,33.0,0.0,0.0
+Southwest Airlines Co.,2023-01-21,-11.0,3113,"Reno, NV",0.0,1.0,0.0,62.0,0.0,22.0
+Delta Air Lines Inc.,2023-01-21,5.0,2185,"Pittsburgh, PA",0.0,0.0,0.0,26.0,0.0,0.0
+Alaska Airlines Inc.,2023-01-21,-27.0,796,"Salt Lake City, UT",0.0,0.0,0.0,18.0,0.0,0.0
+Allegiant Air,2023-01-21,25.0,2329,"Grand Forks, ND",0.0,0.0,1.0,0.0,0.0,24.0
+United Air Lines Inc.,2023-01-21,-6.0,769,"Hartford, CT",0.0,0.0,0.0,0.0,0.0,22.0
+PSA Airlines Inc.,2023-01-21,5.0,5643,"Columbus, OH",0.0,0.0,0.0,16.0,0.0,0.0
+Republic Airline,2023-01-21,-11.0,4410,"Tampa, FL",0.0,0.0,0.0,585.0,0.0,0.0
+Envoy Air,2023-01-21,20.0,3423,"Norfolk, VA",0.0,0.0,0.0,20.0,0.0,0.0
+Delta Air Lines Inc.,2023-01-22,-6.0,1719,"Phoenix, AZ",0.0,0.0,0.0,0.0,0.0,22.0
+SkyWest Airlines Inc.,2023-01-22,-15.0,3720,"Seattle, WA",0.0,0.0,0.0,0.0,0.0,29.0
+Allegiant Air,2023-01-22,80.0,2537,"Richmond, VA",0.0,0.0,0.0,0.0,0.0,80.0
+Allegiant Air,2023-01-22,-18.0,946,"St. Cloud, MN",0.0,0.0,0.0,186.0,0.0,0.0
+Allegiant Air,2023-01-23,-11.0,8,"Stockton, CA",0.0,111.0,0.0,9.0,0.0,126.0
+SkyWest Airlines Inc.,2023-01-23,11.0,4786,"Wichita, KS",0.0,127.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-01-23,-21.0,4732,"Providence, RI",0.0,0.0,0.0,18.0,0.0,0.0
+Alaska Airlines Inc.,2023-01-23,-26.0,388,"St. Louis, MO",0.0,3.0,0.0,4.0,0.0,10.0
+Delta Air Lines Inc.,2023-01-23,-10.0,726,"Kahului, HI",0.0,0.0,0.0,32.0,0.0,281.0
+JetBlue Airways,2023-01-23,20.0,36,"Phoenix, AZ",0.0,20.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-01-23,7.0,3555,"Milwaukee, WI",0.0,0.0,0.0,27.0,0.0,92.0
+SkyWest Airlines Inc.,2023-01-24,-7.0,4792,"Jacksonville, FL",0.0,65.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-01-24,-29.0,478,"Greer, SC",0.0,0.0,0.0,0.0,0.0,68.0
+American Airlines Inc.,2023-01-24,-9.0,1553,"Tulsa, OK",0.0,0.0,0.0,0.0,0.0,676.0
+Frontier Airlines Inc.,2023-01-24,10.0,2647,"Providence, RI",0.0,8.0,0.0,34.0,0.0,2.0
+Spirit Air Lines,2023-01-25,-18.0,2513,"Boise, ID",0.0,9.0,0.0,345.0,0.0,0.0
+PSA Airlines Inc.,2023-01-25,168.0,5134,"Columbia, SC",0.0,0.0,0.0,50.0,0.0,118.0
+Alaska Airlines Inc.,2023-01-25,-20.0,834,"Honolulu, HI",0.0,12.0,0.0,0.0,0.0,177.0
+Envoy Air,2023-01-25,14.0,3432,"Cedar Rapids/Iowa City, IA",0.0,0.0,0.0,15.0,0.0,0.0
+American Airlines Inc.,2023-01-25,-18.0,575,"Ontario, CA",0.0,51.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-01-25,-7.0,3621,"Grand Rapids, MI",0.0,0.0,0.0,16.0,0.0,0.0
+American Airlines Inc.,2023-01-25,8.0,2862,"Wichita, KS",0.0,260.0,0.0,4.0,0.0,0.0
+SkyWest Airlines Inc.,2023-01-25,68.0,4809,"Lubbock, TX",0.0,0.0,0.0,0.0,0.0,68.0
+Delta Air Lines Inc.,2023-01-25,14.0,2194,"Cedar Rapids/Iowa City, IA",0.0,10.0,0.0,18.0,0.0,0.0
+Frontier Airlines Inc.,2023-01-25,-30.0,2059,"Omaha, NE",0.0,11.0,0.0,0.0,0.0,172.0
+Endeavor Air Inc.,2023-01-25,59.0,4891,"Louisville, KY",0.0,0.0,0.0,0.0,0.0,59.0
+Delta Air Lines Inc.,2023-01-26,127.0,2316,"Detroit, MI",0.0,112.0,0.0,15.0,0.0,0.0
+United Air Lines Inc.,2023-01-26,-17.0,751,"Atlanta, GA",0.0,6.0,0.0,0.0,0.0,12.0
+Southwest Airlines Co.,2023-01-26,6.0,616,"Charlotte, NC",0.0,7.0,0.0,32.0,0.0,38.0
+SkyWest Airlines Inc.,2023-01-26,59.0,5104,"Devils Lake, ND",1.0,0.0,0.0,59.0,0.0,0.0
+Republic Airline,2023-01-26,-11.0,3410,"Harrisburg, PA",0.0,8.0,0.0,11.0,0.0,0.0
+Allegiant Air,2023-01-26,-16.0,238,"Key West, FL",0.0,0.0,0.0,25.0,0.0,1.0
+SkyWest Airlines Inc.,2023-01-26,25.0,3063,"La Crosse, WI",0.0,0.0,0.0,0.0,0.0,25.0
+United Air Lines Inc.,2023-01-27,-14.0,1131,"Denver, CO",0.0,10.0,0.0,0.0,0.0,32.0
+Delta Air Lines Inc.,2023-01-27,-8.0,522,"Honolulu, HI",0.0,49.0,0.0,11.0,0.0,0.0
+Delta Air Lines Inc.,2023-01-27,-20.0,1132,"West Palm Beach/Palm Beach, FL",0.0,0.0,0.0,54.0,0.0,0.0
+Southwest Airlines Co.,2023-01-27,-5.0,1253,"Kona, HI",0.0,0.0,0.0,0.0,0.0,17.0
+Envoy Air,2023-01-27,6.0,3412,"Atlanta, GA",0.0,33.0,0.0,8.0,0.0,52.0
+SkyWest Airlines Inc.,2023-01-27,-24.0,4082,"Spokane, WA",0.0,0.0,17.0,0.0,0.0,0.0
+Alaska Airlines Inc.,2023-01-28,11.0,334,"Atlanta, GA",0.0,79.0,0.0,27.0,0.0,0.0
+Southwest Airlines Co.,2023-01-28,1.0,2893,"Palm Springs, CA",0.0,0.0,0.0,1.0,0.0,58.0
+American Airlines Inc.,2023-01-28,-3.0,2663,"Key West, FL",0.0,0.0,0.0,0.0,0.0,17.0
+PSA Airlines Inc.,2023-01-28,-18.0,5359,"Jackson/Vicksburg, MS",0.0,1.0,0.0,0.0,0.0,35.0
+Envoy Air,2023-01-28,25.0,4087,"Des Moines, IA",0.0,1.0,0.0,24.0,0.0,0.0
+SkyWest Airlines Inc.,2023-01-28,-10.0,4232,"Hibbing, MN",0.0,109.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-01-28,-14.0,3831,"Albany, NY",0.0,0.0,32.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-01-29,-17.0,2576,"Tampa, FL",0.0,12.0,0.0,0.0,0.0,44.0
+American Airlines Inc.,2023-01-29,-12.0,706,"Fort Myers, FL",0.0,0.0,0.0,8.0,0.0,42.0
+Alaska Airlines Inc.,2023-01-29,-20.0,721,"Reno, NV",0.0,4.0,0.0,1.0,0.0,28.0
+SkyWest Airlines Inc.,2023-01-29,30.0,5427,"Billings, MT",0.0,0.0,0.0,0.0,0.0,30.0
+Allegiant Air,2023-01-29,96.0,1988,"New Orleans, LA",0.0,65.0,0.0,31.0,0.0,0.0
+Spirit Air Lines,2023-01-30,280.0,867,"Dallas/Fort Worth, TX",0.0,0.0,8.0,57.0,0.0,215.0
+Hawaiian Airlines Inc.,2023-01-30,2.0,68,"Lihue, HI",0.0,48.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-01-30,-26.0,2592,"El Paso, TX",0.0,5.0,0.0,0.0,0.0,18.0
+Southwest Airlines Co.,2023-01-30,-10.0,2549,"Savannah, GA",0.0,0.0,0.0,10.0,0.0,13.0
+Delta Air Lines Inc.,2023-01-30,-16.0,2096,"Milwaukee, WI",0.0,0.0,0.0,26.0,0.0,0.0
+JetBlue Airways,2023-01-30,46.0,87,"Albany, NY",0.0,3.0,0.0,43.0,0.0,0.0
+Envoy Air,2023-01-30,49.0,4006,"Dayton, OH",0.0,0.0,0.0,17.0,0.0,32.0
+American Airlines Inc.,2023-01-31,-21.0,2981,"Jacksonville, FL",0.0,14.0,0.0,4.0,0.0,368.0
+Hawaiian Airlines Inc.,2023-01-31,55.0,51,"New York, NY",0.0,0.0,55.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-01-31,-22.0,1817,"Santa Barbara, CA",0.0,1.0,0.0,0.0,0.0,16.0
+Endeavor Air Inc.,2023-01-31,-19.0,4795,"Huntsville, AL",0.0,0.0,0.0,1.0,0.0,40.0
+Southwest Airlines Co.,2023-02-01,10.0,1854,"Denver, CO",0.0,7.0,0.0,27.0,0.0,0.0
+Envoy Air,2023-02-01,-9.0,3496,"Lubbock, TX",1.0,0.0,16.0,32.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-01,-34.0,5188,"Hattiesburg/Laurel, MS",0.0,0.0,162.0,0.0,0.0,0.0
+American Airlines Inc.,2023-02-01,1741.0,1009,"San Luis Obispo, CA",1.0,1732.0,0.0,9.0,0.0,0.0
+American Airlines Inc.,2023-02-01,4.0,1314,"Birmingham, AL",1.0,0.0,19.0,0.0,0.0,0.0
+Envoy Air,2023-02-01,33.0,3790,"Hartford, CT",0.0,0.0,0.0,7.0,0.0,26.0
+Envoy Air,2023-02-01,7.0,3564,"Waterloo, IA",0.0,,,,,
+United Air Lines Inc.,2023-02-01,-25.0,522,"Hayden, CO",0.0,0.0,0.0,17.0,0.0,0.0
+Southwest Airlines Co.,2023-02-02,-17.0,1449,"Salt Lake City, UT",0.0,20.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-02-02,24.0,1770,"New York, NY",0.0,0.0,0.0,24.0,0.0,0.0
+United Air Lines Inc.,2023-02-02,31.0,1660,"Midland/Odessa, TX",0.0,0.0,0.0,31.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-02,16.0,5077,"Hays, KS",0.0,16.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-02-02,16.0,3601,"Jacksonville, FL",0.0,0.0,0.0,16.0,0.0,0.0
+Delta Air Lines Inc.,2023-02-02,-14.0,2895,"Kansas City, MO",0.0,394.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-02-02,-10.0,5019,"Harrisburg, PA",0.0,110.0,0.0,34.0,0.0,48.0
+American Airlines Inc.,2023-02-02,4.0,530,"Syracuse, NY",0.0,231.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-02,-20.0,4284,"International Falls, MN",0.0,18.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-02-03,-7.0,1292,"Fort Myers, FL",0.0,0.0,0.0,43.0,0.0,0.0
+American Airlines Inc.,2023-02-03,-11.0,2455,"New Orleans, LA",0.0,4.0,0.0,0.0,0.0,23.0
+Southwest Airlines Co.,2023-02-03,-30.0,1775,"Philadelphia, PA",0.0,0.0,0.0,0.0,0.0,16.0
+Spirit Air Lines,2023-02-03,-12.0,1191,"Tampa, FL",0.0,7.0,0.0,73.0,0.0,0.0
+Envoy Air,2023-02-03,-2.0,4232,"Austin, TX",0.0,2.0,0.0,0.0,0.0,125.0
+American Airlines Inc.,2023-02-03,-4.0,1486,"Daytona Beach, FL",0.0,0.0,0.0,28.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-03,0.0,4917,"College Station/Bryan, TX",0.0,0.0,189.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-03,13.0,3963,"Augusta, GA",0.0,64.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-02-03,11.0,4373,"Chattanooga, TN",0.0,0.0,0.0,64.0,0.0,0.0
+Hawaiian Airlines Inc.,2023-02-04,10.0,119,"Hilo, HI",0.0,0.0,0.0,24.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-04,0.0,3939,"Asheville, NC",0.0,0.0,0.0,103.0,0.0,0.0
+Alaska Airlines Inc.,2023-02-04,-22.0,739,"Phoenix, AZ",0.0,0.0,0.0,0.0,0.0,24.0
+SkyWest Airlines Inc.,2023-02-04,-16.0,5368,"Kansas City, MO",0.0,27.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-02-04,21.0,1049,"Evansville, IN",0.0,0.0,0.0,21.0,0.0,0.0
+American Airlines Inc.,2023-02-05,-19.0,1953,"Santa Ana, CA",0.0,72.0,0.0,0.0,0.0,24.0
+Southwest Airlines Co.,2023-02-05,-8.0,101,"Providence, RI",0.0,0.0,0.0,27.0,0.0,0.0
+Alaska Airlines Inc.,2023-02-05,1.0,1329,"Oakland, CA",0.0,0.0,0.0,0.0,0.0,40.0
+Spirit Air Lines,2023-02-05,102.0,2907,"Santa Ana, CA",0.0,0.0,0.0,80.0,0.0,22.0
+United Air Lines Inc.,2023-02-06,-13.0,369,"Boston, MA",0.0,198.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-02-06,-29.0,2087,"Tucson, AZ",0.0,0.0,0.0,119.0,0.0,34.0
+Alaska Airlines Inc.,2023-02-06,29.0,64,"Petersburg, AK",0.0,0.0,0.0,0.0,0.0,29.0
+Frontier Airlines Inc.,2023-02-06,-2.0,641,"Pensacola, FL",0.0,0.0,0.0,9.0,0.0,50.0
+JetBlue Airways,2023-02-06,-20.0,2064,"Key West, FL",0.0,18.0,0.0,21.0,0.0,17.0
+Envoy Air,2023-02-06,14.0,3624,"La Crosse, WI",0.0,0.0,0.0,58.0,0.0,0.0
+Republic Airline,2023-02-07,-15.0,4648,"Washington, DC",0.0,0.0,0.0,20.0,0.0,0.0
+Spirit Air Lines,2023-02-07,-20.0,1903,"Raleigh/Durham, NC",0.0,0.0,0.0,50.0,0.0,0.0
+Delta Air Lines Inc.,2023-02-07,-10.0,2905,"San Jose, CA",0.0,0.0,0.0,15.0,0.0,0.0
+Envoy Air,2023-02-07,-13.0,3538,"Jackson/Vicksburg, MS",0.0,0.0,22.0,0.0,0.0,0.0
+Envoy Air,2023-02-07,-30.0,3658,"Lansing, MI",0.0,4.0,0.0,0.0,0.0,14.0
+Envoy Air,2023-02-08,-19.0,3617,"Miami, FL",0.0,0.0,0.0,22.0,0.0,2.0
+United Air Lines Inc.,2023-02-08,92.0,1216,"Eugene, OR",0.0,0.0,0.0,0.0,0.0,92.0
+Southwest Airlines Co.,2023-02-09,-20.0,1549,"Baltimore, MD",0.0,5.0,0.0,0.0,0.0,18.0
+SkyWest Airlines Inc.,2023-02-09,57.0,3760,"Cedar Rapids/Iowa City, IA",0.0,57.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-09,-2.0,3731,"Grand Rapids, MI",0.0,0.0,0.0,0.0,0.0,43.0
+American Airlines Inc.,2023-02-09,6.0,2376,"Detroit, MI",0.0,1.0,0.0,0.0,0.0,14.0
+Envoy Air,2023-02-09,-10.0,3447,"Baton Rouge, LA",0.0,0.0,0.0,2.0,0.0,14.0
+Alaska Airlines Inc.,2023-02-09,8.0,1103,"Boise, ID",0.0,25.0,0.0,1.0,0.0,0.0
+PSA Airlines Inc.,2023-02-09,-7.0,5317,"Pittsburgh, PA",0.0,0.0,0.0,0.0,0.0,41.0
+Envoy Air,2023-02-09,-21.0,3433,"Manhattan/Ft. Riley, KS",0.0,0.0,0.0,0.0,0.0,25.0
+Endeavor Air Inc.,2023-02-09,-23.0,4709,"Jacksonville/Camp Lejeune, NC",0.0,,,,,
+United Air Lines Inc.,2023-02-10,-3.0,2163,"Tampa, FL",0.0,22.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-02-10,16.0,2479,"Las Vegas, NV",0.0,16.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-02-10,33.0,290,"Austin, TX",0.0,4.0,0.0,0.0,0.0,29.0
+SkyWest Airlines Inc.,2023-02-10,-28.0,5449,"South Bend, IN",0.0,34.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-02-10,-27.0,2109,"Norfolk, VA",0.0,0.0,0.0,186.0,0.0,0.0
+United Air Lines Inc.,2023-02-10,10.0,2441,"Palm Springs, CA",0.0,6.0,0.0,0.0,0.0,224.0
+Delta Air Lines Inc.,2023-02-10,-2.0,2392,"Gainesville, FL",0.0,0.0,0.0,29.0,0.0,0.0
+Endeavor Air Inc.,2023-02-11,-20.0,5088,"Indianapolis, IN",0.0,0.0,0.0,186.0,0.0,0.0
+Endeavor Air Inc.,2023-02-11,-24.0,4650,"Knoxville, TN",0.0,26.0,0.0,0.0,0.0,0.0
+Hawaiian Airlines Inc.,2023-02-11,-10.0,47,"Oakland, CA",0.0,26.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-02-11,-7.0,2500,"Eagle, CO",0.0,0.0,0.0,4.0,0.0,74.0
+Frontier Airlines Inc.,2023-02-11,0.0,2092,"Sacramento, CA",0.0,0.0,0.0,16.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-11,2.0,5609,"Jackson/Vicksburg, MS",0.0,55.0,0.0,0.0,0.0,0.0
+Spirit Air Lines,2023-02-12,-11.0,590,"Houston, TX",0.0,32.0,0.0,4.0,0.0,1.0
+Southwest Airlines Co.,2023-02-12,-22.0,2160,"Orlando, FL",0.0,0.0,0.0,20.0,0.0,0.0
+PSA Airlines Inc.,2023-02-12,117.0,5267,"Milwaukee, WI",0.0,111.0,0.0,0.0,0.0,6.0
+Frontier Airlines Inc.,2023-02-12,34.0,2007,"Austin, TX",0.0,34.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-02-12,-34.0,1187,"Portland, ME",0.0,7.0,0.0,16.0,0.0,0.0
+American Airlines Inc.,2023-02-13,-28.0,1701,"San Juan, PR",0.0,44.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-02-13,-2.0,2668,"Omaha, NE",0.0,19.0,0.0,9.0,0.0,30.0
+Southwest Airlines Co.,2023-02-13,-10.0,2884,"Tulsa, OK",0.0,5.0,0.0,0.0,0.0,39.0
+Envoy Air,2023-02-13,0.0,3402,"Hilton Head, SC",0.0,9.0,0.0,14.0,0.0,114.0
+Hawaiian Airlines Inc.,2023-02-13,15.0,31,"Las Vegas, NV",0.0,15.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-02-13,-36.0,4737,"Marquette, MI",0.0,157.0,0.0,0.0,0.0,96.0
+SkyWest Airlines Inc.,2023-02-13,7.0,3827,"Wilmington, NC",0.0,,,,,
+Republic Airline,2023-02-14,-11.0,3464,"Chicago, IL",0.0,0.0,0.0,29.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-14,6.0,4641,"Scranton/Wilkes-Barre, PA",0.0,19.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-14,-11.0,3955,"Atlanta, GA",0.0,634.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-02-14,-25.0,5110,"Charleston/Dunbar, WV",0.0,,,,,
+SkyWest Airlines Inc.,2023-02-14,-25.0,3782,"Mobile, AL",0.0,502.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-02-14,-2.0,5802,"Charleston, SC",0.0,0.0,0.0,24.0,0.0,0.0
+Endeavor Air Inc.,2023-02-15,-25.0,4641,"Bangor, ME",0.0,0.0,0.0,0.0,0.0,40.0
+Delta Air Lines Inc.,2023-02-15,-30.0,1309,"St. Louis, MO",0.0,0.0,0.0,21.0,0.0,0.0
+Frontier Airlines Inc.,2023-02-15,-10.0,572,"Salt Lake City, UT",0.0,44.0,0.0,36.0,0.0,0.0
+Allegiant Air,2023-02-15,-8.0,183,"Allentown/Bethlehem/Easton, PA",0.0,0.0,0.0,39.0,0.0,0.0
+PSA Airlines Inc.,2023-02-15,-25.0,5409,"Chattanooga, TN",0.0,0.0,0.0,39.0,0.0,0.0
+American Airlines Inc.,2023-02-15,-4.0,1203,"Buffalo, NY",0.0,0.0,0.0,0.0,0.0,33.0
+Hawaiian Airlines Inc.,2023-02-15,284.0,79,"Ontario, CA",0.0,284.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-02-16,89.0,2067,"Kansas City, MO",0.0,0.0,53.0,36.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-16,-1.0,3764,"Medford, OR",0.0,45.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-02-16,-7.0,536,"Cleveland, OH",1.0,4.0,0.0,0.0,0.0,18.0
+Southwest Airlines Co.,2023-02-16,5.0,2402,"Spokane, WA",0.0,0.0,0.0,77.0,0.0,18.0
+SkyWest Airlines Inc.,2023-02-16,-16.0,3030,"Albuquerque, NM",0.0,38.0,0.0,0.0,0.0,0.0
+Spirit Air Lines,2023-02-16,26.0,252,"Milwaukee, WI",0.0,0.0,0.0,26.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-16,337.0,5636,"Little Rock, AR",0.0,0.0,337.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-02-16,16.0,2688,"Traverse City, MI",0.0,16.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-02-16,34.0,567,"Kansas City, MO",0.0,16.0,0.0,18.0,0.0,0.0
+Frontier Airlines Inc.,2023-02-16,-30.0,675,"Norfolk, VA",0.0,0.0,0.0,59.0,0.0,31.0
+Southwest Airlines Co.,2023-02-17,4.0,760,"Buffalo, NY",0.0,2.0,0.0,0.0,0.0,43.0
+Southwest Airlines Co.,2023-02-17,-21.0,1583,"Fort Myers, FL",0.0,8.0,0.0,28.0,0.0,0.0
+Endeavor Air Inc.,2023-02-17,5.0,4735,"Milwaukee, WI",0.0,0.0,0.0,28.0,0.0,0.0
+PSA Airlines Inc.,2023-02-18,17.0,5247,"Des Moines, IA",0.0,0.0,0.0,0.0,0.0,17.0
+United Air Lines Inc.,2023-02-18,-6.0,1009,"Detroit, MI",0.0,8.0,0.0,15.0,0.0,0.0
+American Airlines Inc.,2023-02-18,-15.0,2955,"Jackson, WY",0.0,0.0,0.0,20.0,0.0,0.0
+Republic Airline,2023-02-18,-7.0,3622,"San Antonio, TX",0.0,,,,,
+Envoy Air,2023-02-19,-8.0,3638,"Cincinnati, OH",0.0,0.0,14.0,4.0,0.0,0.0
+Envoy Air,2023-02-19,41.0,3543,"Santa Fe, NM",0.0,0.0,12.0,29.0,0.0,0.0
+Republic Airline,2023-02-19,-12.0,5602,"Baltimore, MD",0.0,0.0,0.0,45.0,0.0,0.0
+United Air Lines Inc.,2023-02-19,-6.0,1953,"Syracuse, NY",0.0,0.0,0.0,72.0,0.0,0.0
+American Airlines Inc.,2023-02-20,-10.0,2193,"Tucson, AZ",0.0,0.0,0.0,0.0,0.0,268.0
+SkyWest Airlines Inc.,2023-02-20,0.0,3072,"Sacramento, CA",0.0,0.0,0.0,0.0,24.0,0.0
+Southwest Airlines Co.,2023-02-20,4.0,2156,"Myrtle Beach, SC",0.0,1.0,0.0,0.0,0.0,15.0
+Allegiant Air,2023-02-20,19.0,530,"Plattsburgh, NY",0.0,0.0,0.0,2.0,0.0,17.0
+Allegiant Air,2023-02-20,14.0,277,"Oakland, CA",0.0,23.0,0.0,0.0,0.0,70.0
+Endeavor Air Inc.,2023-02-21,-15.0,4808,"Asheville, NC",0.0,0.0,0.0,79.0,0.0,0.0
+Spirit Air Lines,2023-02-21,-3.0,212,"Charlotte Amalie, VI",0.0,45.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-02-21,-4.0,1289,"Charleston, SC",0.0,0.0,0.0,15.0,0.0,0.0
+Alaska Airlines Inc.,2023-02-21,-33.0,873,"Kona, HI",0.0,0.0,0.0,0.0,0.0,16.0
+SkyWest Airlines Inc.,2023-02-21,-15.0,5044,"Meridian, MS",0.0,81.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-21,-20.0,3714,"Long Beach, CA",1.0,16.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-02-21,44.0,1663,"Fayetteville, AR",0.0,20.0,0.0,0.0,0.0,24.0
+Alaska Airlines Inc.,2023-02-21,13.0,832,"Lihue, HI",0.0,0.0,0.0,0.0,0.0,48.0
+JetBlue Airways,2023-02-21,-2.0,1882,"Houston, TX",0.0,21.0,0.0,0.0,0.0,382.0
+Republic Airline,2023-02-22,-17.0,4804,"Oklahoma City, OK",0.0,0.0,0.0,25.0,0.0,0.0
+United Air Lines Inc.,2023-02-22,98.0,1584,"Salt Lake City, UT",0.0,28.0,0.0,30.0,0.0,40.0
+Allegiant Air,2023-02-22,24.0,582,"Grand Rapids, MI",0.0,0.0,0.0,24.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-22,1.0,5005,"Grand Island, NE",0.0,17.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-22,19.0,5571,"Santa Barbara, CA",0.0,19.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-02-23,-20.0,5519,"Tulsa, OK",0.0,12.0,0.0,0.0,0.0,6.0
+American Airlines Inc.,2023-02-23,-3.0,2046,"San Jose, CA",0.0,0.0,0.0,19.0,0.0,0.0
+Allegiant Air,2023-02-23,60.0,669,"Idaho Falls, ID",0.0,9.0,0.0,21.0,0.0,30.0
+Hawaiian Airlines Inc.,2023-02-24,-1.0,347,"Kona, HI",0.0,13.0,0.0,0.0,0.0,18.0
+Southwest Airlines Co.,2023-02-24,42.0,241,"New Orleans, LA",0.0,10.0,0.0,0.0,0.0,32.0
+Endeavor Air Inc.,2023-02-24,44.0,4700,"State College, PA",0.0,0.0,0.0,44.0,0.0,0.0
+PSA Airlines Inc.,2023-02-24,-5.0,5140,"Nashville, TN",0.0,1.0,0.0,54.0,0.0,21.0
+Endeavor Air Inc.,2023-02-24,-15.0,4919,"Brunswick, GA",0.0,0.0,0.0,0.0,0.0,67.0
+American Airlines Inc.,2023-02-24,1.0,2404,"Palm Springs, CA",0.0,0.0,0.0,0.0,0.0,103.0
+PSA Airlines Inc.,2023-02-24,88.0,5581,"Huntsville, AL",0.0,6.0,0.0,0.0,0.0,82.0
+Spirit Air Lines,2023-02-24,-9.0,1349,"Oakland, CA",0.0,0.0,0.0,2.0,0.0,30.0
+Allegiant Air,2023-02-24,-13.0,464,"Palm Springs, CA",0.0,,,,,
+JetBlue Airways,2023-02-24,3.0,944,"Bozeman, MT",1.0,147.0,0.0,13.0,0.0,0.0
+Envoy Air,2023-02-24,13.0,3434,"Fresno, CA",0.0,144.0,0.0,30.0,0.0,95.0
+SkyWest Airlines Inc.,2023-02-25,3.0,3928,"Columbus, OH",0.0,109.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-02-25,17.0,1593,"Santa Ana, CA",0.0,6.0,0.0,0.0,0.0,11.0
+United Air Lines Inc.,2023-02-25,23.0,490,"Providence, RI",0.0,0.0,0.0,23.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-26,-6.0,4926,"Stillwater, OK",0.0,26.0,0.0,0.0,0.0,0.0
+Spirit Air Lines,2023-02-26,0.0,512,"Austin, TX",0.0,0.0,0.0,66.0,0.0,0.0
+Allegiant Air,2023-02-26,-12.0,2302,"Minot, ND",0.0,0.0,145.0,1.0,0.0,27.0
+United Air Lines Inc.,2023-02-26,10.0,735,"Fort Lauderdale, FL",0.0,0.0,0.0,0.0,0.0,528.0
+American Airlines Inc.,2023-02-26,-11.0,526,"Boise, ID",0.0,97.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-02-26,-7.0,4644,"Key West, FL",0.0,45.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-02-26,7.0,363,"Charleston, SC",0.0,14.0,0.0,0.0,0.0,11.0
+American Airlines Inc.,2023-02-27,-13.0,2456,"Indianapolis, IN",0.0,0.0,0.0,10.0,0.0,9.0
+Frontier Airlines Inc.,2023-02-27,-8.0,502,"Denver, CO",0.0,4.0,0.0,0.0,0.0,21.0
+JetBlue Airways,2023-02-27,15.0,906,"Chicago, IL",0.0,0.0,0.0,15.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-27,-2.0,5680,"Houston, TX",0.0,75.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-02-27,-19.0,229,"Baltimore, MD",0.0,0.0,0.0,26.0,0.0,0.0
+Southwest Airlines Co.,2023-02-27,-17.0,1470,"Corpus Christi, TX",0.0,0.0,0.0,52.0,0.0,0.0
+American Airlines Inc.,2023-02-27,-6.0,1354,"Salt Lake City, UT",0.0,3.0,0.0,0.0,0.0,23.0
+Envoy Air,2023-02-28,-29.0,3635,"Moline, IL",0.0,0.0,0.0,42.0,0.0,0.0
+Republic Airline,2023-02-28,6.0,3412,"Syracuse, NY",0.0,0.0,0.0,27.0,0.0,0.0
+Delta Air Lines Inc.,2023-02-28,-30.0,2838,"Cleveland, OH",0.0,39.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-02-28,-1.0,4717,"Rapid City, SD",0.0,0.0,64.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-02-28,32.0,2121,"Burbank, CA",0.0,15.0,0.0,0.0,0.0,17.0
+JetBlue Airways,2023-02-28,116.0,2050,"Palm Springs, CA",0.0,28.0,0.0,0.0,0.0,88.0
+Republic Airline,2023-02-28,-7.0,4670,"Rochester, MN",0.0,0.0,0.0,3.0,0.0,29.0
+Envoy Air,2023-03-01,24.0,3735,"Allentown/Bethlehem/Easton, PA",0.0,0.0,0.0,24.0,0.0,0.0
+SkyWest Airlines Inc.,2023-03-01,20.0,3941,"Norfolk, VA",0.0,20.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-03-02,-2.0,1578,"Houston, TX",0.0,0.0,0.0,27.0,0.0,0.0
+Republic Airline,2023-03-02,-21.0,4682,"Wilmington, NC",0.0,0.0,0.0,52.0,0.0,4.0
+Southwest Airlines Co.,2023-03-02,-1.0,1119,"Louisville, KY",0.0,2.0,0.0,0.0,0.0,14.0
+American Airlines Inc.,2023-03-02,83.0,2263,"Albany, NY",0.0,83.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-03-02,102.0,3385,"Colorado Springs, CO",0.0,0.0,0.0,13.0,0.0,89.0
+Southwest Airlines Co.,2023-03-02,-23.0,4579,"Syracuse, NY",0.0,13.0,0.0,0.0,0.0,13.0
+Delta Air Lines Inc.,2023-03-02,18.0,2579,"Reno, NV",0.0,18.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-03-02,32.0,1241,"Evansville, IN",0.0,0.0,0.0,11.0,0.0,21.0
+Envoy Air,2023-03-03,-17.0,3615,"Wichita, KS",0.0,0.0,0.0,25.0,0.0,0.0
+Southwest Airlines Co.,2023-03-03,17.0,888,"Rochester, NY",0.0,0.0,0.0,17.0,0.0,0.0
+Endeavor Air Inc.,2023-03-03,-4.0,5004,"Charleston, SC",0.0,5.0,0.0,28.0,0.0,12.0
+American Airlines Inc.,2023-03-03,45.0,922,"Bakersfield, CA",0.0,45.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-03-03,2.0,5336,"Providence, RI",0.0,14.0,0.0,1.0,0.0,0.0
+Endeavor Air Inc.,2023-03-03,99.0,4799,"Baton Rouge, LA",0.0,0.0,0.0,0.0,0.0,99.0
+Delta Air Lines Inc.,2023-03-03,37.0,1664,"Eagle, CO",0.0,21.0,0.0,16.0,0.0,0.0
+Delta Air Lines Inc.,2023-03-04,39.0,540,"Boston, MA",0.0,0.0,39.0,0.0,0.0,0.0
+Hawaiian Airlines Inc.,2023-03-04,29.0,71,"Long Beach, CA",0.0,29.0,0.0,0.0,0.0,0.0
+JetBlue Airways,2023-03-04,216.0,2036,"Detroit, MI",0.0,216.0,0.0,0.0,0.0,0.0
+JetBlue Airways,2023-03-04,58.0,55,"Syracuse, NY",0.0,24.0,0.0,10.0,0.0,24.0
+Alaska Airlines Inc.,2023-03-04,32.0,489,"New Orleans, LA",0.0,0.0,0.0,0.0,0.0,32.0
+Alaska Airlines Inc.,2023-03-04,-16.0,153,"Nome, AK",1.0,0.0,0.0,0.0,0.0,30.0
+American Airlines Inc.,2023-03-04,7.0,415,"Scranton/Wilkes-Barre, PA",0.0,0.0,0.0,0.0,0.0,36.0
+SkyWest Airlines Inc.,2023-03-05,25.0,3897,"Moline, IL",0.0,25.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-03-05,-23.0,4986,"Providence, RI",0.0,118.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-03-05,20.0,2891,"Bristol/Johnson City/Kingsport, TN",0.0,0.0,0.0,0.0,0.0,20.0
+Republic Airline,2023-03-05,90.0,3605,"Sarasota/Bradenton, FL",0.0,13.0,0.0,0.0,0.0,77.0
+Delta Air Lines Inc.,2023-03-06,24.0,2295,"Minneapolis, MN",0.0,0.0,0.0,24.0,0.0,0.0
+Delta Air Lines Inc.,2023-03-06,-22.0,513,"Washington, DC",0.0,55.0,0.0,0.0,0.0,11.0
+Allegiant Air,2023-03-06,-21.0,1193,"Sanford, FL",0.0,103.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-03-06,107.0,3190,"Appleton, WI",0.0,0.0,0.0,107.0,0.0,0.0
+Alaska Airlines Inc.,2023-03-06,-2.0,46,"Bethel, AK",0.0,0.0,0.0,0.0,29.0,0.0
+SkyWest Airlines Inc.,2023-03-06,0.0,5078,"Gillette, WY",0.0,0.0,0.0,0.0,0.0,170.0
+SkyWest Airlines Inc.,2023-03-06,22.0,4744,"Jackson, WY",0.0,22.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-03-06,11.0,3442,"Buffalo, NY",0.0,15.0,0.0,3.0,0.0,0.0
+SkyWest Airlines Inc.,2023-03-07,-9.0,4714,"Colorado Springs, CO",0.0,0.0,0.0,22.0,0.0,0.0
+United Air Lines Inc.,2023-03-07,-15.0,2358,"New Orleans, LA",0.0,0.0,0.0,21.0,0.0,85.0
+American Airlines Inc.,2023-03-07,-27.0,675,"Honolulu, HI",0.0,0.0,0.0,0.0,0.0,50.0
+Republic Airline,2023-03-07,-12.0,4337,"St. Louis, MO",0.0,9.0,0.0,0.0,0.0,15.0
+SkyWest Airlines Inc.,2023-03-07,-21.0,5238,"Gunnison, CO",0.0,0.0,0.0,0.0,0.0,181.0
+PSA Airlines Inc.,2023-03-07,542.0,5019,"Scranton/Wilkes-Barre, PA",0.0,0.0,542.0,0.0,0.0,0.0
+Spirit Air Lines,2023-03-07,-16.0,2080,"Rochester, NY",0.0,0.0,0.0,62.0,0.0,0.0
+Republic Airline,2023-03-08,-5.0,4256,"Houston, TX",0.0,0.0,0.0,24.0,0.0,24.0
+Frontier Airlines Inc.,2023-03-08,-32.0,1023,"Chicago, IL",0.0,12.0,0.0,30.0,0.0,11.0
+Envoy Air,2023-03-08,-8.0,3728,"Fort Myers, FL",0.0,0.0,0.0,1.0,0.0,46.0
+Delta Air Lines Inc.,2023-03-08,-23.0,2705,"Palm Springs, CA",0.0,0.0,0.0,16.0,0.0,0.0
+JetBlue Airways,2023-03-08,-10.0,144,"West Palm Beach/Palm Beach, FL",0.0,0.0,0.0,18.0,0.0,0.0
+SkyWest Airlines Inc.,2023-03-08,2.0,5848,"Sioux Falls, SD",0.0,0.0,36.0,0.0,0.0,0.0
+American Airlines Inc.,2023-03-08,6.0,1461,"Charlotte Amalie, VI",0.0,0.0,0.0,14.0,0.0,19.0
+Republic Airline,2023-03-08,-9.0,3477,"Greensboro/High Point, NC",0.0,18.0,0.0,0.0,0.0,3.0
+American Airlines Inc.,2023-03-09,28.0,2629,"Miami, FL",0.0,24.0,0.0,0.0,0.0,4.0
+Southwest Airlines Co.,2023-03-09,-1.0,2806,"San Juan, PR",0.0,0.0,0.0,0.0,0.0,123.0
+Delta Air Lines Inc.,2023-03-09,-11.0,2201,"Kalispell, MT",0.0,0.0,0.0,0.0,0.0,187.0
+Alaska Airlines Inc.,2023-03-09,0.0,517,"Fort Lauderdale, FL",0.0,141.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-03-09,-20.0,3573,"Reno, NV",0.0,0.0,0.0,19.0,0.0,0.0
+United Air Lines Inc.,2023-03-09,1.0,1445,"Charlotte Amalie, VI",0.0,0.0,0.0,16.0,0.0,0.0
+Republic Airline,2023-03-09,-25.0,4696,"Charlottesville, VA",0.0,0.0,0.0,0.0,0.0,48.0
+Southwest Airlines Co.,2023-03-10,-14.0,2504,"Indianapolis, IN",0.0,0.0,0.0,0.0,0.0,23.0
+Delta Air Lines Inc.,2023-03-10,-8.0,1064,"Austin, TX",0.0,17.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-03-10,-5.0,3362,"San Diego, CA",0.0,0.0,0.0,0.0,0.0,69.0
+Endeavor Air Inc.,2023-03-10,12.0,5371,"Columbus, MS",0.0,0.0,0.0,56.0,0.0,68.0
+SkyWest Airlines Inc.,2023-03-10,-15.0,4670,"Des Moines, IA",0.0,43.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-03-10,-11.0,2854,"Memphis, TN",0.0,0.0,0.0,12.0,0.0,6.0
+JetBlue Airways,2023-03-10,2.0,526,"Baltimore, MD",0.0,3.0,0.0,16.0,0.0,0.0
+JetBlue Airways,2023-03-11,-15.0,353,"Fort Lauderdale, FL",0.0,20.0,0.0,7.0,0.0,0.0
+SkyWest Airlines Inc.,2023-03-11,-23.0,4272,"Detroit, MI",0.0,51.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-03-11,-7.0,1985,"Sarasota/Bradenton, FL",0.0,0.0,0.0,0.0,0.0,97.0
+Frontier Airlines Inc.,2023-03-11,87.0,1217,"Syracuse, NY",0.0,0.0,0.0,87.0,0.0,0.0
+United Air Lines Inc.,2023-03-11,-7.0,1757,"Pittsburgh, PA",0.0,107.0,0.0,8.0,0.0,0.0
+Envoy Air,2023-03-11,17.0,3458,"White Plains, NY",0.0,9.0,0.0,0.0,0.0,8.0
+Envoy Air,2023-03-11,17.0,3323,"Bozeman, MT",0.0,0.0,0.0,17.0,0.0,0.0
+Envoy Air,2023-03-12,0.0,4151,"Asheville, NC",0.0,12.0,0.0,3.0,0.0,0.0
+Southwest Airlines Co.,2023-03-12,0.0,3556,"Miami, FL",0.0,0.0,0.0,2.0,0.0,21.0
+Frontier Airlines Inc.,2023-03-12,129.0,818,"West Palm Beach/Palm Beach, FL",0.0,15.0,0.0,100.0,0.0,14.0
+Allegiant Air,2023-03-12,56.0,499,"Indianapolis, IN",0.0,0.0,9.0,47.0,0.0,0.0
+Spirit Air Lines,2023-03-12,-5.0,1735,"Richmond, VA",0.0,0.0,0.0,1.0,16.0,0.0
+Envoy Air,2023-03-12,-16.0,3721,"Brownsville, TX",0.0,0.0,0.0,0.0,0.0,27.0
+SkyWest Airlines Inc.,2023-03-12,16.0,5480,"Midland/Odessa, TX",0.0,16.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-03-12,11.0,2370,"Sarasota/Bradenton, FL",1.0,0.0,0.0,0.0,0.0,154.0
+JetBlue Airways,2023-03-13,38.0,2539,"New York, NY",0.0,3.0,0.0,0.0,0.0,35.0
+SkyWest Airlines Inc.,2023-03-13,-4.0,3136,"Chicago, IL",0.0,0.0,0.0,0.0,0.0,172.0
+Republic Airline,2023-03-13,-6.0,5839,"New York, NY",0.0,0.0,0.0,0.0,0.0,60.0
+United Air Lines Inc.,2023-03-13,-13.0,622,"Los Angeles, CA",0.0,15.0,0.0,1.0,0.0,0.0
+SkyWest Airlines Inc.,2023-03-13,-18.0,3838,"Oklahoma City, OK",0.0,29.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-03-13,65.0,5292,"Richmond, VA",0.0,0.0,0.0,54.0,0.0,11.0
+Allegiant Air,2023-03-13,112.0,2930,"Houston, TX",0.0,4.0,0.0,2.0,0.0,106.0
+Allegiant Air,2023-03-13,-10.0,142,"Great Falls, MT",0.0,0.0,57.0,0.0,0.0,5.0
+Endeavor Air Inc.,2023-03-13,-22.0,4991,"Albany, GA",0.0,0.0,0.0,0.0,0.0,21.0
+American Airlines Inc.,2023-03-13,-15.0,2277,"Amarillo, TX",0.0,0.0,0.0,32.0,0.0,14.0
+American Airlines Inc.,2023-03-13,3.0,2616,"Hayden, CO",0.0,0.0,0.0,0.0,0.0,20.0
+Allegiant Air,2023-03-13,72.0,2885,"Owensboro, KY",0.0,0.0,0.0,72.0,0.0,0.0
+Allegiant Air,2023-03-13,194.0,2875,"Norfolk, VA",0.0,3.0,0.0,1.0,0.0,190.0
+Delta Air Lines Inc.,2023-03-14,2.0,2291,"Chicago, IL",0.0,0.0,0.0,15.0,0.0,55.0
+United Air Lines Inc.,2023-03-14,-3.0,1828,"Orlando, FL",0.0,6.0,0.0,1.0,0.0,58.0
+Frontier Airlines Inc.,2023-03-14,4.0,119,"San Juan, PR",0.0,106.0,0.0,39.0,0.0,0.0
+SkyWest Airlines Inc.,2023-03-14,-10.0,4673,"Kalispell, MT",0.0,81.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-03-14,-10.0,4953,"Garden City, KS",0.0,67.0,0.0,0.0,0.0,0.0
+Alaska Airlines Inc.,2023-03-14,27.0,315,"San Antonio, TX",0.0,7.0,0.0,20.0,0.0,0.0
+Envoy Air,2023-03-14,-8.0,3336,"Richmond, VA",0.0,82.0,0.0,43.0,0.0,2.0
+Endeavor Air Inc.,2023-03-14,28.0,4648,"Oklahoma City, OK",0.0,0.0,0.0,28.0,0.0,0.0
+Endeavor Air Inc.,2023-03-15,190.0,5239,"Wilmington, NC",0.0,0.0,20.0,33.0,0.0,137.0
+American Airlines Inc.,2023-03-15,2.0,1751,"Fresno, CA",0.0,0.0,0.0,0.0,0.0,31.0
+SkyWest Airlines Inc.,2023-03-15,1.0,4248,"Pocatello, ID",0.0,306.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-03-16,-1.0,3159,"Waco, TX",1.0,0.0,82.0,0.0,0.0,0.0
+American Airlines Inc.,2023-03-16,-16.0,2083,"Sacramento, CA",0.0,0.0,0.0,24.0,0.0,19.0
+American Airlines Inc.,2023-03-16,87.0,2436,"Newark, NJ",0.0,37.0,0.0,25.0,0.0,25.0
+Alaska Airlines Inc.,2023-03-16,54.0,305,"Miami, FL",0.0,45.0,0.0,9.0,0.0,0.0
+Envoy Air,2023-03-16,6.0,3453,"Durango, CO",1.0,255.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-03-16,-11.0,2310,"Charleston, SC",0.0,0.0,0.0,0.0,0.0,37.0
+Envoy Air,2023-03-16,-7.0,4102,"Lake Charles, LA",0.0,0.0,0.0,10.0,0.0,82.0
+United Air Lines Inc.,2023-03-17,-14.0,1778,"Norfolk, VA",0.0,0.0,0.0,37.0,0.0,0.0
+Envoy Air,2023-03-17,27.0,4164,"Nashville, TN",0.0,0.0,0.0,7.0,0.0,20.0
+United Air Lines Inc.,2023-03-17,42.0,1873,"Savannah, GA",1.0,0.0,0.0,40.0,0.0,2.0
+Allegiant Air,2023-03-17,-9.0,66,"Tulsa, OK",0.0,0.0,6.0,51.0,0.0,121.0
+Alaska Airlines Inc.,2023-03-18,-39.0,193,"Los Angeles, CA",0.0,0.0,0.0,0.0,0.0,17.0
+SkyWest Airlines Inc.,2023-03-18,-22.0,5563,"Bishop, CA",0.0,0.0,0.0,133.0,0.0,0.0
+Envoy Air,2023-03-18,24.0,3773,"Providence, RI",0.0,0.0,0.0,0.0,0.0,24.0
+Alaska Airlines Inc.,2023-03-18,-20.0,1041,"Burbank, CA",0.0,0.0,0.0,38.0,0.0,20.0
+SkyWest Airlines Inc.,2023-03-18,10.0,4980,"Panama City, FL",0.0,15.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-03-18,-3.0,5358,"Saginaw/Bay City/Midland, MI",0.0,64.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-03-18,20.0,4315,"Miami, FL",0.0,20.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-03-18,-4.0,4030,"Green Bay, WI",0.0,0.0,0.0,29.0,0.0,0.0
+SkyWest Airlines Inc.,2023-03-18,-20.0,3754,"Bristol/Johnson City/Kingsport, TN",0.0,16.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-03-19,-14.0,199,"Greer, SC",0.0,18.0,0.0,10.0,0.0,0.0
+SkyWest Airlines Inc.,2023-03-19,0.0,3166,"Roswell, NM",0.0,112.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-03-19,-9.0,1122,"Memphis, TN",0.0,0.0,0.0,31.0,0.0,0.0
+PSA Airlines Inc.,2023-03-19,-24.0,5091,"Savannah, GA",0.0,0.0,0.0,46.0,0.0,0.0
+United Air Lines Inc.,2023-03-19,-17.0,2154,"Jackson, WY",0.0,19.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-03-19,-6.0,5352,"Valdosta, GA",0.0,0.0,2.0,0.0,0.0,42.0
+JetBlue Airways,2023-03-19,-4.0,746,"Ponce, PR",0.0,59.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-03-19,9.0,4121,"Buffalo, NY",0.0,0.0,0.0,5.0,0.0,14.0
+PSA Airlines Inc.,2023-03-19,-29.0,5397,"Bristol/Johnson City/Kingsport, TN",0.0,0.0,0.0,0.0,0.0,69.0
+Endeavor Air Inc.,2023-03-19,-5.0,5010,"Roanoke, VA",0.0,0.0,0.0,0.0,0.0,24.0
+Delta Air Lines Inc.,2023-03-19,12.0,1201,"Syracuse, NY",0.0,42.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-03-19,-10.0,1475,"Springfield, MO",0.0,0.0,31.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-03-19,-18.0,1026,"Bloomington/Normal, IL",0.0,3.0,0.0,22.0,0.0,0.0
+Republic Airline,2023-03-19,-23.0,3693,"Green Bay, WI",0.0,,,,,
+Southwest Airlines Co.,2023-03-20,-3.0,3176,"Minneapolis, MN",0.0,0.0,0.0,0.0,0.0,89.0
+Spirit Air Lines,2023-03-20,10.0,1701,"Kansas City, MO",0.0,21.0,0.0,1.0,0.0,33.0
+Allegiant Air,2023-03-20,34.0,227,"Columbus, OH",0.0,9.0,0.0,4.0,0.0,21.0
+Allegiant Air,2023-03-20,-15.0,217,"Asheville, NC",0.0,0.0,0.0,19.0,0.0,0.0
+Alaska Airlines Inc.,2023-03-20,-3.0,1107,"Palm Springs, CA",0.0,95.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-03-20,-20.0,4695,"Springfield, MO",0.0,41.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-03-21,-11.0,4953,"Atlanta, GA",0.0,17.0,0.0,0.0,0.0,1.0
+SkyWest Airlines Inc.,2023-03-21,-9.0,3145,"Los Angeles, CA",0.0,20.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-03-21,-5.0,1039,"Buffalo, NY",0.0,39.0,0.0,0.0,0.0,0.0
+JetBlue Airways,2023-03-21,-8.0,184,"Raleigh/Durham, NC",0.0,420.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-03-21,-19.0,2277,"Albany, NY",0.0,0.0,0.0,20.0,0.0,85.0
+United Air Lines Inc.,2023-03-21,-37.0,2182,"Eagle, CO",0.0,0.0,36.0,39.0,0.0,57.0
+Envoy Air,2023-03-21,11.0,3442,"Gulfport/Biloxi, MS",0.0,4.0,0.0,7.0,0.0,35.0
+United Air Lines Inc.,2023-03-22,-19.0,2278,"Chicago, IL",0.0,117.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-03-22,-15.0,3511,"Birmingham, AL",0.0,0.0,0.0,14.0,0.0,93.0
+Envoy Air,2023-03-22,-11.0,3413,"Boston, MA",0.0,2.0,0.0,9.0,0.0,34.0
+American Airlines Inc.,2023-03-22,-26.0,2131,"Columbia, SC",0.0,0.0,0.0,0.0,0.0,68.0
+JetBlue Airways,2023-03-23,-47.0,2628,"Hayden, CO",0.0,,,,,
+Allegiant Air,2023-03-23,-15.0,3016,"Peoria, IL",0.0,0.0,0.0,46.0,0.0,0.0
+Frontier Airlines Inc.,2023-03-23,54.0,1055,"Columbus, OH",0.0,7.0,0.0,0.0,0.0,47.0
+Envoy Air,2023-03-23,10.0,3420,"Washington, DC",0.0,3.0,0.0,2.0,0.0,66.0
+JetBlue Airways,2023-03-23,-24.0,1731,"Salt Lake City, UT",0.0,32.0,0.0,25.0,0.0,8.0
+Allegiant Air,2023-03-23,-15.0,417,"Newburgh/Poughkeepsie, NY",0.0,0.0,0.0,7.0,0.0,29.0
+Envoy Air,2023-03-23,20.0,4013,"Mosinee, WI",0.0,20.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-03-24,-2.0,2015,"Cleveland, OH",0.0,0.0,0.0,5.0,0.0,115.0
+Southwest Airlines Co.,2023-03-24,-8.0,3542,"New York, NY",0.0,2.0,0.0,0.0,0.0,19.0
+Hawaiian Airlines Inc.,2023-03-24,12.0,25,"Portland, OR",0.0,29.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-03-24,-19.0,4653,"Bloomington/Normal, IL",0.0,,,,,
+PSA Airlines Inc.,2023-03-24,5.0,5050,"Panama City, FL",0.0,0.0,0.0,15.0,0.0,0.0
+Southwest Airlines Co.,2023-03-25,131.0,1170,"Milwaukee, WI",0.0,0.0,0.0,1.0,0.0,130.0
+Spirit Air Lines,2023-03-25,14.0,3173,"Miami, FL",0.0,268.0,0.0,32.0,0.0,0.0
+Spirit Air Lines,2023-03-25,19.0,1833,"Indianapolis, IN",0.0,0.0,0.0,19.0,0.0,0.0
+Delta Air Lines Inc.,2023-03-25,97.0,2461,"Greensboro/High Point, NC",0.0,0.0,0.0,0.0,0.0,97.0
+Allegiant Air,2023-03-25,25.0,2555,"Springfield, IL",0.0,0.0,0.0,25.0,0.0,0.0
+Endeavor Air Inc.,2023-03-25,32.0,4729,"Gainesville, FL",0.0,0.0,0.0,1.0,0.0,31.0
+PSA Airlines Inc.,2023-03-26,-19.0,5119,"Mobile, AL",0.0,0.0,0.0,5.0,0.0,57.0
+Frontier Airlines Inc.,2023-03-27,21.0,1210,"St. Louis, MO",0.0,0.0,0.0,11.0,0.0,10.0
+JetBlue Airways,2023-03-27,75.0,1812,"Fort Myers, FL",0.0,0.0,0.0,59.0,0.0,16.0
+American Airlines Inc.,2023-03-27,8.0,1293,"Christiansted, VI",0.0,0.0,0.0,26.0,0.0,0.0
+American Airlines Inc.,2023-03-27,-2.0,455,"Santa Barbara, CA",0.0,8.0,0.0,0.0,0.0,14.0
+SkyWest Airlines Inc.,2023-03-27,66.0,4957,"Del Rio, TX",0.0,0.0,66.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-03-27,-17.0,5105,"Fort Dodge, IA",0.0,0.0,0.0,35.0,0.0,0.0
+American Airlines Inc.,2023-03-27,-12.0,2609,"Gunnison, CO",0.0,36.0,0.0,14.0,0.0,0.0
+Republic Airline,2023-03-28,-17.0,3428,"Columbus, OH",0.0,0.0,0.0,27.0,0.0,0.0
+Delta Air Lines Inc.,2023-03-28,2.0,890,"Houston, TX",0.0,49.0,0.0,0.0,0.0,3.0
+Southwest Airlines Co.,2023-03-28,-11.0,2124,"Boston, MA",0.0,24.0,0.0,0.0,0.0,97.0
+Delta Air Lines Inc.,2023-03-28,-20.0,2782,"Little Rock, AR",0.0,0.0,0.0,0.0,0.0,30.0
+Delta Air Lines Inc.,2023-03-28,8.0,2707,"Mobile, AL",0.0,0.0,0.0,56.0,0.0,0.0
+Envoy Air,2023-03-28,-22.0,3536,"Lawton/Fort Sill, OK",0.0,,,,,
+SkyWest Airlines Inc.,2023-03-29,-6.0,4680,"Knoxville, TN",0.0,0.0,0.0,0.0,0.0,87.0
+Alaska Airlines Inc.,2023-03-29,58.0,772,"Everett, WA",0.0,0.0,0.0,58.0,0.0,0.0
+Envoy Air,2023-03-29,-18.0,3640,"Greensboro/High Point, NC",0.0,214.0,0.0,0.0,0.0,0.0
+Spirit Air Lines,2023-03-29,-21.0,366,"West Palm Beach/Palm Beach, FL",0.0,15.0,0.0,18.0,0.0,36.0
+Delta Air Lines Inc.,2023-03-30,-24.0,2364,"Tallahassee, FL",0.0,0.0,38.0,0.0,0.0,0.0
+Allegiant Air,2023-03-30,-15.0,681,"Phoenix, AZ",0.0,0.0,0.0,14.0,0.0,9.0
+SkyWest Airlines Inc.,2023-03-30,21.0,3460,"Las Vegas, NV",0.0,21.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-03-30,-7.0,4815,"Syracuse, NY",0.0,1.0,0.0,0.0,0.0,20.0
+PSA Airlines Inc.,2023-03-30,-29.0,5445,"Cincinnati, OH",0.0,10.0,0.0,14.0,0.0,0.0
+Delta Air Lines Inc.,2023-03-30,-12.0,2386,"Louisville, KY",0.0,0.0,0.0,0.0,0.0,65.0
+Envoy Air,2023-03-30,6.0,3455,"Killeen, TX",0.0,49.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-03-30,-26.0,431,"Hayden, CO",0.0,6.0,0.0,22.0,0.0,1.0
+PSA Airlines Inc.,2023-03-30,-16.0,5211,"Charleston, SC",0.0,0.0,0.0,0.0,0.0,39.0
+American Airlines Inc.,2023-03-31,37.0,980,"Atlanta, GA",0.0,0.0,12.0,25.0,0.0,0.0
+Frontier Airlines Inc.,2023-03-31,-6.0,1963,"New Orleans, LA",0.0,0.0,0.0,0.0,0.0,36.0
+SkyWest Airlines Inc.,2023-03-31,-9.0,5410,"Monterey, CA",0.0,76.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-03-31,-8.0,3592,"Tallahassee, FL",0.0,0.0,0.0,0.0,0.0,18.0
+Allegiant Air,2023-03-31,84.0,956,"Kansas City, MO",0.0,0.0,0.0,54.0,0.0,30.0
+Delta Air Lines Inc.,2023-03-31,21.0,2384,"Duluth, MN",0.0,0.0,0.0,21.0,0.0,0.0
+Southwest Airlines Co.,2023-04-01,12.0,242,"Charleston, SC",0.0,0.0,0.0,0.0,0.0,189.0
+Delta Air Lines Inc.,2023-04-01,-13.0,729,"San Francisco, CA",0.0,0.0,0.0,0.0,0.0,317.0
+SkyWest Airlines Inc.,2023-04-01,78.0,5498,"Lexington, KY",0.0,78.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-04-01,-2.0,1291,"Rochester, NY",0.0,5.0,0.0,0.0,0.0,51.0
+Envoy Air,2023-04-01,-13.0,3688,"Pittsburgh, PA",0.0,0.0,0.0,20.0,0.0,0.0
+Hawaiian Airlines Inc.,2023-04-02,4.0,57,"San Diego, CA",0.0,48.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-04-02,30.0,3366,"Charlotte, NC",0.0,0.0,0.0,30.0,0.0,0.0
+Republic Airline,2023-04-02,16.0,5748,"White Plains, NY",0.0,1.0,0.0,0.0,0.0,15.0
+Endeavor Air Inc.,2023-04-02,24.0,4730,"Wichita, KS",0.0,18.0,0.0,0.0,0.0,6.0
+Endeavor Air Inc.,2023-04-03,-12.0,4714,"Kansas City, MO",0.0,0.0,0.0,718.0,0.0,0.0
+PSA Airlines Inc.,2023-04-03,4.0,5207,"Charleston/Dunbar, WV",0.0,0.0,0.0,18.0,0.0,0.0
+United Air Lines Inc.,2023-04-03,-16.0,174,"Guam, TT",0.0,22.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-04-03,-13.0,639,"Bismarck/Mandan, ND",0.0,0.0,7.0,0.0,0.0,26.0
+Allegiant Air,2023-04-03,21.0,12,"El Paso, TX",0.0,0.0,0.0,10.0,0.0,11.0
+Envoy Air,2023-04-04,-2.0,3565,"Midland/Odessa, TX",0.0,0.0,15.0,0.0,0.0,14.0
+Allegiant Air,2023-04-04,-9.0,1269,"Syracuse, NY",0.0,10.0,0.0,36.0,0.0,53.0
+JetBlue Airways,2023-04-04,3.0,1369,"Buffalo, NY",0.0,133.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-04-04,-8.0,5355,"Knoxville, TN",0.0,0.0,0.0,24.0,0.0,12.0
+United Air Lines Inc.,2023-04-04,-8.0,1797,"Louisville, KY",0.0,88.0,0.0,4.0,0.0,0.0
+Alaska Airlines Inc.,2023-04-04,-28.0,87,"Deadhorse, AK",0.0,0.0,0.0,4.0,0.0,20.0
+Delta Air Lines Inc.,2023-04-04,-25.0,2216,"Wichita, KS",0.0,0.0,0.0,0.0,0.0,29.0
+Allegiant Air,2023-04-04,-13.0,239,"Elmira/Corning, NY",0.0,0.0,0.0,26.0,0.0,16.0
+American Airlines Inc.,2023-04-04,14.0,2788,"Colorado Springs, CO",0.0,57.0,0.0,24.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-04,140.0,5173,"Cheyenne, WY",0.0,0.0,0.0,140.0,0.0,0.0
+Spirit Air Lines,2023-04-05,-18.0,1271,"Burbank, CA",0.0,68.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-04-05,-28.0,3452,"Portland, ME",0.0,0.0,0.0,21.0,0.0,0.0
+Delta Air Lines Inc.,2023-04-05,189.0,1292,"Augusta, GA",0.0,0.0,0.0,0.0,0.0,189.0
+JetBlue Airways,2023-04-06,14.0,1248,"Tampa, FL",0.0,16.0,0.0,0.0,0.0,15.0
+Allegiant Air,2023-04-06,22.0,2568,"Louisville, KY",0.0,6.0,0.0,16.0,0.0,0.0
+Envoy Air,2023-04-06,-6.0,3839,"Daytona Beach, FL",0.0,0.0,128.0,41.0,0.0,13.0
+Spirit Air Lines,2023-04-06,244.0,2511,"Albuquerque, NM",0.0,225.0,0.0,19.0,0.0,0.0
+American Airlines Inc.,2023-04-06,-2.0,2234,"Augusta, GA",0.0,6.0,0.0,31.0,0.0,14.0
+United Air Lines Inc.,2023-04-07,-9.0,1300,"Washington, DC",0.0,0.0,0.0,15.0,0.0,0.0
+American Airlines Inc.,2023-04-07,18.0,1912,"Chicago, IL",0.0,16.0,0.0,2.0,0.0,0.0
+Delta Air Lines Inc.,2023-04-07,6.0,1809,"Christiansted, VI",0.0,0.0,0.0,47.0,0.0,0.0
+Southwest Airlines Co.,2023-04-07,-18.0,27,"Pensacola, FL",0.0,0.0,23.0,7.0,0.0,79.0
+Republic Airline,2023-04-07,-31.0,3637,"Scranton/Wilkes-Barre, PA",0.0,0.0,0.0,26.0,0.0,0.0
+Delta Air Lines Inc.,2023-04-07,3.0,1688,"Albuquerque, NM",0.0,18.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-04-07,-16.0,3646,"Albany, NY",0.0,176.0,0.0,0.0,0.0,0.0
+Spirit Air Lines,2023-04-07,18.0,1100,"Pensacola, FL",0.0,0.0,0.0,18.0,0.0,0.0
+Envoy Air,2023-04-07,5.0,4064,"Fayetteville, NC",0.0,1.0,0.0,0.0,0.0,92.0
+Republic Airline,2023-04-07,20.0,4388,"Fargo, ND",0.0,5.0,0.0,0.0,0.0,15.0
+Southwest Airlines Co.,2023-04-08,-10.0,3355,"Chicago, IL",0.0,6.0,0.0,8.0,0.0,13.0
+PSA Airlines Inc.,2023-04-08,11.0,5543,"Raleigh/Durham, NC",0.0,58.0,0.0,0.0,0.0,0.0
+JetBlue Airways,2023-04-09,-18.0,680,"Milwaukee, WI",0.0,0.0,0.0,0.0,0.0,83.0
+Republic Airline,2023-04-09,-9.0,4582,"Augusta, GA",0.0,,,,,
+Spirit Air Lines,2023-04-09,2.0,449,"Christiansted, VI",0.0,0.0,0.0,195.0,0.0,0.0
+Allegiant Air,2023-04-09,-27.0,233,"West Palm Beach/Palm Beach, FL",0.0,6.0,0.0,10.0,0.0,8.0
+Republic Airline,2023-04-09,38.0,4688,"Roanoke, VA",0.0,0.0,0.0,0.0,0.0,38.0
+Spirit Air Lines,2023-04-10,-23.0,960,"Detroit, MI",0.0,0.0,0.0,53.0,0.0,0.0
+PSA Airlines Inc.,2023-04-10,-18.0,5169,"Hartford, CT",0.0,0.0,0.0,31.0,0.0,0.0
+Frontier Airlines Inc.,2023-04-10,63.0,2362,"Savannah, GA",0.0,0.0,0.0,0.0,0.0,63.0
+Alaska Airlines Inc.,2023-04-10,9.0,1275,"Fresno, CA",0.0,0.0,0.0,51.0,0.0,0.0
+Endeavor Air Inc.,2023-04-11,1.0,4906,"Myrtle Beach, SC",0.0,0.0,15.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-04-11,-8.0,5560,"Memphis, TN",0.0,0.0,0.0,23.0,0.0,0.0
+American Airlines Inc.,2023-04-11,-8.0,1590,"Mission/McAllen/Edinburg, TX",0.0,0.0,0.0,18.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-11,-19.0,5023,"Hancock/Houghton, MI",0.0,0.0,101.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-04-11,-20.0,1007,"Milwaukee, WI",0.0,32.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-12,-16.0,5062,"Mason City, IA",0.0,0.0,0.0,0.0,0.0,48.0
+PSA Airlines Inc.,2023-04-12,-21.0,5495,"Akron, OH",0.0,0.0,0.0,21.0,0.0,0.0
+JetBlue Airways,2023-04-12,-4.0,1271,"Worcester, MA",0.0,0.0,223.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-04-12,-8.0,1346,"Wichita, KS",0.0,0.0,0.0,42.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-12,-3.0,3737,"Cleveland, OH",0.0,45.0,0.0,0.0,0.0,0.0
+JetBlue Airways,2023-04-12,29.0,17,"Jacksonville, FL",1.0,0.0,0.0,14.0,0.0,15.0
+Delta Air Lines Inc.,2023-04-13,-11.0,2610,"Santa Ana, CA",0.0,0.0,0.0,0.0,0.0,142.0
+PSA Airlines Inc.,2023-04-13,-14.0,5551,"Rochester, NY",0.0,0.0,0.0,0.0,0.0,31.0
+Spirit Air Lines,2023-04-13,20.0,3139,"Denver, CO",0.0,9.0,0.0,11.0,0.0,0.0
+Envoy Air,2023-04-13,-11.0,3480,"Fort Smith, AR",0.0,0.0,0.0,16.0,0.0,0.0
+Hawaiian Airlines Inc.,2023-04-13,16.0,466,"Pago Pago, TT",0.0,4.0,0.0,0.0,0.0,12.0
+Allegiant Air,2023-04-13,66.0,3240,"Spokane, WA",0.0,9.0,0.0,2.0,0.0,55.0
+SkyWest Airlines Inc.,2023-04-14,-2.0,3624,"Salt Lake City, UT",0.0,0.0,0.0,27.0,0.0,0.0
+Envoy Air,2023-04-14,9.0,4185,"Huntsville, AL",0.0,48.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-04-14,0.0,5204,"Newark, NJ",0.0,41.0,0.0,0.0,0.0,25.0
+SkyWest Airlines Inc.,2023-04-14,2.0,5376,"Erie, PA",0.0,316.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-04-14,46.0,3846,"Gainesville, FL",0.0,12.0,0.0,0.0,0.0,34.0
+Republic Airline,2023-04-15,1124.0,3615,"Minneapolis, MN",0.0,0.0,0.0,1124.0,0.0,0.0
+American Airlines Inc.,2023-04-15,-15.0,2493,"Charlotte, NC",0.0,36.0,0.0,26.0,0.0,0.0
+American Airlines Inc.,2023-04-15,3.0,2146,"Minneapolis, MN",0.0,0.0,0.0,36.0,0.0,0.0
+Spirit Air Lines,2023-04-15,-1.0,714,"Pittsburgh, PA",0.0,0.0,0.0,66.0,0.0,0.0
+American Airlines Inc.,2023-04-15,31.0,2680,"Pensacola, FL",0.0,31.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-04-15,18.0,3471,"Shreveport, LA",0.0,0.0,0.0,18.0,0.0,0.0
+Spirit Air Lines,2023-04-15,6.0,2086,"Boston, MA",0.0,0.0,0.0,0.0,0.0,43.0
+SkyWest Airlines Inc.,2023-04-15,19.0,4162,"Savannah, GA",0.0,19.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-15,-5.0,5432,"Pensacola, FL",0.0,,,,,
+Delta Air Lines Inc.,2023-04-16,-28.0,1950,"Charlotte Amalie, VI",0.0,0.0,0.0,17.0,0.0,0.0
+Southwest Airlines Co.,2023-04-16,33.0,1103,"Bellingham, WA",0.0,8.0,0.0,3.0,0.0,22.0
+Spirit Air Lines,2023-04-16,83.0,1900,"Aguadilla, PR",0.0,0.0,0.0,24.0,0.0,59.0
+SkyWest Airlines Inc.,2023-04-16,0.0,4733,"Springfield, MO",0.0,85.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-16,-26.0,4323,"Butte, MT",0.0,22.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-04-16,-7.0,1363,"Madison, WI",0.0,403.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-04-16,-9.0,3849,"Scranton/Wilkes-Barre, PA",0.0,0.0,7.0,0.0,0.0,16.0
+United Air Lines Inc.,2023-04-17,-9.0,2022,"San Juan, PR",0.0,0.0,0.0,4.0,0.0,16.0
+Allegiant Air,2023-04-17,-26.0,1017,"St. Petersburg, FL",0.0,0.0,0.0,0.0,0.0,75.0
+Southwest Airlines Co.,2023-04-17,24.0,406,"Grand Rapids, MI",0.0,0.0,0.0,24.0,0.0,0.0
+Envoy Air,2023-04-17,-27.0,3889,"Indianapolis, IN",0.0,0.0,0.0,4.0,0.0,15.0
+Allegiant Air,2023-04-17,3.0,918,"Portsmouth, NH",0.0,8.0,0.0,0.0,0.0,13.0
+SkyWest Airlines Inc.,2023-04-17,4.0,3558,"Madison, WI",0.0,0.0,16.0,0.0,0.0,0.0
+Envoy Air,2023-04-17,-2.0,3912,"Santa Barbara, CA",0.0,0.0,77.0,0.0,0.0,0.0
+Allegiant Air,2023-04-17,9.0,2740,"Greensboro/High Point, NC",0.0,7.0,0.0,0.0,0.0,50.0
+Delta Air Lines Inc.,2023-04-18,-24.0,2147,"Rochester, NY",0.0,0.0,0.0,28.0,0.0,0.0
+American Airlines Inc.,2023-04-18,-11.0,1085,"Greensboro/High Point, NC",0.0,16.0,0.0,7.0,0.0,0.0
+United Air Lines Inc.,2023-04-18,4.0,1904,"Columbus, OH",0.0,0.0,0.0,19.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-18,-10.0,3143,"Lawton/Fort Sill, OK",0.0,0.0,17.0,0.0,0.0,0.0
+JetBlue Airways,2023-04-18,4.0,808,"Charlotte Amalie, VI",0.0,116.0,0.0,0.0,0.0,178.0
+Southwest Airlines Co.,2023-04-19,71.0,397,"Kahului, HI",0.0,0.0,0.0,0.0,0.0,71.0
+Allegiant Air,2023-04-19,-23.0,1015,"Rockford, IL",0.0,0.0,0.0,0.0,0.0,33.0
+SkyWest Airlines Inc.,2023-04-19,14.0,5523,"Portland, ME",0.0,0.0,0.0,0.0,0.0,77.0
+Delta Air Lines Inc.,2023-04-19,-3.0,1628,"Harlingen/San Benito, TX",0.0,22.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-20,-26.0,3662,"Missoula, MT",0.0,33.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-04-20,41.0,2232,"Omaha, NE",0.0,0.0,28.0,13.0,0.0,0.0
+Spirit Air Lines,2023-04-20,189.0,889,"Columbus, OH",0.0,0.0,0.0,189.0,0.0,0.0
+Allegiant Air,2023-04-20,-21.0,2323,"Sioux Falls, SD",0.0,0.0,0.0,5.0,0.0,54.0
+SkyWest Airlines Inc.,2023-04-20,-14.0,3563,"Traverse City, MI",0.0,0.0,81.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-04-20,-7.0,4956,"Dayton, OH",0.0,121.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-21,-10.0,3681,"Newark, NJ",0.0,0.0,106.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-21,8.0,4642,"Bismarck/Mandan, ND",0.0,43.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-04-21,6.0,1881,"Baltimore, MD",0.0,0.0,0.0,53.0,0.0,78.0
+Southwest Airlines Co.,2023-04-21,15.0,897,"Bozeman, MT",0.0,2.0,0.0,0.0,0.0,13.0
+Envoy Air,2023-04-21,89.0,3651,"Kansas City, MO",0.0,85.0,0.0,4.0,0.0,0.0
+Delta Air Lines Inc.,2023-04-21,-13.0,2803,"Valparaiso, FL",0.0,123.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-04-22,-6.0,2720,"Oklahoma City, OK",0.0,0.0,29.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-22,-21.0,4039,"Appleton, WI",0.0,0.0,41.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-22,-9.0,5059,"Decatur, IL",0.0,0.0,0.0,0.0,0.0,59.0
+Republic Airline,2023-04-22,30.0,3669,"Austin, TX",1.0,17.0,0.0,5.0,0.0,8.0
+Alaska Airlines Inc.,2023-04-22,10.0,455,"Fort Myers, FL",0.0,32.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-04-23,-16.0,1196,"Atlanta, GA",0.0,2.0,0.0,0.0,0.0,20.0
+Spirit Air Lines,2023-04-23,2.0,1304,"Atlanta, GA",0.0,0.0,0.0,56.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-23,-15.0,3835,"Fargo, ND",0.0,62.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-04-23,7.0,2165,"Raleigh/Durham, NC",0.0,33.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-04-23,33.0,1242,"Charleston, SC",0.0,2.0,0.0,0.0,0.0,31.0
+Delta Air Lines Inc.,2023-04-23,251.0,2208,"Madison, WI",0.0,251.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-04-23,-27.0,762,"Boise, ID",0.0,2.0,0.0,0.0,0.0,55.0
+Southwest Airlines Co.,2023-04-23,19.0,154,"Little Rock, AR",0.0,0.0,0.0,0.0,0.0,19.0
+Spirit Air Lines,2023-04-23,61.0,225,"Phoenix, AZ",0.0,14.0,0.0,47.0,0.0,0.0
+Allegiant Air,2023-04-23,210.0,1048,"Toledo, OH",0.0,2.0,0.0,0.0,0.0,208.0
+PSA Airlines Inc.,2023-04-23,-18.0,5340,"Fort Myers, FL",0.0,,,,,
+Spirit Air Lines,2023-04-24,-17.0,1005,"Philadelphia, PA",0.0,0.0,31.0,51.0,0.0,0.0
+Hawaiian Airlines Inc.,2023-04-24,-27.0,46,"Kahului, HI",0.0,238.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-04-24,-2.0,5528,"Kansas City, MO",0.0,0.0,0.0,42.0,0.0,12.0
+SkyWest Airlines Inc.,2023-04-24,20.0,5997,"Palm Springs, CA",0.0,20.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-24,43.0,3401,"Santa Rosa, CA",0.0,0.0,0.0,0.0,0.0,43.0
+Allegiant Air,2023-04-24,-24.0,273,"Bellingham, WA",0.0,47.0,0.0,1.0,0.0,58.0
+SkyWest Airlines Inc.,2023-04-24,-13.0,3633,"Sun Valley/Hailey/Ketchum, ID",0.0,0.0,17.0,0.0,0.0,0.0
+American Airlines Inc.,2023-04-25,49.0,1208,"Burbank, CA",0.0,0.0,0.0,0.0,0.0,49.0
+SkyWest Airlines Inc.,2023-04-25,-12.0,4749,"St. Louis, MO",0.0,0.0,16.0,0.0,0.0,0.0
+Envoy Air,2023-04-25,-5.0,3417,"Savannah, GA",0.0,0.0,0.0,27.0,0.0,0.0
+Endeavor Air Inc.,2023-04-25,-25.0,5027,"Bristol/Johnson City/Kingsport, TN",0.0,,,,,
+American Airlines Inc.,2023-04-25,-17.0,1945,"Kahului, HI",0.0,0.0,0.0,0.0,0.0,47.0
+Envoy Air,2023-04-25,-14.0,3806,"Albuquerque, NM",0.0,0.0,0.0,21.0,0.0,0.0
+Envoy Air,2023-04-25,-24.0,3387,"Ontario, CA",0.0,,,,,
+United Air Lines Inc.,2023-04-26,9.0,1419,"Cleveland, OH",0.0,185.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-04-26,13.0,249,"Charlotte, NC",0.0,0.0,0.0,19.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-26,-9.0,4772,"Pasco/Kennewick/Richland, WA",0.0,21.0,0.0,0.0,0.0,0.0
+Alaska Airlines Inc.,2023-04-26,13.0,1035,"Pasco/Kennewick/Richland, WA",0.0,35.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-04-27,4.0,2215,"Providence, RI",0.0,0.0,14.0,4.0,0.0,0.0
+Delta Air Lines Inc.,2023-04-27,-4.0,2358,"Melbourne, FL",0.0,0.0,0.0,2.0,0.0,18.0
+SkyWest Airlines Inc.,2023-04-28,-19.0,5637,"Harrisburg, PA",0.0,145.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-04-28,-15.0,5532,"Columbus, GA",0.0,0.0,0.0,0.0,0.0,37.0
+United Air Lines Inc.,2023-04-29,-21.0,521,"Boise, ID",0.0,0.0,0.0,18.0,0.0,0.0
+American Airlines Inc.,2023-04-29,286.0,2213,"Hartford, CT",0.0,228.0,0.0,0.0,0.0,58.0
+SkyWest Airlines Inc.,2023-04-29,-11.0,4236,"Alpena, MI",0.0,39.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-29,-25.0,3598,"Lafayette, LA",0.0,36.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-29,-14.0,4991,"Yuma, AZ",0.0,0.0,0.0,0.0,0.0,28.0
+SkyWest Airlines Inc.,2023-04-30,5.0,4662,"Columbia, SC",0.0,0.0,0.0,28.0,0.0,0.0
+Allegiant Air,2023-04-30,-12.0,642,"Cedar Rapids/Iowa City, IA",0.0,0.0,95.0,87.0,0.0,0.0
+SkyWest Airlines Inc.,2023-04-30,-21.0,4289,"Cedar City, UT",0.0,95.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-04-30,-20.0,1499,"Austin, TX",0.0,37.0,0.0,1.0,0.0,0.0
+Endeavor Air Inc.,2023-04-30,-23.0,5001,"Duluth, MN",0.0,232.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-04-30,-7.0,3378,"Yuma, AZ",0.0,17.0,0.0,0.0,0.0,11.0
+American Airlines Inc.,2023-05-01,-33.0,2880,"Sioux Falls, SD",0.0,9.0,0.0,5.0,0.0,543.0
+Alaska Airlines Inc.,2023-05-01,-37.0,289,"Newark, NJ",0.0,0.0,0.0,0.0,0.0,28.0
+PSA Airlines Inc.,2023-05-01,20.0,5653,"Myrtle Beach, SC",0.0,0.0,0.0,19.0,0.0,1.0
+Allegiant Air,2023-05-01,-13.0,890,"Lexington, KY",0.0,0.0,62.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-01,-33.0,2867,"Omaha, NE",0.0,228.0,0.0,8.0,0.0,0.0
+Allegiant Air,2023-05-01,-20.0,992,"Dayton, OH",0.0,24.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-05-01,4.0,78,"Rapid City, SD",0.0,45.0,0.0,14.0,0.0,0.0
+Republic Airline,2023-05-02,-20.0,4549,"Louisville, KY",0.0,0.0,0.0,53.0,0.0,0.0
+Alaska Airlines Inc.,2023-05-02,-19.0,1322,"Santa Rosa, CA",0.0,0.0,0.0,7.0,0.0,40.0
+SkyWest Airlines Inc.,2023-05-02,-2.0,3461,"Helena, MT",0.0,61.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-05-02,-15.0,5086,"Fayetteville, NC",0.0,8.0,0.0,23.0,0.0,9.0
+Envoy Air,2023-05-02,-10.0,3845,"Tampa, FL",0.0,0.0,0.0,0.0,0.0,106.0
+Delta Air Lines Inc.,2023-05-02,13.0,2967,"Myrtle Beach, SC",0.0,0.0,0.0,29.0,0.0,103.0
+SkyWest Airlines Inc.,2023-05-02,6.0,4666,"El Paso, TX",0.0,266.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-05-02,-10.0,3870,"Missoula, MT",0.0,0.0,0.0,63.0,0.0,0.0
+United Air Lines Inc.,2023-05-03,-13.0,1251,"Phoenix, AZ",0.0,0.0,0.0,42.0,0.0,0.0
+American Airlines Inc.,2023-05-03,4.0,216,"Louisville, KY",0.0,15.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-03,-5.0,4981,"Phoenix, AZ",0.0,0.0,0.0,20.0,0.0,0.0
+PSA Airlines Inc.,2023-05-03,-11.0,5534,"Tallahassee, FL",0.0,130.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-03,-18.0,5572,"Cincinnati, OH",0.0,56.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-05-03,-14.0,1719,"Rochester, NY",0.0,0.0,0.0,0.0,0.0,220.0
+United Air Lines Inc.,2023-05-04,18.0,2239,"Miami, FL",0.0,0.0,0.0,18.0,0.0,0.0
+Southwest Airlines Co.,2023-05-04,-17.0,1076,"Harlingen/San Benito, TX",0.0,0.0,0.0,0.0,0.0,58.0
+SkyWest Airlines Inc.,2023-05-04,-21.0,5051,"Dodge City, KS",0.0,37.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-04,71.0,5505,"Aspen, CO",0.0,0.0,0.0,0.0,0.0,71.0
+SkyWest Airlines Inc.,2023-05-04,3.0,3020,"Flagstaff, AZ",0.0,0.0,0.0,0.0,0.0,96.0
+Envoy Air,2023-05-04,1.0,4144,"Santa Rosa, CA",0.0,0.0,149.0,5.0,0.0,0.0
+PSA Airlines Inc.,2023-05-04,6.0,5587,"Montgomery, AL",0.0,0.0,0.0,20.0,0.0,0.0
+Southwest Airlines Co.,2023-05-05,-21.0,168,"Atlanta, GA",0.0,18.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-05-05,-7.0,1535,"Cleveland, OH",0.0,75.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-05-05,-12.0,4366,"New Orleans, LA",0.0,0.0,0.0,21.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-05,49.0,4787,"Eagle, CO",0.0,0.0,49.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-05-05,-20.0,1780,"Mission/McAllen/Edinburg, TX",0.0,58.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-05,-22.0,4917,"Evansville, IN",0.0,,,,,
+JetBlue Airways,2023-05-06,596.0,400,"New Orleans, LA",0.0,437.0,0.0,0.0,0.0,159.0
+Envoy Air,2023-05-06,-16.0,3992,"Fayetteville, AR",0.0,87.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-05-06,-15.0,4326,"Atlanta, GA",0.0,0.0,0.0,0.0,0.0,16.0
+Frontier Airlines Inc.,2023-05-06,28.0,431,"Little Rock, AR",0.0,2.0,0.0,13.0,0.0,13.0
+Allegiant Air,2023-05-06,-17.0,872,"Rochester, NY",0.0,36.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-05-07,-11.0,5436,"Greensboro/High Point, NC",0.0,0.0,1.0,0.0,0.0,62.0
+SkyWest Airlines Inc.,2023-05-07,282.0,3657,"Shreveport, LA",0.0,282.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-05-07,13.0,3506,"Evansville, IN",0.0,0.0,4.0,18.0,0.0,0.0
+Envoy Air,2023-05-07,-11.0,3463,"Augusta, GA",0.0,4.0,0.0,2.0,0.0,61.0
+Allegiant Air,2023-05-07,-7.0,1272,"Ashland, WV",0.0,0.0,56.0,0.0,0.0,19.0
+Envoy Air,2023-05-07,-13.0,3313,"College Station/Bryan, TX",0.0,0.0,0.0,31.0,0.0,103.0
+SkyWest Airlines Inc.,2023-05-07,2.0,5054,"North Platte, NE",0.0,17.0,0.0,0.0,0.0,0.0
+JetBlue Airways,2023-05-07,54.0,1006,"Portland, OR",0.0,0.0,0.0,0.0,0.0,54.0
+Delta Air Lines Inc.,2023-05-08,67.0,1312,"Seattle, WA",0.0,10.0,0.0,0.0,0.0,57.0
+Alaska Airlines Inc.,2023-05-08,-1.0,545,"Omaha, NE",0.0,104.0,0.0,20.0,0.0,0.0
+Alaska Airlines Inc.,2023-05-08,11.0,869,"San Jose, CA",0.0,0.0,0.0,23.0,0.0,0.0
+Envoy Air,2023-05-08,7.0,4068,"Myrtle Beach, SC",0.0,0.0,0.0,70.0,0.0,46.0
+United Air Lines Inc.,2023-05-08,-23.0,216,"Buffalo, NY",0.0,0.0,0.0,34.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-08,-6.0,3099,"Durango, CO",0.0,37.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-08,23.0,5480,"San Antonio, TX",0.0,23.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-08,-23.0,5181,"Joplin, MO",0.0,17.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-05-08,-15.0,5461,"Green Bay, WI",0.0,,,,,
+Envoy Air,2023-05-08,-6.0,3537,"Minneapolis, MN",0.0,20.0,0.0,3.0,0.0,233.0
+Allegiant Air,2023-05-08,1.0,411,"Jacksonville, FL",0.0,0.0,0.0,0.0,0.0,34.0
+Envoy Air,2023-05-08,29.0,3870,"Cleveland, OH",0.0,10.0,0.0,19.0,0.0,0.0
+American Airlines Inc.,2023-05-09,114.0,2503,"Tampa, FL",0.0,3.0,0.0,32.0,0.0,79.0
+Southwest Airlines Co.,2023-05-09,-17.0,2867,"Jackson/Vicksburg, MS",0.0,0.0,0.0,0.0,0.0,17.0
+Spirit Air Lines,2023-05-09,-11.0,3829,"Baltimore, MD",0.0,0.0,0.0,0.0,0.0,69.0
+United Air Lines Inc.,2023-05-09,1.0,2240,"Kalispell, MT",0.0,52.0,0.0,11.0,0.0,8.0
+Alaska Airlines Inc.,2023-05-09,-23.0,934,"Eugene, OR",0.0,0.0,0.0,10.0,0.0,16.0
+SkyWest Airlines Inc.,2023-05-09,16.0,4892,"Killeen, TX",0.0,16.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-05-10,-19.0,354,"Albuquerque, NM",0.0,0.0,0.0,15.0,0.0,6.0
+Alaska Airlines Inc.,2023-05-10,2.0,1173,"Santa Ana, CA",0.0,230.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-05-10,-3.0,3362,"Newark, NJ",0.0,20.0,0.0,0.0,0.0,10.0
+PSA Airlines Inc.,2023-05-10,-29.0,5405,"New Bern/Morehead/Beaufort, NC",0.0,,,,,
+Spirit Air Lines,2023-05-11,-16.0,1810,"Fort Lauderdale, FL",0.0,28.0,0.0,72.0,0.0,0.0
+United Air Lines Inc.,2023-05-11,-21.0,2339,"Las Vegas, NV",0.0,174.0,0.0,5.0,0.0,56.0
+Southwest Airlines Co.,2023-05-11,2.0,429,"Boise, ID",0.0,0.0,0.0,0.0,0.0,26.0
+SkyWest Airlines Inc.,2023-05-11,-4.0,3503,"Milwaukee, WI",0.0,29.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-11,-36.0,1653,"Columbia, SC",0.0,0.0,42.0,0.0,0.0,0.0
+Envoy Air,2023-05-11,-17.0,3935,"Rochester, MN",0.0,150.0,0.0,16.0,0.0,0.0
+JetBlue Airways,2023-05-11,-10.0,707,"Seattle, WA",0.0,27.0,0.0,11.0,0.0,0.0
+JetBlue Airways,2023-05-11,-22.0,1746,"Charlotte, NC",0.0,19.0,0.0,0.0,0.0,139.0
+Allegiant Air,2023-05-11,-16.0,1118,"Melbourne, FL",0.0,0.0,0.0,36.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-12,-6.0,3189,"Alexandria, LA",0.0,263.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-12,-14.0,2574,"Jackson/Vicksburg, MS",0.0,0.0,0.0,20.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-12,16.0,2418,"Savannah, GA",0.0,0.0,0.0,0.0,0.0,16.0
+SkyWest Airlines Inc.,2023-05-12,240.0,4176,"Minot, ND",0.0,240.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-05-12,-6.0,5397,"Jacksonville/Camp Lejeune, NC",0.0,0.0,0.0,16.0,0.0,13.0
+SkyWest Airlines Inc.,2023-05-12,3.0,5463,"Roanoke, VA",0.0,0.0,0.0,0.0,0.0,34.0
+SkyWest Airlines Inc.,2023-05-12,14.0,3669,"Pittsburgh, PA",0.0,0.0,131.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-05-12,-8.0,4756,"La Crosse, WI",0.0,,,,,
+Delta Air Lines Inc.,2023-05-13,16.0,1763,"San Juan, PR",0.0,16.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-05-13,9.0,5103,"Lexington, KY",0.0,1.0,0.0,48.0,0.0,2.0
+SkyWest Airlines Inc.,2023-05-13,-1.0,3436,"Great Falls, MT",0.0,0.0,231.0,0.0,0.0,0.0
+JetBlue Airways,2023-05-13,83.0,98,"Denver, CO",0.0,24.0,0.0,0.0,0.0,59.0
+SkyWest Airlines Inc.,2023-05-13,-15.0,5016,"Scottsbluff, NE",0.0,15.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-14,-6.0,2394,"Grand Rapids, MI",0.0,67.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-14,12.0,539,"Los Angeles, CA",0.0,14.0,0.0,0.0,0.0,42.0
+Southwest Airlines Co.,2023-05-14,-8.0,1708,"San Antonio, TX",0.0,3.0,0.0,24.0,0.0,14.0
+American Airlines Inc.,2023-05-14,-20.0,2621,"Milwaukee, WI",0.0,810.0,0.0,33.0,0.0,97.0
+Alaska Airlines Inc.,2023-05-14,-7.0,1091,"Ontario, CA",0.0,0.0,0.0,0.0,0.0,33.0
+SkyWest Airlines Inc.,2023-05-14,6.0,4306,"West Yellowstone, MT",0.0,,,,,
+Allegiant Air,2023-05-15,22.0,328,"Harrisburg, PA",0.0,0.0,0.0,0.0,0.0,22.0
+Southwest Airlines Co.,2023-05-15,1.0,1193,"Albany, NY",0.0,0.0,0.0,0.0,0.0,42.0
+Delta Air Lines Inc.,2023-05-15,-9.0,1382,"Burlington, VT",0.0,0.0,0.0,21.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-15,-25.0,1167,"Grand Forks, ND",0.0,5.0,0.0,0.0,0.0,396.0
+Alaska Airlines Inc.,2023-05-15,-15.0,563,"Kansas City, MO",0.0,0.0,0.0,6.0,0.0,33.0
+Envoy Air,2023-05-15,-12.0,3477,"Kalispell, MT",0.0,,,,,
+Allegiant Air,2023-05-16,-20.0,324,"Fargo, ND",0.0,0.0,0.0,41.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-16,-11.0,3216,"Brownsville, TX",0.0,34.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-05-16,-13.0,5225,"Greensboro/High Point, NC",0.0,27.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-16,-25.0,3956,"Duluth, MN",0.0,0.0,0.0,0.0,0.0,52.0
+Endeavor Air Inc.,2023-05-16,1.0,4875,"Columbus, OH",0.0,0.0,0.0,0.0,0.0,149.0
+SkyWest Airlines Inc.,2023-05-17,-16.0,4231,"St. George, UT",0.0,0.0,29.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-05-17,-16.0,4628,"Rochester, NY",0.0,0.0,0.0,10.0,0.0,72.0
+Hawaiian Airlines Inc.,2023-05-17,18.0,81,"Austin, TX",0.0,18.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-05-17,-16.0,4767,"Mosinee, WI",0.0,0.0,114.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-17,-11.0,3009,"Laredo, TX",0.0,197.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-05-17,-13.0,4670,"Appleton, WI",0.0,0.0,0.0,65.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-17,10.0,5522,"North Bend/Coos Bay, OR",0.0,219.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-18,-1.0,862,"Fort Lauderdale, FL",0.0,0.0,0.0,21.0,0.0,0.0
+United Air Lines Inc.,2023-05-18,5.0,2125,"Nashville, TN",0.0,26.0,0.0,0.0,0.0,19.0
+PSA Airlines Inc.,2023-05-18,-12.0,5218,"Philadelphia, PA",0.0,3.0,0.0,14.0,0.0,0.0
+Frontier Airlines Inc.,2023-05-18,78.0,2337,"Miami, FL",0.0,1.0,0.0,0.0,0.0,77.0
+Frontier Airlines Inc.,2023-05-18,-10.0,4229,"Cincinnati, OH",0.0,10.0,0.0,34.0,0.0,13.0
+SkyWest Airlines Inc.,2023-05-18,3.0,4766,"Charleston, SC",0.0,0.0,20.0,0.0,0.0,0.0
+Envoy Air,2023-05-18,-3.0,3741,"Louisville, KY",0.0,0.0,0.0,23.0,0.0,2.0
+Delta Air Lines Inc.,2023-05-18,-4.0,1077,"Fayetteville, NC",0.0,109.0,0.0,13.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-18,-8.0,2810,"Charleston, SC",0.0,0.0,0.0,3.0,0.0,34.0
+JetBlue Airways,2023-05-18,33.0,943,"Reno, NV",0.0,0.0,0.0,20.0,0.0,13.0
+SkyWest Airlines Inc.,2023-05-18,-24.0,4241,"Sault Ste. Marie, MI",0.0,0.0,126.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-05-18,-18.0,5334,"Worcester, MA",0.0,0.0,0.0,21.0,0.0,181.0
+Delta Air Lines Inc.,2023-05-19,-15.0,976,"Denver, CO",0.0,463.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-05-19,-11.0,624,"Santa Ana, CA",0.0,1.0,0.0,17.0,0.0,23.0
+American Airlines Inc.,2023-05-19,-5.0,1832,"Denver, CO",1.0,0.0,0.0,0.0,0.0,61.0
+Southwest Airlines Co.,2023-05-19,79.0,755,"Amarillo, TX",0.0,1.0,0.0,0.0,0.0,78.0
+Republic Airline,2023-05-19,9.0,4713,"Nashville, TN",0.0,3.0,0.0,0.0,0.0,31.0
+Endeavor Air Inc.,2023-05-19,-21.0,5439,"Charlottesville, VA",0.0,0.0,0.0,153.0,0.0,0.0
+United Air Lines Inc.,2023-05-19,-3.0,646,"El Paso, TX",0.0,228.0,0.0,2.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-19,-35.0,4913,"Gulfport/Biloxi, MS",0.0,0.0,41.0,6.0,0.0,29.0
+American Airlines Inc.,2023-05-20,-10.0,2170,"Omaha, NE",0.0,0.0,0.0,5.0,0.0,66.0
+Endeavor Air Inc.,2023-05-20,-12.0,4857,"Kalamazoo, MI",0.0,28.0,0.0,5.0,0.0,0.0
+American Airlines Inc.,2023-05-20,0.0,2501,"Valparaiso, FL",0.0,0.0,0.0,61.0,0.0,31.0
+American Airlines Inc.,2023-05-20,72.0,665,"Lubbock, TX",0.0,72.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-05-20,-20.0,4345,"Valparaiso, FL",0.0,,,,,
+SkyWest Airlines Inc.,2023-05-21,-16.0,3926,"San Jose, CA",0.0,0.0,0.0,0.0,0.0,23.0
+Delta Air Lines Inc.,2023-05-21,47.0,2853,"Jacksonville, FL",0.0,0.0,0.0,4.0,0.0,43.0
+JetBlue Airways,2023-05-21,-3.0,794,"Austin, TX",0.0,3.0,0.0,0.0,0.0,46.0
+Republic Airline,2023-05-21,1.0,5664,"Hilton Head, SC",0.0,56.0,0.0,0.0,0.0,0.0
+JetBlue Airways,2023-05-21,-4.0,2592,"Miami, FL",0.0,119.0,0.0,9.0,0.0,241.0
+Envoy Air,2023-05-21,-17.0,3869,"Baltimore, MD",0.0,0.0,0.0,0.0,0.0,45.0
+Allegiant Air,2023-05-21,20.0,95,"Fayetteville, AR",0.0,0.0,0.0,11.0,0.0,9.0
+Frontier Airlines Inc.,2023-05-22,26.0,1622,"Nashville, TN",0.0,5.0,0.0,17.0,0.0,4.0
+Alaska Airlines Inc.,2023-05-22,-10.0,447,"El Paso, TX",0.0,0.0,0.0,15.0,0.0,0.0
+American Airlines Inc.,2023-05-22,-25.0,2722,"Reno, NV",0.0,0.0,0.0,26.0,0.0,0.0
+United Air Lines Inc.,2023-05-22,246.0,2225,"Albany, NY",0.0,246.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-22,-10.0,3581,"Jacksonville/Camp Lejeune, NC",0.0,,,,,
+Southwest Airlines Co.,2023-05-23,-2.0,1109,"Santa Ana, CA",0.0,16.0,0.0,3.0,0.0,15.0
+American Airlines Inc.,2023-05-23,3.0,2823,"Nashville, TN",0.0,2.0,0.0,0.0,0.0,46.0
+United Air Lines Inc.,2023-05-23,17.0,706,"Kahului, HI",0.0,0.0,0.0,17.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-23,-8.0,2200,"Columbus, OH",0.0,46.0,0.0,19.0,0.0,0.0
+JetBlue Airways,2023-05-23,-19.0,1383,"Portland, ME",0.0,0.0,0.0,28.0,0.0,0.0
+Envoy Air,2023-05-23,-7.0,3868,"Burbank, CA",0.0,,,,,
+Republic Airline,2023-05-23,-29.0,3511,"Hartford, CT",0.0,0.0,0.0,25.0,0.0,0.0
+PSA Airlines Inc.,2023-05-23,-10.0,5416,"Richmond, VA",0.0,,,,,
+Delta Air Lines Inc.,2023-05-24,-9.0,2304,"Hartford, CT",0.0,0.0,0.0,0.0,0.0,40.0
+SkyWest Airlines Inc.,2023-05-24,-20.0,3713,"Burbank, CA",0.0,0.0,0.0,17.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-24,61.0,1707,"Bismarck/Mandan, ND",0.0,61.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-05-24,19.0,553,"Knoxville, TN",1.0,1.0,0.0,0.0,0.0,18.0
+Envoy Air,2023-05-24,1.0,3872,"Eugene, OR",0.0,,,,,
+SkyWest Airlines Inc.,2023-05-25,-11.0,4748,"Green Bay, WI",0.0,0.0,0.0,0.0,0.0,24.0
+SkyWest Airlines Inc.,2023-05-25,-6.0,4976,"Monroe, LA",0.0,0.0,0.0,0.0,0.0,290.0
+Envoy Air,2023-05-25,-16.0,3888,"Montrose/Delta, CO",0.0,,,,,
+JetBlue Airways,2023-05-26,31.0,1284,"Orlando, FL",0.0,2.0,0.0,0.0,0.0,29.0
+Alaska Airlines Inc.,2023-05-26,-30.0,1282,"Portland, OR",0.0,0.0,0.0,6.0,0.0,16.0
+Frontier Airlines Inc.,2023-05-26,-10.0,801,"Ontario, CA",0.0,14.0,0.0,0.0,0.0,37.0
+American Airlines Inc.,2023-05-26,-24.0,1812,"Wilmington, NC",0.0,0.0,0.0,6.0,0.0,56.0
+Envoy Air,2023-05-26,-8.0,3475,"Bloomington/Normal, IL",0.0,4.0,0.0,17.0,0.0,0.0
+United Air Lines Inc.,2023-05-26,-9.0,465,"Cedar Rapids/Iowa City, IA",0.0,0.0,0.0,204.0,0.0,0.0
+Spirit Air Lines,2023-05-26,0.0,246,"Cleveland, OH",0.0,39.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-26,-18.0,5053,"Jamestown, ND",0.0,0.0,0.0,0.0,0.0,23.0
+Envoy Air,2023-05-26,-17.0,4231,"Columbia, MO",0.0,4.0,0.0,0.0,0.0,18.0
+Envoy Air,2023-05-26,-27.0,4225,"Detroit, MI",0.0,25.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-05-27,-27.0,707,"Austin, TX",0.0,20.0,0.0,0.0,0.0,1.0
+SkyWest Airlines Inc.,2023-05-27,-10.0,4966,"Lake Charles, LA",0.0,55.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-27,-25.0,3999,"Marquette, MI",0.0,51.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-27,-6.0,2125,"Oakland, CA",0.0,0.0,0.0,0.0,0.0,89.0
+Republic Airline,2023-05-27,-24.0,5590,"Traverse City, MI",0.0,0.0,0.0,14.0,0.0,25.0
+SkyWest Airlines Inc.,2023-05-27,0.0,3419,"Walla Walla, WA",0.0,0.0,0.0,0.0,0.0,21.0
+American Airlines Inc.,2023-05-28,-4.0,1594,"Oklahoma City, OK",0.0,1093.0,0.0,14.0,0.0,0.0
+Southwest Airlines Co.,2023-05-28,-12.0,1354,"Sarasota/Bradenton, FL",0.0,8.0,0.0,52.0,0.0,3.0
+Alaska Airlines Inc.,2023-05-28,-39.0,385,"Boston, MA",0.0,0.0,0.0,18.0,0.0,0.0
+Endeavor Air Inc.,2023-05-28,-7.0,4628,"Des Moines, IA",0.0,0.0,0.0,22.0,0.0,0.0
+PSA Airlines Inc.,2023-05-28,1.0,5618,"Roanoke, VA",0.0,0.0,0.0,0.0,0.0,35.0
+Frontier Airlines Inc.,2023-05-28,0.0,2269,"New York, NY",0.0,0.0,0.0,0.0,0.0,34.0
+Allegiant Air,2023-05-28,-6.0,466,"Portland, OR",0.0,247.0,0.0,8.0,0.0,0.0
+Alaska Airlines Inc.,2023-05-28,-7.0,1217,"Sacramento, CA",0.0,6.0,0.0,0.0,0.0,45.0
+Allegiant Air,2023-05-28,-27.0,983,"Bangor, ME",0.0,0.0,0.0,0.0,0.0,149.0
+Frontier Airlines Inc.,2023-05-28,4.0,517,"Oklahoma City, OK",0.0,0.0,0.0,15.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-29,-13.0,1432,"Dallas, TX",0.0,0.0,0.0,57.0,0.0,1.0
+Alaska Airlines Inc.,2023-05-29,-22.0,541,"Austin, TX",0.0,0.0,0.0,27.0,0.0,0.0
+JetBlue Airways,2023-05-29,2.0,896,"Atlanta, GA",0.0,2.0,0.0,43.0,0.0,18.0
+Allegiant Air,2023-05-29,-30.0,3101,"Minneapolis, MN",0.0,0.0,0.0,26.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-29,-1.0,5023,"Prescott, AZ",0.0,0.0,0.0,0.0,0.0,42.0
+Alaska Airlines Inc.,2023-05-29,8.0,500,"Indianapolis, IN",0.0,0.0,130.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-29,-16.0,704,"Eugene, OR",0.0,,,,,
+Alaska Airlines Inc.,2023-05-30,-8.0,643,"Denver, CO",0.0,0.0,0.0,0.0,0.0,34.0
+SkyWest Airlines Inc.,2023-05-30,56.0,4696,"Bakersfield, CA",0.0,0.0,0.0,56.0,0.0,0.0
+Envoy Air,2023-05-30,-22.0,3777,"Sacramento, CA",0.0,4.0,0.0,0.0,0.0,12.0
+Alaska Airlines Inc.,2023-05-30,34.0,88,"Kodiak, AK",0.0,0.0,0.0,4.0,0.0,30.0
+SkyWest Airlines Inc.,2023-05-30,-25.0,4237,"Pellston, MI",0.0,104.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-05-30,-14.0,5749,"Lexington, KY",0.0,0.0,0.0,38.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-30,-15.0,1562,"Juneau, AK",0.0,,,,,
+PSA Airlines Inc.,2023-05-30,-27.0,5060,"Baltimore, MD",0.0,,,,,
+Endeavor Air Inc.,2023-05-31,-22.0,5463,"New York, NY",0.0,0.0,0.0,0.0,0.0,49.0
+JetBlue Airways,2023-05-31,-19.0,1470,"Charleston, SC",0.0,0.0,0.0,0.0,0.0,20.0
+American Airlines Inc.,2023-05-31,-10.0,1355,"Savannah, GA",0.0,0.0,8.0,6.0,0.0,74.0
+SkyWest Airlines Inc.,2023-05-31,-8.0,3126,"Bend/Redmond, OR",0.0,22.0,0.0,0.0,0.0,0.0
+Spirit Air Lines,2023-05-31,50.0,1261,"Portland, OR",0.0,0.0,0.0,18.0,0.0,32.0
+SkyWest Airlines Inc.,2023-05-31,-18.0,5312,"Saginaw/Bay City/Midland, MI",0.0,24.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-05-31,7.0,4666,"Amarillo, TX",0.0,0.0,0.0,0.0,0.0,92.0
+SkyWest Airlines Inc.,2023-05-31,-24.0,4334,"Iron Mountain/Kingsfd, MI",0.0,0.0,20.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-05-31,-6.0,1622,"Wilmington, NC",0.0,116.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-06-01,-17.0,3540,"Manchester, NH",0.0,0.0,0.0,24.0,0.0,0.0
+Delta Air Lines Inc.,2023-06-01,-11.0,2514,"Indianapolis, IN",0.0,0.0,0.0,19.0,0.0,0.0
+Alaska Airlines Inc.,2023-06-01,-34.0,589,"Dallas, TX",0.0,0.0,0.0,16.0,0.0,6.0
+SkyWest Airlines Inc.,2023-06-01,-3.0,5060,"Salina, KS",0.0,0.0,0.0,0.0,0.0,16.0
+Alaska Airlines Inc.,2023-06-01,3.0,812,"Kahului, HI",0.0,0.0,0.0,0.0,0.0,49.0
+Southwest Airlines Co.,2023-06-01,-20.0,1438,"Valparaiso, FL",0.0,0.0,0.0,0.0,0.0,146.0
+Allegiant Air,2023-06-01,-19.0,2262,"Pasco/Kennewick/Richland, WA",0.0,0.0,0.0,2.0,0.0,114.0
+PSA Airlines Inc.,2023-06-01,-24.0,5404,"Atlanta, GA",0.0,0.0,132.0,1.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-01,-11.0,4721,"Mission/McAllen/Edinburg, TX",0.0,19.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-06-02,1.0,5258,"Detroit, MI",0.0,14.0,0.0,0.0,0.0,8.0
+SkyWest Airlines Inc.,2023-06-02,-2.0,3841,"Reno, NV",0.0,299.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-02,6.0,5616,"Fresno, CA",0.0,460.0,0.0,0.0,0.0,0.0
+Hawaiian Airlines Inc.,2023-06-02,40.0,9,"Los Angeles, CA",0.0,40.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-06-02,13.0,623,"Fort Lauderdale, FL",0.0,0.0,0.0,39.0,0.0,0.0
+Alaska Airlines Inc.,2023-06-02,27.0,66,"Cordova, AK",0.0,12.0,0.0,0.0,0.0,15.0
+Allegiant Air,2023-06-02,-9.0,996,"Bloomington/Normal, IL",0.0,0.0,0.0,121.0,0.0,39.0
+Envoy Air,2023-06-02,-9.0,3478,"Amarillo, TX",0.0,0.0,0.0,25.0,0.0,6.0
+United Air Lines Inc.,2023-06-02,-13.0,2397,"Ontario, CA",0.0,0.0,0.0,0.0,0.0,82.0
+JetBlue Airways,2023-06-02,204.0,670,"San Jose, CA",0.0,16.0,0.0,22.0,0.0,166.0
+United Air Lines Inc.,2023-06-02,-20.0,539,"Fayetteville, AR",0.0,7.0,0.0,0.0,0.0,51.0
+Delta Air Lines Inc.,2023-06-02,-7.0,2760,"Rochester, MN",0.0,,,,,
+SkyWest Airlines Inc.,2023-06-02,119.0,3984,"Baltimore, MD",0.0,119.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-06-03,33.0,462,"Manchester, NH",0.0,26.0,0.0,0.0,0.0,7.0
+American Airlines Inc.,2023-06-03,2.0,406,"Eugene, OR",0.0,0.0,18.0,0.0,0.0,0.0
+Republic Airline,2023-06-03,-13.0,3454,"Dallas/Fort Worth, TX",0.0,,,,,
+JetBlue Airways,2023-06-04,101.0,946,"Nashville, TN",0.0,0.0,0.0,16.0,0.0,85.0
+Southwest Airlines Co.,2023-06-04,-12.0,5158,"Fresno, CA",0.0,0.0,0.0,0.0,0.0,16.0
+Republic Airline,2023-06-04,2.0,3402,"Cincinnati, OH",0.0,0.0,0.0,0.0,0.0,41.0
+Endeavor Air Inc.,2023-06-04,0.0,4678,"Ithaca/Cortland, NY",0.0,0.0,0.0,5.0,0.0,15.0
+Delta Air Lines Inc.,2023-06-04,-10.0,2997,"Bozeman, MT",0.0,0.0,0.0,1.0,0.0,439.0
+Spirit Air Lines,2023-06-04,-15.0,2517,"Reno, NV",0.0,0.0,0.0,0.0,0.0,189.0
+SkyWest Airlines Inc.,2023-06-04,-22.0,4759,"Birmingham, AL",0.0,89.0,0.0,0.0,0.0,0.0
+JetBlue Airways,2023-06-04,-26.0,360,"Philadelphia, PA",0.0,13.0,0.0,12.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-05,-10.0,3883,"Minneapolis, MN",0.0,21.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-06-05,72.0,541,"San Diego, CA",0.0,0.0,0.0,0.0,0.0,72.0
+Delta Air Lines Inc.,2023-06-05,-23.0,1179,"New Orleans, LA",0.0,0.0,0.0,557.0,0.0,0.0
+Envoy Air,2023-06-05,18.0,3499,"Billings, MT",0.0,0.0,0.0,18.0,0.0,0.0
+Delta Air Lines Inc.,2023-06-05,156.0,2745,"Huntsville, AL",0.0,0.0,0.0,0.0,0.0,156.0
+SkyWest Airlines Inc.,2023-06-05,-9.0,4834,"Austin, TX",0.0,0.0,0.0,0.0,0.0,52.0
+Endeavor Air Inc.,2023-06-05,-7.0,4946,"Portland, ME",0.0,29.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-06-05,-16.0,2384,"Daytona Beach, FL",0.0,29.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-05,2.0,4283,"Bemidji, MN",0.0,33.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-06-05,26.0,3644,"Little Rock, AR",0.0,25.0,0.0,0.0,0.0,1.0
+Spirit Air Lines,2023-06-05,-24.0,1234,"Fort Myers, FL",0.0,0.0,0.0,0.0,0.0,54.0
+Republic Airline,2023-06-05,-22.0,4369,"Panama City, FL",0.0,0.0,0.0,0.0,0.0,31.0
+SkyWest Airlines Inc.,2023-06-05,-1.0,4714,"Flint, MI",0.0,15.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-06-05,64.0,763,"Medford, OR",0.0,20.0,0.0,24.0,0.0,20.0
+American Airlines Inc.,2023-06-06,-17.0,1825,"Dallas/Fort Worth, TX",0.0,18.0,0.0,16.0,0.0,316.0
+United Air Lines Inc.,2023-06-06,-40.0,2298,"Minneapolis, MN",0.0,36.0,0.0,16.0,0.0,0.0
+American Airlines Inc.,2023-06-06,-4.0,2879,"Monterey, CA",0.0,0.0,0.0,3.0,0.0,41.0
+Envoy Air,2023-06-06,37.0,3855,"El Paso, TX",0.0,0.0,0.0,37.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-06,20.0,5657,"Sarasota/Bradenton, FL",0.0,20.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-06-07,3.0,5662,"Charlotte, NC",0.0,0.0,0.0,0.0,0.0,53.0
+Envoy Air,2023-06-07,-11.0,3978,"Phoenix, AZ",0.0,136.0,0.0,0.0,0.0,45.0
+Endeavor Air Inc.,2023-06-07,-24.0,4917,"Birmingham, AL",0.0,62.0,0.0,0.0,0.0,2.0
+American Airlines Inc.,2023-06-07,-7.0,1225,"Richmond, VA",0.0,0.0,3.0,0.0,0.0,44.0
+Republic Airline,2023-06-07,-18.0,3589,"Rochester, NY",0.0,0.0,0.0,218.0,0.0,0.0
+Delta Air Lines Inc.,2023-06-07,-9.0,2033,"Charlottesville, VA",0.0,148.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-07,-9.0,4272,"Brainerd, MN",0.0,150.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-06-07,-28.0,787,"Green Bay, WI",0.0,0.0,0.0,15.0,0.0,0.0
+Alaska Airlines Inc.,2023-06-07,-48.0,187,"Adak Island, AK",0.0,0.0,0.0,7.0,28.0,0.0
+Envoy Air,2023-06-07,-15.0,3459,"Salt Lake City, UT",0.0,,,,,
+Allegiant Air,2023-06-08,-15.0,2542,"South Bend, IN",0.0,0.0,0.0,15.0,0.0,0.0
+Spirit Air Lines,2023-06-08,0.0,123,"San Juan, PR",0.0,0.0,40.0,49.0,0.0,0.0
+Delta Air Lines Inc.,2023-06-08,-8.0,2604,"Baton Rouge, LA",0.0,0.0,0.0,23.0,0.0,0.0
+Republic Airline,2023-06-08,-10.0,4687,"Worcester, MA",0.0,0.0,0.0,64.0,0.0,0.0
+American Airlines Inc.,2023-06-08,13.0,2320,"Rochester, NY",0.0,422.0,0.0,16.0,0.0,0.0
+Alaska Airlines Inc.,2023-06-08,6.0,650,"Albuquerque, NM",0.0,2.0,0.0,20.0,0.0,42.0
+United Air Lines Inc.,2023-06-08,65.0,2418,"San Jose, CA",0.0,0.0,0.0,65.0,0.0,0.0
+Republic Airline,2023-06-08,55.0,3679,"Greer, SC",0.0,55.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-06-08,-12.0,1541,"Flint, MI",0.0,18.0,0.0,13.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-08,6.0,4106,"Richmond, VA",0.0,0.0,28.0,0.0,0.0,0.0
+Allegiant Air,2023-06-08,-13.0,992,"Chattanooga, TN",0.0,4.0,0.0,2.0,0.0,16.0
+American Airlines Inc.,2023-06-09,-18.0,943,"Boston, MA",0.0,79.0,0.0,6.0,0.0,0.0
+Envoy Air,2023-06-09,9.0,3930,"Traverse City, MI",0.0,0.0,0.0,0.0,0.0,343.0
+United Air Lines Inc.,2023-06-09,19.0,1394,"Greer, SC",0.0,19.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-09,30.0,4281,"Elko, NV",0.0,30.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-06-09,44.0,2634,"Hayden, CO",0.0,0.0,0.0,29.0,0.0,15.0
+SkyWest Airlines Inc.,2023-06-09,-5.0,4233,"Rhinelander, WI",0.0,16.0,0.0,0.0,0.0,0.0
+Hawaiian Airlines Inc.,2023-06-09,29.0,11,"San Francisco, CA",0.0,29.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-09,-20.0,4747,"Dickinson, ND",0.0,38.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-06-09,-13.0,1196,"Oklahoma City, OK",0.0,0.0,0.0,19.0,0.0,42.0
+Frontier Airlines Inc.,2023-06-10,164.0,1287,"Orlando, FL",0.0,0.0,159.0,5.0,0.0,0.0
+Delta Air Lines Inc.,2023-06-10,-16.0,2615,"Las Vegas, NV",0.0,0.0,0.0,160.0,0.0,0.0
+Frontier Airlines Inc.,2023-06-10,11.0,671,"Myrtle Beach, SC",0.0,0.0,0.0,0.0,0.0,55.0
+American Airlines Inc.,2023-06-11,-29.0,2134,"Washington, DC",0.0,0.0,0.0,49.0,0.0,0.0
+Delta Air Lines Inc.,2023-06-11,5.0,1767,"Jackson, WY",0.0,15.0,0.0,20.0,0.0,0.0
+Endeavor Air Inc.,2023-06-11,-13.0,5285,"Traverse City, MI",0.0,0.0,0.0,0.0,0.0,54.0
+JetBlue Airways,2023-06-11,-19.0,178,"Las Vegas, NV",0.0,47.0,0.0,6.0,0.0,62.0
+SkyWest Airlines Inc.,2023-06-11,-13.0,3269,"Longview, TX",0.0,0.0,0.0,0.0,0.0,33.0
+JetBlue Airways,2023-06-11,-30.0,66,"Albuquerque, NM",0.0,15.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-06-11,-8.0,3975,"Rapid City, SD",0.0,7.0,0.0,0.0,0.0,35.0
+American Airlines Inc.,2023-06-12,-18.0,1813,"Philadelphia, PA",1.0,0.0,0.0,18.0,0.0,0.0
+PSA Airlines Inc.,2023-06-12,-11.0,5493,"Wilmington, NC",1.0,0.0,0.0,3.0,0.0,44.0
+Frontier Airlines Inc.,2023-06-12,8.0,1995,"El Paso, TX",0.0,0.0,0.0,0.0,0.0,18.0
+Allegiant Air,2023-06-12,-12.0,3110,"Little Rock, AR",0.0,0.0,0.0,0.0,0.0,22.0
+American Airlines Inc.,2023-06-13,-10.0,1862,"Pittsburgh, PA",0.0,46.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-06-13,14.0,2369,"Spokane, WA",0.0,15.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-06-13,28.0,1681,"El Paso, TX",0.0,2.0,0.0,0.0,0.0,26.0
+SkyWest Airlines Inc.,2023-06-13,-11.0,5897,"San Luis Obispo, CA",0.0,0.0,0.0,0.0,0.0,31.0
+JetBlue Airways,2023-06-13,46.0,30,"San Diego, CA",0.0,0.0,0.0,0.0,0.0,46.0
+SkyWest Airlines Inc.,2023-06-13,9.0,3796,"Sitka, AK",0.0,593.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-06-13,11.0,1239,"Boston, MA",0.0,9.0,0.0,7.0,0.0,0.0
+Republic Airline,2023-06-13,14.0,5672,"Omaha, NE",0.0,0.0,0.0,0.0,0.0,60.0
+PSA Airlines Inc.,2023-06-13,-9.0,5016,"Jacksonville, FL",0.0,64.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-06-13,1.0,2607,"Fairbanks, AK",0.0,40.0,0.0,0.0,0.0,0.0
+Alaska Airlines Inc.,2023-06-13,71.0,508,"Cincinnati, OH",0.0,0.0,0.0,0.0,0.0,71.0
+Southwest Airlines Co.,2023-06-14,9.0,1079,"Phoenix, AZ",0.0,15.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-06-14,0.0,5608,"Washington, DC",0.0,0.0,0.0,20.0,0.0,0.0
+Endeavor Air Inc.,2023-06-14,-8.0,5424,"Cleveland, OH",0.0,19.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-06-14,46.0,2974,"Lexington, KY",0.0,0.0,0.0,46.0,0.0,0.0
+Southwest Airlines Co.,2023-06-14,25.0,2486,"Jacksonville, FL",0.0,0.0,0.0,25.0,0.0,0.0
+JetBlue Airways,2023-06-14,239.0,2186,"Pittsburgh, PA",0.0,0.0,0.0,0.0,0.0,239.0
+Alaska Airlines Inc.,2023-06-14,14.0,405,"Oklahoma City, OK",0.0,0.0,0.0,26.0,0.0,0.0
+Allegiant Air,2023-06-14,5.0,2886,"Gulfport/Biloxi, MS",0.0,17.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-06-15,-10.0,2249,"Seattle, WA",0.0,1.0,0.0,0.0,0.0,39.0
+Endeavor Air Inc.,2023-06-15,-23.0,5261,"Washington, DC",0.0,20.0,0.0,0.0,0.0,0.0
+Alaska Airlines Inc.,2023-06-15,57.0,453,"Houston, TX",0.0,28.0,0.0,0.0,0.0,29.0
+JetBlue Airways,2023-06-15,-17.0,233,"Burlington, VT",0.0,56.0,0.0,7.0,0.0,0.0
+Alaska Airlines Inc.,2023-06-15,-13.0,515,"Milwaukee, WI",0.0,0.0,0.0,40.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-15,-14.0,4647,"Bangor, ME",0.0,0.0,32.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-06-16,167.0,623,"Detroit, MI",0.0,92.0,0.0,23.0,0.0,52.0
+American Airlines Inc.,2023-06-16,21.0,2570,"Portland, ME",0.0,0.0,0.0,21.0,0.0,0.0
+Frontier Airlines Inc.,2023-06-16,25.0,1198,"San Antonio, TX",0.0,0.0,0.0,0.0,0.0,25.0
+Allegiant Air,2023-06-16,-6.0,708,"Omaha, NE",0.0,0.0,0.0,55.0,0.0,0.0
+United Air Lines Inc.,2023-06-16,-8.0,247,"Colorado Springs, CO",0.0,0.0,0.0,0.0,0.0,143.0
+Delta Air Lines Inc.,2023-06-17,-11.0,2899,"Birmingham, AL",0.0,0.0,0.0,0.0,0.0,144.0
+Allegiant Air,2023-06-17,236.0,383,"Cincinnati, OH",0.0,229.0,0.0,7.0,0.0,0.0
+Republic Airline,2023-06-17,-11.0,5719,"Boston, MA",0.0,44.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-06-17,-20.0,1607,"Richmond, VA",0.0,1.0,0.0,28.0,0.0,8.0
+Frontier Airlines Inc.,2023-06-17,-8.0,739,"Tampa, FL",0.0,0.0,0.0,33.0,0.0,0.0
+Allegiant Air,2023-06-17,14.0,1497,"San Diego, CA",0.0,0.0,0.0,20.0,0.0,116.0
+Endeavor Air Inc.,2023-06-17,-12.0,5350,"Alexandria, LA",0.0,0.0,0.0,0.0,0.0,49.0
+JetBlue Airways,2023-06-17,36.0,162,"Sacramento, CA",0.0,19.0,0.0,4.0,0.0,13.0
+American Airlines Inc.,2023-06-17,13.0,489,"Rapid City, SD",0.0,,,,,
+Southwest Airlines Co.,2023-06-18,39.0,719,"Dallas, TX",0.0,15.0,0.0,6.0,0.0,18.0
+Endeavor Air Inc.,2023-06-18,-27.0,4920,"Cincinnati, OH",0.0,10.0,0.0,21.0,0.0,9.0
+Southwest Airlines Co.,2023-06-18,-8.0,5100,"Memphis, TN",0.0,12.0,0.0,0.0,0.0,16.0
+PSA Airlines Inc.,2023-06-18,-9.0,5121,"Portland, ME",0.0,1.0,0.0,30.0,0.0,0.0
+Allegiant Air,2023-06-18,-14.0,233,"Newark, NJ",0.0,0.0,0.0,3.0,0.0,71.0
+Endeavor Air Inc.,2023-06-18,1.0,5041,"Madison, WI",0.0,0.0,0.0,22.0,0.0,0.0
+Republic Airline,2023-06-18,-5.0,4506,"Columbia, SC",0.0,10.0,0.0,1.0,0.0,11.0
+Alaska Airlines Inc.,2023-06-18,-22.0,491,"Pittsburgh, PA",0.0,3.0,0.0,0.0,0.0,14.0
+PSA Airlines Inc.,2023-06-18,-5.0,5527,"Rapid City, SD",0.0,0.0,0.0,0.0,0.0,45.0
+Alaska Airlines Inc.,2023-06-18,-9.0,419,"Detroit, MI",0.0,0.0,0.0,15.0,0.0,0.0
+United Air Lines Inc.,2023-06-18,-1.0,2082,"Harrisburg, PA",0.0,17.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-06-18,2.0,2706,"Roanoke, VA",0.0,0.0,0.0,0.0,0.0,162.0
+Delta Air Lines Inc.,2023-06-18,-25.0,2368,"Colorado Springs, CO",0.0,17.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-06-18,-6.0,3846,"Burlington, VT",0.0,,,,,
+Endeavor Air Inc.,2023-06-18,10.0,5465,"Tallahassee, FL",0.0,0.0,0.0,10.0,0.0,231.0
+United Air Lines Inc.,2023-06-19,22.0,323,"Newark, NJ",0.0,22.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-06-19,-13.0,3557,"Los Angeles, CA",0.0,11.0,0.0,0.0,0.0,25.0
+Delta Air Lines Inc.,2023-06-19,-2.0,1404,"Miami, FL",0.0,11.0,0.0,66.0,0.0,5.0
+American Airlines Inc.,2023-06-19,-12.0,2655,"Portland, OR",0.0,0.0,0.0,22.0,0.0,0.0
+PSA Airlines Inc.,2023-06-19,27.0,5180,"White Plains, NY",0.0,7.0,0.0,10.0,0.0,10.0
+Delta Air Lines Inc.,2023-06-19,4.0,2724,"Dayton, OH",0.0,0.0,0.0,25.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-20,-8.0,3694,"White Plains, NY",0.0,35.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-06-20,-22.0,3490,"Fargo, ND",0.0,0.0,263.0,2.0,0.0,0.0
+PSA Airlines Inc.,2023-06-20,-16.0,5281,"Lafayette, LA",0.0,0.0,0.0,29.0,0.0,0.0
+Alaska Airlines Inc.,2023-06-21,-18.0,108,"Anchorage, AK",0.0,0.0,0.0,3.0,0.0,17.0
+JetBlue Airways,2023-06-21,43.0,533,"Hartford, CT",0.0,0.0,0.0,43.0,0.0,0.0
+United Air Lines Inc.,2023-06-21,-10.0,1376,"Grand Rapids, MI",0.0,17.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-06-21,-18.0,1053,"Midland/Odessa, TX",0.0,81.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-06-21,9.0,1354,"Atlanta, GA",0.0,0.0,0.0,33.0,0.0,0.0
+Southwest Airlines Co.,2023-06-21,-7.0,675,"Colorado Springs, CO",0.0,0.0,0.0,35.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-21,-31.0,4904,"Columbia, MO",0.0,19.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-06-21,-24.0,5064,"Savannah, GA",0.0,0.0,0.0,18.0,0.0,0.0
+Southwest Airlines Co.,2023-06-22,-10.0,1359,"Nashville, TN",0.0,0.0,0.0,51.0,0.0,0.0
+Southwest Airlines Co.,2023-06-22,0.0,1522,"St. Louis, MO",0.0,0.0,0.0,26.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-22,2.0,5436,"Fort Wayne, IN",0.0,0.0,147.0,0.0,0.0,0.0
+Spirit Air Lines,2023-06-22,-12.0,424,"Salt Lake City, UT",0.0,64.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-06-22,-9.0,3053,"Knoxville, TN",0.0,3.0,0.0,0.0,0.0,34.0
+Alaska Airlines Inc.,2023-06-22,7.0,924,"Bend/Redmond, OR",0.0,14.0,0.0,1.0,0.0,0.0
+United Air Lines Inc.,2023-06-23,114.0,2300,"West Palm Beach/Palm Beach, FL",0.0,0.0,0.0,23.0,0.0,91.0
+JetBlue Airways,2023-06-23,-12.0,1145,"Richmond, VA",0.0,22.0,0.0,0.0,0.0,0.0
+Alaska Airlines Inc.,2023-06-23,74.0,555,"Minneapolis, MN",0.0,0.0,0.0,0.0,0.0,74.0
+PSA Airlines Inc.,2023-06-23,60.0,5015,"Daytona Beach, FL",0.0,23.0,0.0,32.0,0.0,5.0
+Envoy Air,2023-06-24,-23.0,3799,"Springfield, MO",0.0,0.0,10.0,7.0,0.0,0.0
+United Air Lines Inc.,2023-06-24,654.0,469,"San Antonio, TX",0.0,6.0,0.0,0.0,0.0,648.0
+SkyWest Airlines Inc.,2023-06-24,-14.0,4033,"Ontario, CA",0.0,23.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-06-24,-5.0,5319,"Pittsburgh, PA",0.0,0.0,0.0,21.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-24,-25.0,5246,"Montrose/Delta, CO",0.0,28.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-24,-29.0,4160,"Bloomington/Normal, IL",0.0,22.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-24,8.0,4950,"Fort Smith, AR",0.0,21.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-24,3.0,4662,"Charlotte, NC",0.0,28.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-25,-12.0,4009,"Portland, OR",0.0,0.0,0.0,0.0,0.0,18.0
+SkyWest Airlines Inc.,2023-06-25,-18.0,3745,"Omaha, NE",0.0,19.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-06-25,-8.0,5242,"Shreveport, LA",0.0,71.0,0.0,0.0,0.0,112.0
+PSA Airlines Inc.,2023-06-25,-22.0,5439,"Cedar Rapids/Iowa City, IA",0.0,0.0,0.0,0.0,0.0,45.0
+Southwest Airlines Co.,2023-06-26,-30.0,3574,"San Jose, CA",0.0,0.0,0.0,0.0,0.0,16.0
+American Airlines Inc.,2023-06-26,-20.0,1912,"Norfolk, VA",0.0,0.0,0.0,0.0,0.0,37.0
+United Air Lines Inc.,2023-06-26,-3.0,560,"Dallas/Fort Worth, TX",1.0,17.0,0.0,0.0,0.0,29.0
+Alaska Airlines Inc.,2023-06-26,75.0,3,"Washington, DC",0.0,75.0,0.0,0.0,0.0,0.0
+Spirit Air Lines,2023-06-26,-29.0,2865,"Memphis, TN",1.0,0.0,0.0,18.0,0.0,0.0
+United Air Lines Inc.,2023-06-26,56.0,2316,"Des Moines, IA",1.0,0.0,0.0,22.0,0.0,34.0
+Republic Airline,2023-06-26,17.0,4782,"Martha's Vineyard, MA",0.0,0.0,0.0,17.0,0.0,0.0
+Delta Air Lines Inc.,2023-06-26,-12.0,1360,"Billings, MT",0.0,4.0,0.0,0.0,0.0,104.0
+SkyWest Airlines Inc.,2023-06-26,-7.0,5114,"Vernal, UT",0.0,0.0,0.0,312.0,0.0,0.0
+Endeavor Air Inc.,2023-06-26,-13.0,5052,"Lansing, MI",0.0,0.0,0.0,0.0,0.0,49.0
+Spirit Air Lines,2023-06-26,-13.0,887,"Latrobe, PA",0.0,0.0,0.0,8.0,0.0,59.0
+Delta Air Lines Inc.,2023-06-26,-17.0,829,"Anchorage, AK",0.0,21.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-26,119.0,5376,"Peoria, IL",0.0,0.0,0.0,0.0,0.0,119.0
+Republic Airline,2023-06-27,-4.0,4543,"Raleigh/Durham, NC",0.0,59.0,0.0,0.0,0.0,64.0
+Spirit Air Lines,2023-06-27,-6.0,2523,"San Jose, CA",0.0,0.0,0.0,36.0,0.0,0.0
+United Air Lines Inc.,2023-06-27,-13.0,1729,"Tulsa, OK",0.0,0.0,0.0,24.0,0.0,0.0
+Republic Airline,2023-06-27,137.0,3420,"Bangor, ME",0.0,122.0,0.0,15.0,0.0,0.0
+United Air Lines Inc.,2023-06-27,55.0,2084,"Bend/Redmond, OR",0.0,29.0,0.0,0.0,0.0,26.0
+SkyWest Airlines Inc.,2023-06-27,4.0,4013,"Ketchikan, AK",0.0,83.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-06-28,29.0,2830,"San Francisco, CA",0.0,1.0,0.0,0.0,0.0,28.0
+Spirit Air Lines,2023-06-28,0.0,1445,"Charleston, SC",0.0,128.0,0.0,14.0,0.0,0.0
+Delta Air Lines Inc.,2023-06-28,28.0,2988,"White Plains, NY",0.0,28.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-06-28,-3.0,5176,"Greer, SC",0.0,16.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-28,8.0,3219,"Mosinee, WI",0.0,,,,,
+JetBlue Airways,2023-06-29,-21.0,2765,"Hyannis, MA",0.0,5.0,0.0,0.0,0.0,135.0
+Alaska Airlines Inc.,2023-06-29,25.0,483,"Baltimore, MD",0.0,18.0,0.0,7.0,0.0,0.0
+PSA Airlines Inc.,2023-06-30,61.0,5175,"Louisville, KY",0.0,57.0,0.0,4.0,0.0,0.0
+SkyWest Airlines Inc.,2023-06-30,5.0,4238,"Aberdeen, SD",0.0,0.0,135.0,0.0,0.0,0.0
+American Airlines Inc.,2023-06-30,0.0,1282,"Anchorage, AK",0.0,19.0,0.0,0.0,0.0,5.0
+Delta Air Lines Inc.,2023-06-30,23.0,1587,"Memphis, TN",0.0,18.0,0.0,0.0,0.0,5.0
+Allegiant Air,2023-06-30,-9.0,781,"Los Angeles, CA",0.0,12.0,0.0,0.0,0.0,182.0
+Delta Air Lines Inc.,2023-06-30,-17.0,2452,"Fargo, ND",0.0,0.0,0.0,58.0,0.0,0.0
+Alaska Airlines Inc.,2023-06-30,12.0,169,"Dillingham, AK",0.0,24.0,0.0,22.0,0.0,0.0
+Allegiant Air,2023-06-30,-15.0,2392,"Missoula, MT",0.0,0.0,0.0,28.0,0.0,49.0
+Envoy Air,2023-06-30,5.0,3429,"Syracuse, NY",0.0,5.0,0.0,5.0,0.0,57.0
+Endeavor Air Inc.,2023-06-30,-21.0,5282,"Allentown/Bethlehem/Easton, PA",0.0,0.0,152.0,0.0,0.0,0.0
+Republic Airline,2023-06-30,-7.0,3517,"Cedar Rapids/Iowa City, IA",0.0,23.0,0.0,0.0,0.0,2.0
+American Airlines Inc.,2023-07-01,3.0,2539,"Fort Lauderdale, FL",0.0,0.0,0.0,0.0,0.0,50.0
+Delta Air Lines Inc.,2023-07-01,217.0,372,"Nashville, TN",0.0,217.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-07-01,88.0,4947,"Memphis, TN",0.0,0.0,88.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-07-01,56.0,3331,"Bozeman, MT",0.0,0.0,0.0,0.0,0.0,56.0
+Delta Air Lines Inc.,2023-07-01,-17.0,1352,"Roanoke, VA",0.0,0.0,13.0,0.0,0.0,3.0
+SkyWest Airlines Inc.,2023-07-02,-19.0,3950,"New York, NY",0.0,0.0,109.0,0.0,0.0,0.0
+Envoy Air,2023-07-02,39.0,3945,"Chicago, IL",0.0,0.0,39.0,0.0,0.0,0.0
+JetBlue Airways,2023-07-02,0.0,188,"Los Angeles, CA",0.0,238.0,0.0,2.0,0.0,0.0
+Delta Air Lines Inc.,2023-07-02,0.0,2271,"Cincinnati, OH",0.0,164.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-07-02,3.0,3920,"Montgomery, AL",0.0,319.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-07-02,-18.0,591,"Columbus, OH",0.0,0.0,0.0,0.0,0.0,19.0
+Frontier Airlines Inc.,2023-07-02,-10.0,550,"San Diego, CA",0.0,1.0,0.0,18.0,0.0,43.0
+Allegiant Air,2023-07-02,77.0,3218,"Provo, UT",0.0,5.0,0.0,62.0,0.0,10.0
+Allegiant Air,2023-07-02,72.0,788,"Kalispell, MT",0.0,0.0,0.0,0.0,0.0,72.0
+Allegiant Air,2023-07-02,45.0,92,"Bozeman, MT",0.0,0.0,0.0,6.0,0.0,39.0
+JetBlue Airways,2023-07-03,-26.0,431,"Boston, MA",0.0,54.0,0.0,36.0,0.0,0.0
+Spirit Air Lines,2023-07-03,38.0,356,"Orlando, FL",0.0,38.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-07-03,-2.0,5394,"San Francisco, CA",0.0,41.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-07-03,-8.0,727,"Baltimore, MD",0.0,27.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-07-03,-33.0,1724,"Kona, HI",0.0,17.0,0.0,0.0,0.0,0.0
+Alaska Airlines Inc.,2023-07-03,-10.0,73,"Sitka, AK",0.0,0.0,0.0,3.0,0.0,16.0
+SkyWest Airlines Inc.,2023-07-03,-22.0,5130,"Riverton/Lander, WY",0.0,0.0,58.0,0.0,0.0,0.0
+Allegiant Air,2023-07-03,21.0,162,"Myrtle Beach, SC",0.0,0.0,21.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-07-04,-19.0,1238,"San Antonio, TX",0.0,12.0,0.0,0.0,0.0,30.0
+Alaska Airlines Inc.,2023-07-04,12.0,707,"Las Vegas, NV",0.0,0.0,0.0,0.0,0.0,15.0
+Hawaiian Airlines Inc.,2023-07-04,-2.0,168,"Honolulu, HI",0.0,34.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-07-04,-13.0,642,"Pittsburgh, PA",0.0,48.0,0.0,0.0,0.0,6.0
+SkyWest Airlines Inc.,2023-07-04,-24.0,5279,"State College, PA",0.0,0.0,0.0,0.0,0.0,120.0
+United Air Lines Inc.,2023-07-05,-20.0,1112,"Cincinnati, OH",0.0,0.0,0.0,86.0,0.0,22.0
+Frontier Airlines Inc.,2023-07-05,-4.0,1207,"Hartford, CT",0.0,10.0,0.0,11.0,0.0,44.0
+Envoy Air,2023-07-05,-2.0,3677,"Mobile, AL",0.0,16.0,0.0,23.0,0.0,2.0
+Southwest Airlines Co.,2023-07-06,-13.0,2210,"Portland, OR",0.0,11.0,0.0,24.0,0.0,0.0
+Frontier Airlines Inc.,2023-07-06,-19.0,1798,"Indianapolis, IN",0.0,0.0,0.0,0.0,0.0,55.0
+SkyWest Airlines Inc.,2023-07-06,-12.0,4299,"Twin Falls, ID",0.0,80.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-07-06,-5.0,443,"Sioux Falls, SD",0.0,,,,,
+Alaska Airlines Inc.,2023-07-07,48.0,369,"Orlando, FL",0.0,0.0,0.0,42.0,0.0,6.0
+SkyWest Airlines Inc.,2023-07-07,49.0,4716,"Hayden, CO",0.0,49.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-07-07,-19.0,2994,"El Paso, TX",0.0,0.0,0.0,0.0,0.0,31.0
+Endeavor Air Inc.,2023-07-07,100.0,5106,"Nashville, TN",0.0,0.0,0.0,82.0,0.0,18.0
+Envoy Air,2023-07-07,-8.0,3900,"San Angelo, TX",0.0,0.0,0.0,0.0,0.0,15.0
+Allegiant Air,2023-07-07,3.0,267,"Chicago, IL",0.0,0.0,0.0,15.0,0.0,0.0
+Alaska Airlines Inc.,2023-07-08,-27.0,69,"Ketchikan, AK",0.0,22.0,0.0,3.0,0.0,0.0
+SkyWest Airlines Inc.,2023-07-08,-3.0,3682,"Eugene, OR",0.0,15.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-07-08,-19.0,3512,"Chattanooga, TN",0.0,0.0,0.0,52.0,0.0,0.0
+United Air Lines Inc.,2023-07-08,242.0,500,"Indianapolis, IN",0.0,190.0,0.0,0.0,0.0,52.0
+PSA Airlines Inc.,2023-07-08,24.0,5437,"Syracuse, NY",0.0,0.0,0.0,4.0,0.0,20.0
+Endeavor Air Inc.,2023-07-08,-22.0,4906,"Monroe, LA",0.0,0.0,0.0,0.0,0.0,84.0
+Endeavor Air Inc.,2023-07-08,-9.0,4938,"Grand Rapids, MI",0.0,0.0,0.0,0.0,0.0,64.0
+American Airlines Inc.,2023-07-08,18.0,846,"Burlington, VT",0.0,2.0,0.0,14.0,0.0,2.0
+Alaska Airlines Inc.,2023-07-08,-7.0,50,"Barrow, AK",1.0,0.0,0.0,6.0,18.0,0.0
+Envoy Air,2023-07-08,61.0,3568,"Sarasota/Bradenton, FL",0.0,14.0,0.0,0.0,0.0,47.0
+Republic Airline,2023-07-09,-27.0,3609,"Pittsburgh, PA",1.0,0.0,0.0,43.0,0.0,0.0
+Allegiant Air,2023-07-09,32.0,1497,"Washington, DC",0.0,0.0,0.0,4.0,0.0,28.0
+SkyWest Airlines Inc.,2023-07-09,62.0,4655,"Arcata/Eureka, CA",0.0,0.0,0.0,0.0,0.0,62.0
+Envoy Air,2023-07-09,-13.0,3906,"Knoxville, TN",0.0,0.0,13.0,20.0,0.0,149.0
+Envoy Air,2023-07-09,14.0,3895,"Oklahoma City, OK",0.0,0.0,116.0,19.0,0.0,0.0
+United Air Lines Inc.,2023-07-09,1.0,2271,"Anchorage, AK",0.0,10.0,0.0,0.0,0.0,122.0
+SkyWest Airlines Inc.,2023-07-09,-15.0,3839,"Grand Forks, ND",0.0,0.0,130.0,0.0,0.0,0.0
+Envoy Air,2023-07-09,-14.0,3883,"Wilmington, NC",1.0,0.0,0.0,42.0,0.0,3.0
+Envoy Air,2023-07-09,-15.0,3628,"Tucson, AZ",0.0,36.0,0.0,6.0,0.0,37.0
+Endeavor Air Inc.,2023-07-10,-10.0,5295,"Binghamton, NY",0.0,46.0,0.0,26.0,0.0,0.0
+United Air Lines Inc.,2023-07-10,-9.0,2379,"Seattle, WA",0.0,10.0,0.0,0.0,0.0,59.0
+American Airlines Inc.,2023-07-10,-6.0,2288,"Orlando, FL",0.0,0.0,55.0,41.0,0.0,18.0
+Southwest Airlines Co.,2023-07-10,-10.0,1529,"Lubbock, TX",0.0,6.0,0.0,10.0,0.0,0.0
+Allegiant Air,2023-07-10,-25.0,1362,"Sarasota/Bradenton, FL",0.0,0.0,0.0,57.0,0.0,0.0
+Delta Air Lines Inc.,2023-07-10,-15.0,2470,"Tulsa, OK",0.0,39.0,0.0,0.0,0.0,46.0
+Spirit Air Lines,2023-07-10,45.0,3050,"Norfolk, VA",0.0,0.0,1.0,44.0,0.0,0.0
+SkyWest Airlines Inc.,2023-07-10,-19.0,4650,"Lincoln, NE",0.0,115.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-07-11,-17.0,2839,"Tampa, FL",0.0,73.0,0.0,0.0,0.0,35.0
+SkyWest Airlines Inc.,2023-07-11,-8.0,4067,"Oakland, CA",0.0,21.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-07-11,-22.0,5460,"Lansing, MI",0.0,59.0,0.0,3.0,0.0,0.0
+PSA Airlines Inc.,2023-07-11,-23.0,5433,"Albany, NY",0.0,1.0,0.0,36.0,0.0,0.0
+SkyWest Airlines Inc.,2023-07-11,82.0,5652,"Indianapolis, IN",0.0,0.0,0.0,0.0,0.0,82.0
+Hawaiian Airlines Inc.,2023-07-11,0.0,35,"Phoenix, AZ",0.0,31.0,0.0,6.0,0.0,0.0
+Envoy Air,2023-07-11,-25.0,3436,"Valparaiso, FL",0.0,68.0,0.0,2.0,0.0,2.0
+Southwest Airlines Co.,2023-07-11,24.0,349,"Montrose/Delta, CO",0.0,7.0,0.0,0.0,0.0,17.0
+United Air Lines Inc.,2023-07-11,0.0,2260,"Grand Junction, CO",0.0,42.0,0.0,9.0,0.0,0.0
+Envoy Air,2023-07-11,-18.0,3898,"Portland, OR",0.0,,,,,
+Frontier Airlines Inc.,2023-07-12,-23.0,664,"San Francisco, CA",0.0,47.0,0.0,2.0,0.0,0.0
+American Airlines Inc.,2023-07-12,-8.0,2472,"Seattle, WA",0.0,0.0,0.0,42.0,0.0,9.0
+SkyWest Airlines Inc.,2023-07-12,10.0,5048,"Laramie, WY",0.0,53.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-07-12,-20.0,1063,"Portland, ME",0.0,0.0,25.0,2.0,0.0,0.0
+Endeavor Air Inc.,2023-07-12,5.0,5489,"Little Rock, AR",0.0,0.0,0.0,17.0,0.0,0.0
+Republic Airline,2023-07-12,5.0,4487,"Dayton, OH",0.0,0.0,0.0,0.0,0.0,32.0
+Southwest Airlines Co.,2023-07-13,6.0,3360,"Tucson, AZ",0.0,0.0,7.0,23.0,0.0,0.0
+Endeavor Air Inc.,2023-07-13,-23.0,4901,"Charlotte, NC",1.0,0.0,0.0,48.0,0.0,9.0
+Hawaiian Airlines Inc.,2023-07-13,20.0,89,"Boston, MA",0.0,20.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-07-14,59.0,428,"New York, NY",0.0,0.0,0.0,59.0,0.0,0.0
+Delta Air Lines Inc.,2023-07-14,-32.0,566,"Sacramento, CA",0.0,132.0,0.0,60.0,0.0,0.0
+Southwest Airlines Co.,2023-07-14,-10.0,290,"Detroit, MI",0.0,133.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-07-14,46.0,2911,"Cincinnati, OH",0.0,4.0,0.0,0.0,0.0,42.0
+Southwest Airlines Co.,2023-07-14,95.0,2266,"West Palm Beach/Palm Beach, FL",0.0,0.0,0.0,30.0,0.0,65.0
+Delta Air Lines Inc.,2023-07-14,-11.0,2220,"Pensacola, FL",0.0,0.0,0.0,9.0,0.0,13.0
+PSA Airlines Inc.,2023-07-14,-33.0,5313,"Bangor, ME",1.0,0.0,0.0,31.0,0.0,0.0
+Allegiant Air,2023-07-14,22.0,446,"Des Moines, IA",0.0,6.0,0.0,2.0,0.0,14.0
+Endeavor Air Inc.,2023-07-14,-19.0,5094,"Moline, IL",0.0,1.0,0.0,0.0,0.0,23.0
+PSA Airlines Inc.,2023-07-14,-27.0,5466,"Springfield, MO",0.0,0.0,0.0,0.0,0.0,78.0
+Envoy Air,2023-07-14,-4.0,3449,"Columbia, SC",0.0,,,,,
+Delta Air Lines Inc.,2023-07-15,-11.0,720,"Portland, OR",0.0,0.0,0.0,10.0,0.0,13.0
+Delta Air Lines Inc.,2023-07-15,-18.0,1157,"Key West, FL",0.0,0.0,0.0,56.0,0.0,6.0
+Southwest Airlines Co.,2023-07-15,2.0,2338,"Eugene, OR",0.0,0.0,0.0,16.0,0.0,0.0
+Southwest Airlines Co.,2023-07-16,-11.0,5422,"San Francisco, CA",0.0,18.0,0.0,10.0,0.0,10.0
+Frontier Airlines Inc.,2023-07-16,235.0,1119,"Harrisburg, PA",0.0,62.0,0.0,0.0,0.0,173.0
+Delta Air Lines Inc.,2023-07-16,-13.0,2008,"Appleton, WI",0.0,,,,,
+Endeavor Air Inc.,2023-07-16,-11.0,5304,"Baltimore, MD",1.0,0.0,0.0,0.0,0.0,306.0
+Envoy Air,2023-07-16,102.0,3456,"Panama City, FL",0.0,0.0,0.0,0.0,0.0,102.0
+Delta Air Lines Inc.,2023-07-16,-28.0,2966,"Chattanooga, TN",0.0,0.0,0.0,13.0,0.0,142.0
+American Airlines Inc.,2023-07-16,30.0,2828,"Bangor, ME",1.0,9.0,0.0,21.0,0.0,0.0
+Southwest Airlines Co.,2023-07-16,35.0,3272,"Portland, ME",0.0,12.0,0.0,5.0,0.0,18.0
+Republic Airline,2023-07-16,-11.0,3606,"Madison, WI",1.0,20.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-07-17,-12.0,3517,"Jacksonville, FL",0.0,0.0,0.0,4.0,0.0,135.0
+Alaska Airlines Inc.,2023-07-17,-2.0,325,"Chicago, IL",0.0,0.0,0.0,49.0,0.0,0.0
+SkyWest Airlines Inc.,2023-07-17,-14.0,5286,"Corpus Christi, TX",0.0,98.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-07-17,-14.0,1265,"Richmond, VA",0.0,0.0,0.0,26.0,0.0,90.0
+Delta Air Lines Inc.,2023-07-17,-18.0,874,"Boise, ID",0.0,0.0,0.0,0.0,0.0,37.0
+Endeavor Air Inc.,2023-07-17,-23.0,5147,"Burlington, VT",0.0,0.0,73.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-07-17,-4.0,719,"Fayetteville, AR",0.0,0.0,0.0,0.0,0.0,33.0
+SkyWest Airlines Inc.,2023-07-18,-13.0,3304,"Boise, ID",0.0,31.0,0.0,0.0,0.0,0.0
+Alaska Airlines Inc.,2023-07-18,8.0,427,"Raleigh/Durham, NC",0.0,0.0,0.0,0.0,0.0,32.0
+Envoy Air,2023-07-18,-8.0,3721,"Raleigh/Durham, NC",0.0,14.0,0.0,19.0,0.0,0.0
+Frontier Airlines Inc.,2023-07-18,26.0,491,"Fargo, ND",0.0,3.0,0.0,0.0,0.0,23.0
+SkyWest Airlines Inc.,2023-07-18,-13.0,4774,"Casper, WY",0.0,0.0,0.0,0.0,0.0,106.0
+Delta Air Lines Inc.,2023-07-18,35.0,1388,"Asheville, NC",0.0,0.0,0.0,0.0,0.0,35.0
+Alaska Airlines Inc.,2023-07-18,67.0,326,"Tampa, FL",0.0,0.0,0.0,16.0,0.0,51.0
+American Airlines Inc.,2023-07-18,-15.0,1735,"Kalispell, MT",0.0,0.0,0.0,22.0,0.0,0.0
+Republic Airline,2023-07-18,-17.0,4354,"Tulsa, OK",0.0,0.0,0.0,51.0,0.0,0.0
+PSA Airlines Inc.,2023-07-18,-35.0,5251,"Greer, SC",0.0,1.0,0.0,0.0,0.0,99.0
+United Air Lines Inc.,2023-07-18,-25.0,398,"Fairbanks, AK",0.0,8.0,0.0,6.0,0.0,92.0
+Endeavor Air Inc.,2023-07-18,28.0,5195,"Mobile, AL",0.0,0.0,0.0,0.0,0.0,28.0
+Frontier Airlines Inc.,2023-07-18,108.0,4893,"Charlotte Amalie, VI",0.0,10.0,0.0,6.0,0.0,92.0
+Endeavor Air Inc.,2023-07-19,-14.0,5025,"St. Louis, MO",0.0,0.0,0.0,123.0,0.0,0.0
+United Air Lines Inc.,2023-07-19,-34.0,1593,"Sacramento, CA",0.0,0.0,0.0,0.0,0.0,26.0
+Envoy Air,2023-07-19,-15.0,3358,"Montgomery, AL",0.0,0.0,0.0,15.0,0.0,0.0
+JetBlue Airways,2023-07-19,-1.0,1339,"Martha's Vineyard, MA",0.0,0.0,0.0,0.0,0.0,99.0
+United Air Lines Inc.,2023-07-19,-14.0,1758,"Philadelphia, PA",0.0,7.0,0.0,0.0,0.0,121.0
+PSA Airlines Inc.,2023-07-19,-3.0,5525,"Pensacola, FL",0.0,0.0,15.0,40.0,0.0,14.0
+Southwest Airlines Co.,2023-07-20,-12.0,1293,"San Diego, CA",0.0,0.0,0.0,0.0,0.0,25.0
+Southwest Airlines Co.,2023-07-20,-8.0,2417,"Raleigh/Durham, NC",0.0,11.0,0.0,0.0,0.0,8.0
+Delta Air Lines Inc.,2023-07-20,192.0,2210,"Panama City, FL",0.0,0.0,170.0,22.0,0.0,0.0
+Frontier Airlines Inc.,2023-07-20,21.0,1095,"Islip, NY",0.0,0.0,0.0,0.0,0.0,21.0
+Delta Air Lines Inc.,2023-07-20,-13.0,1953,"Gulfport/Biloxi, MS",0.0,52.0,0.0,10.0,0.0,6.0
+Endeavor Air Inc.,2023-07-20,139.0,5143,"Chattanooga, TN",0.0,0.0,121.0,0.0,0.0,18.0
+Alaska Airlines Inc.,2023-07-20,-3.0,126,"King Salmon, AK",0.0,0.0,0.0,18.0,13.0,14.0
+Frontier Airlines Inc.,2023-07-20,-13.0,883,"Trenton, NJ",0.0,0.0,0.0,0.0,0.0,37.0
+PSA Airlines Inc.,2023-07-20,3.0,5413,"Cleveland, OH",0.0,0.0,0.0,0.0,0.0,44.0
+SkyWest Airlines Inc.,2023-07-20,-29.0,3022,"Baton Rouge, LA",0.0,0.0,1055.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-07-21,-4.0,5499,"Baton Rouge, LA",0.0,128.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-07-21,-14.0,2962,"Phoenix, AZ",0.0,9.0,0.0,0.0,0.0,35.0
+Spirit Air Lines,2023-07-21,60.0,1527,"New Orleans, LA",0.0,0.0,0.0,0.0,0.0,60.0
+SkyWest Airlines Inc.,2023-07-21,8.0,5159,"Rock Springs, WY",0.0,0.0,119.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-07-21,-3.0,323,"Ontario, CA",0.0,0.0,0.0,0.0,0.0,134.0
+Southwest Airlines Co.,2023-07-21,-15.0,2265,"Islip, NY",0.0,0.0,0.0,0.0,0.0,173.0
+American Airlines Inc.,2023-07-21,-11.0,2523,"Bozeman, MT",0.0,43.0,0.0,46.0,0.0,0.0
+Endeavor Air Inc.,2023-07-21,128.0,5409,"Memphis, TN",0.0,0.0,128.0,0.0,0.0,0.0
+Allegiant Air,2023-07-21,-15.0,2925,"Mission/McAllen/Edinburg, TX",0.0,3.0,0.0,0.0,0.0,32.0
+Envoy Air,2023-07-21,10.0,3839,"Bismarck/Mandan, ND",0.0,0.0,0.0,83.0,0.0,0.0
+Alaska Airlines Inc.,2023-07-22,7.0,234,"Fairbanks, AK",0.0,13.0,0.0,10.0,0.0,0.0
+American Airlines Inc.,2023-07-22,-9.0,2980,"Memphis, TN",0.0,3.0,0.0,0.0,0.0,62.0
+SkyWest Airlines Inc.,2023-07-22,1.0,5216,"Dayton, OH",0.0,0.0,0.0,0.0,0.0,35.0
+JetBlue Airways,2023-07-22,94.0,250,"Savannah, GA",0.0,8.0,0.0,0.0,0.0,86.0
+PSA Airlines Inc.,2023-07-22,-22.0,5464,"Little Rock, AR",0.0,0.0,0.0,19.0,0.0,0.0
+Envoy Air,2023-07-22,-23.0,3457,"Fort Wayne, IN",0.0,1.0,0.0,0.0,0.0,38.0
+Frontier Airlines Inc.,2023-07-22,-22.0,571,"Minneapolis, MN",0.0,0.0,0.0,74.0,0.0,0.0
+PSA Airlines Inc.,2023-07-22,-28.0,5017,"Charlottesville, VA",0.0,,,,,
+Envoy Air,2023-07-22,-11.0,3530,"Martha's Vineyard, MA",0.0,,,,,
+United Air Lines Inc.,2023-07-23,-2.0,1182,"Austin, TX",0.0,0.0,0.0,130.0,0.0,0.0
+Alaska Airlines Inc.,2023-07-23,-29.0,25,"New York, NY",0.0,0.0,0.0,31.0,0.0,30.0
+SkyWest Airlines Inc.,2023-07-23,26.0,3005,"Santa Fe, NM",0.0,26.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-07-23,18.0,2254,"Portland, OR",0.0,3.0,0.0,0.0,0.0,15.0
+Envoy Air,2023-07-23,-5.0,3577,"Key West, FL",0.0,19.0,0.0,0.0,0.0,18.0
+Southwest Airlines Co.,2023-07-23,60.0,3012,"Norfolk, VA",0.0,8.0,0.0,0.0,0.0,52.0
+Delta Air Lines Inc.,2023-07-23,-1.0,2798,"Newark, NJ",0.0,4.0,0.0,10.0,0.0,2.0
+PSA Airlines Inc.,2023-07-23,93.0,5187,"Peoria, IL",0.0,3.0,0.0,10.0,0.0,80.0
+Allegiant Air,2023-07-23,-17.0,360,"Providence, RI",0.0,0.0,0.0,18.0,0.0,0.0
+American Airlines Inc.,2023-07-23,23.0,2446,"Traverse City, MI",0.0,0.0,0.0,0.0,0.0,23.0
+SkyWest Airlines Inc.,2023-07-23,1.0,3918,"Columbus, MS",0.0,,,,,
+JetBlue Airways,2023-07-24,18.0,1754,"San Juan, PR",0.0,3.0,0.0,0.0,0.0,15.0
+PSA Airlines Inc.,2023-07-24,-15.0,5509,"Norfolk, VA",0.0,171.0,0.0,0.0,0.0,0.0
+JetBlue Airways,2023-07-24,21.0,967,"White Plains, NY",0.0,0.0,0.0,21.0,0.0,0.0
+Envoy Air,2023-07-24,-23.0,3786,"Grand Junction, CO",0.0,45.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-07-24,31.0,998,"Greer, SC",0.0,0.0,0.0,0.0,0.0,31.0
+SkyWest Airlines Inc.,2023-07-24,-18.0,4996,"San Angelo, TX",0.0,18.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-07-25,-10.0,3781,"Greer, SC",0.0,215.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-07-25,136.0,2137,"San Antonio, TX",0.0,0.0,0.0,0.0,0.0,136.0
+Endeavor Air Inc.,2023-07-25,-8.0,5079,"Jacksonville, FL",0.0,0.0,0.0,17.0,0.0,0.0
+Frontier Airlines Inc.,2023-07-25,1.0,2600,"Santa Ana, CA",0.0,1.0,0.0,7.0,0.0,8.0
+Envoy Air,2023-07-25,24.0,3528,"Charleston, SC",0.0,12.0,0.0,0.0,0.0,12.0
+SkyWest Airlines Inc.,2023-07-25,-4.0,4848,"Harlingen/San Benito, TX",0.0,,,,,
+Delta Air Lines Inc.,2023-07-26,0.0,2965,"Baltimore, MD",0.0,0.0,0.0,0.0,0.0,29.0
+PSA Airlines Inc.,2023-07-26,0.0,5156,"Dallas/Fort Worth, TX",0.0,430.0,0.0,0.0,0.0,143.0
+United Air Lines Inc.,2023-07-26,-12.0,1739,"Medford, OR",0.0,21.0,0.0,0.0,0.0,44.0
+Republic Airline,2023-07-27,33.0,3526,"Myrtle Beach, SC",1.0,0.0,0.0,33.0,0.0,0.0
+Republic Airline,2023-07-27,-15.0,5776,"Savannah, GA",1.0,0.0,0.0,110.0,0.0,114.0
+PSA Airlines Inc.,2023-07-27,-7.0,5488,"Melbourne, FL",0.0,0.0,20.0,12.0,0.0,77.0
+Envoy Air,2023-07-27,-2.0,3387,"Pensacola, FL",0.0,1.0,0.0,0.0,0.0,24.0
+Alaska Airlines Inc.,2023-07-27,-33.0,77,"Gustavus, AK",0.0,,,,,
+Endeavor Air Inc.,2023-07-27,-11.0,4993,"Shreveport, LA",0.0,0.0,0.0,14.0,0.0,8.0
+Allegiant Air,2023-07-27,8.0,94,"Santa Maria, CA",0.0,0.0,0.0,26.0,0.0,0.0
+PSA Airlines Inc.,2023-07-28,49.0,5063,"Birmingham, AL",0.0,0.0,0.0,30.0,0.0,19.0
+SkyWest Airlines Inc.,2023-07-28,1.0,3413,"Redding, CA",0.0,20.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-07-28,31.0,5586,"South Bend, IN",0.0,9.0,0.0,22.0,0.0,0.0
+Delta Air Lines Inc.,2023-07-28,22.0,1010,"Dallas/Fort Worth, TX",0.0,22.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-07-28,8.0,1475,"Valparaiso, FL",0.0,0.0,0.0,0.0,0.0,29.0
+SkyWest Airlines Inc.,2023-07-28,-15.0,5344,"Williston, ND",0.0,15.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-07-28,-6.0,3993,"Boston, MA",0.0,0.0,245.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-07-28,30.0,772,"Spokane, WA",0.0,0.0,0.0,30.0,0.0,0.0
+Spirit Air Lines,2023-07-28,72.0,173,"New York, NY",0.0,0.0,0.0,72.0,0.0,0.0
+SkyWest Airlines Inc.,2023-07-28,-21.0,4825,"Tallahassee, FL",0.0,0.0,0.0,4.0,0.0,58.0
+Alaska Airlines Inc.,2023-07-28,-7.0,402,"Charleston, SC",0.0,0.0,6.0,2.0,0.0,231.0
+Delta Air Lines Inc.,2023-07-28,-17.0,405,"Rapid City, SD",0.0,68.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-07-29,16.0,5272,"Gulfport/Biloxi, MS",0.0,0.0,0.0,0.0,0.0,16.0
+Envoy Air,2023-07-29,-10.0,3392,"Bakersfield, CA",0.0,0.0,0.0,0.0,0.0,49.0
+PSA Airlines Inc.,2023-07-29,-24.0,5492,"Fayetteville, AR",0.0,0.0,0.0,0.0,0.0,31.0
+American Airlines Inc.,2023-07-29,12.0,2896,"Durango, CO",0.0,0.0,0.0,0.0,0.0,23.0
+Southwest Airlines Co.,2023-07-30,-8.0,461,"Panama City, FL",0.0,0.0,0.0,1.0,0.0,96.0
+SkyWest Airlines Inc.,2023-07-30,60.0,4640,"Huntsville, AL",0.0,60.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-07-30,-18.0,5157,"Dayton, OH",0.0,4.0,0.0,0.0,0.0,24.0
+Envoy Air,2023-07-30,-9.0,3623,"Monroe, LA",0.0,0.0,0.0,42.0,0.0,0.0
+Frontier Airlines Inc.,2023-07-31,41.0,4883,"Aguadilla, PR",0.0,0.0,0.0,0.0,0.0,41.0
+American Airlines Inc.,2023-07-31,-20.0,1464,"Baltimore, MD",0.0,94.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-07-31,4.0,5218,"Chattanooga, TN",0.0,423.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-07-31,-24.0,3899,"Palm Springs, CA",0.0,9.0,0.0,6.0,0.0,2.0
+Allegiant Air,2023-07-31,86.0,718,"Grand Island, NE",0.0,43.0,0.0,0.0,0.0,43.0
+Allegiant Air,2023-07-31,51.0,1715,"Grand Junction, CO",0.0,0.0,0.0,51.0,0.0,0.0
+Allegiant Air,2023-07-31,79.0,131,"San Antonio, TX",0.0,0.0,58.0,21.0,0.0,0.0
+Endeavor Air Inc.,2023-07-31,-10.0,4996,"Fargo, ND",0.0,9.0,0.0,0.0,0.0,19.0
+American Airlines Inc.,2023-08-01,-27.0,1737,"Lexington, KY",0.0,5.0,0.0,0.0,0.0,71.0
+Southwest Airlines Co.,2023-08-01,1.0,979,"Burbank, CA",0.0,0.0,0.0,0.0,0.0,34.0
+Envoy Air,2023-08-01,-14.0,3831,"Tulsa, OK",0.0,0.0,0.0,43.0,0.0,0.0
+Southwest Airlines Co.,2023-08-01,-7.0,1915,"Des Moines, IA",0.0,12.0,0.0,6.0,0.0,0.0
+United Air Lines Inc.,2023-08-01,476.0,2255,"Missoula, MT",0.0,448.0,0.0,28.0,0.0,0.0
+Republic Airline,2023-08-02,-26.0,4695,"Fayetteville, AR",0.0,0.0,0.0,3.0,0.0,23.0
+United Air Lines Inc.,2023-08-02,-15.0,1134,"Burlington, VT",0.0,13.0,0.0,15.0,0.0,0.0
+Allegiant Air,2023-08-02,-8.0,804,"Wichita, KS",0.0,0.0,0.0,3.0,0.0,43.0
+American Airlines Inc.,2023-08-02,-15.0,1635,"Harrisburg, PA",0.0,0.0,0.0,31.0,0.0,0.0
+Spirit Air Lines,2023-08-03,107.0,55,"Myrtle Beach, SC",0.0,0.0,0.0,38.0,0.0,69.0
+American Airlines Inc.,2023-08-03,74.0,2181,"Greer, SC",0.0,0.0,0.0,0.0,0.0,74.0
+Frontier Airlines Inc.,2023-08-03,83.0,2978,"Portland, OR",0.0,0.0,0.0,2.0,0.0,81.0
+Frontier Airlines Inc.,2023-08-03,11.0,471,"Des Moines, IA",0.0,0.0,0.0,29.0,0.0,0.0
+Spirit Air Lines,2023-08-03,-1.0,3027,"Ponce, PR",0.0,0.0,0.0,95.0,0.0,0.0
+PSA Airlines Inc.,2023-08-03,5.0,5039,"Grand Rapids, MI",0.0,19.0,0.0,17.0,0.0,0.0
+Allegiant Air,2023-08-03,-9.0,10,"Fresno, CA",0.0,8.0,0.0,0.0,0.0,163.0
+Allegiant Air,2023-08-03,41.0,81,"Reno, NV",0.0,0.0,0.0,26.0,0.0,15.0
+Frontier Airlines Inc.,2023-08-03,52.0,435,"Milwaukee, WI",0.0,4.0,0.0,0.0,0.0,48.0
+Republic Airline,2023-08-03,2.0,4271,"Birmingham, AL",0.0,0.0,0.0,0.0,0.0,332.0
+Endeavor Air Inc.,2023-08-03,412.0,4956,"Augusta, GA",0.0,402.0,0.0,10.0,0.0,0.0
+Allegiant Air,2023-08-04,-7.0,329,"Denver, CO",0.0,0.0,6.0,2.0,0.0,19.0
+Frontier Airlines Inc.,2023-08-04,-5.0,604,"Charlotte, NC",0.0,17.0,0.0,11.0,0.0,28.0
+Allegiant Air,2023-08-04,27.0,871,"Niagara Falls, NY",0.0,0.0,0.0,0.0,0.0,27.0
+JetBlue Airways,2023-08-05,-32.0,895,"Newark, NJ",0.0,5.0,0.0,25.0,0.0,0.0
+American Airlines Inc.,2023-08-05,-8.0,665,"Montrose/Delta, CO",0.0,50.0,0.0,0.0,0.0,123.0
+JetBlue Airways,2023-08-05,-2.0,540,"Cleveland, OH",0.0,185.0,0.0,1.0,0.0,176.0
+Spirit Air Lines,2023-08-05,45.0,393,"Louisville, KY",0.0,12.0,0.0,1.0,0.0,32.0
+Delta Air Lines Inc.,2023-08-05,-15.0,2086,"Des Moines, IA",0.0,9.0,0.0,0.0,0.0,118.0
+Allegiant Air,2023-08-05,8.0,253,"Boston, MA",0.0,30.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-08-05,-27.0,4831,"Idaho Falls, ID",0.0,16.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-08-05,7.0,3495,"Bangor, ME",0.0,15.0,0.0,14.0,0.0,0.0
+Envoy Air,2023-08-05,-9.0,3778,"San Luis Obispo, CA",0.0,15.0,0.0,5.0,0.0,14.0
+SkyWest Airlines Inc.,2023-08-05,11.0,3081,"Tyler, TX",0.0,30.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-08-05,-45.0,697,"Lihue, HI",0.0,18.0,0.0,0.0,0.0,60.0
+United Air Lines Inc.,2023-08-05,-30.0,648,"Billings, MT",0.0,3.0,0.0,0.0,0.0,28.0
+Republic Airline,2023-08-05,15.0,4458,"Pensacola, FL",0.0,9.0,0.0,0.0,0.0,6.0
+Delta Air Lines Inc.,2023-08-06,136.0,2546,"Missoula, MT",0.0,5.0,0.0,0.0,0.0,131.0
+Alaska Airlines Inc.,2023-08-06,4.0,522,"Nashville, TN",0.0,521.0,0.0,4.0,0.0,0.0
+SkyWest Airlines Inc.,2023-08-06,15.0,5371,"Buffalo, NY",0.0,15.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-08-06,9.0,1407,"Memphis, TN",0.0,29.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-08-06,-33.0,836,"Missoula, MT",0.0,0.0,0.0,6.0,27.0,0.0
+Republic Airline,2023-08-06,-20.0,4594,"Kansas City, MO",0.0,0.0,59.0,10.0,0.0,0.0
+Delta Air Lines Inc.,2023-08-06,54.0,2695,"Pasco/Kennewick/Richland, WA",0.0,49.0,0.0,5.0,0.0,0.0
+American Airlines Inc.,2023-08-06,24.0,1614,"Huntsville, AL",0.0,0.0,15.0,0.0,0.0,9.0
+United Air Lines Inc.,2023-08-07,-3.0,1741,"St. Louis, MO",1.0,154.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-08-07,-19.0,1351,"Fayetteville, AR",0.0,1020.0,0.0,0.0,0.0,0.0
+American Airlines Inc.,2023-08-07,-21.0,1777,"Panama City, FL",0.0,112.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-08-07,-13.0,2301,"Rapid City, SD",0.0,1.0,0.0,0.0,0.0,52.0
+PSA Airlines Inc.,2023-08-07,-10.0,5094,"Sarasota/Bradenton, FL",0.0,0.0,0.0,0.0,0.0,35.0
+American Airlines Inc.,2023-08-08,101.0,1786,"Houston, TX",0.0,0.0,0.0,0.0,0.0,101.0
+SkyWest Airlines Inc.,2023-08-08,-25.0,5472,"Akron, OH",0.0,43.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-08-08,-6.0,2141,"Richmond, VA",0.0,0.0,0.0,0.0,0.0,50.0
+Southwest Airlines Co.,2023-08-08,-18.0,1799,"Cincinnati, OH",0.0,5.0,0.0,0.0,0.0,15.0
+Frontier Airlines Inc.,2023-08-08,-11.0,687,"Pittsburgh, PA",0.0,0.0,0.0,0.0,0.0,76.0
+Republic Airline,2023-08-09,-14.0,3568,"Detroit, MI",0.0,6.0,0.0,6.0,0.0,90.0
+Delta Air Lines Inc.,2023-08-09,-1.0,2646,"San Diego, CA",0.0,10.0,0.0,0.0,0.0,11.0
+SkyWest Airlines Inc.,2023-08-09,142.0,3727,"Louisville, KY",0.0,142.0,0.0,0.0,0.0,0.0
+Delta Air Lines Inc.,2023-08-09,-23.0,2264,"Sioux Falls, SD",0.0,0.0,0.0,34.0,0.0,0.0
+American Airlines Inc.,2023-08-09,-15.0,664,"Kona, HI",0.0,1.0,0.0,17.0,0.0,0.0
+Frontier Airlines Inc.,2023-08-09,-11.0,4869,"Jacksonville, FL",0.0,0.0,0.0,26.0,0.0,31.0
+SkyWest Airlines Inc.,2023-08-09,-22.0,3847,"Lewiston, ID",0.0,0.0,0.0,0.0,0.0,91.0
+American Airlines Inc.,2023-08-09,57.0,2172,"Myrtle Beach, SC",0.0,50.0,0.0,0.0,0.0,7.0
+SkyWest Airlines Inc.,2023-08-09,-14.0,5193,"Victoria, TX",0.0,0.0,0.0,87.0,0.0,0.0
+Endeavor Air Inc.,2023-08-09,-15.0,5026,"Rochester, MN",0.0,0.0,0.0,0.0,0.0,19.0
+Spirit Air Lines,2023-08-10,39.0,1850,"Las Vegas, NV",0.0,17.0,0.0,22.0,0.0,0.0
+Southwest Airlines Co.,2023-08-10,-17.0,1193,"Lihue, HI",0.0,4.0,0.0,0.0,0.0,14.0
+SkyWest Airlines Inc.,2023-08-10,-8.0,3492,"Santa Ana, CA",0.0,0.0,0.0,0.0,0.0,16.0
+Allegiant Air,2023-08-10,75.0,1234,"Clarksburg/Fairmont, WV",0.0,75.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-08-10,-21.0,5430,"Hartford, CT",0.0,0.0,0.0,188.0,0.0,0.0
+United Air Lines Inc.,2023-08-10,-18.0,2099,"Sioux Falls, SD",0.0,147.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-08-11,-25.0,3486,"Indianapolis, IN",0.0,0.0,0.0,45.0,0.0,0.0
+United Air Lines Inc.,2023-08-11,3.0,2073,"Oklahoma City, OK",0.0,0.0,0.0,24.0,0.0,0.0
+SkyWest Airlines Inc.,2023-08-11,-1.0,4241,"Moab, UT",0.0,0.0,0.0,0.0,0.0,23.0
+SkyWest Airlines Inc.,2023-08-11,11.0,4938,"Hartford, CT",0.0,36.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-08-12,-10.0,791,"Bozeman, MT",0.0,0.0,0.0,59.0,0.0,0.0
+American Airlines Inc.,2023-08-12,68.0,2544,"Knoxville, TN",0.0,0.0,15.0,6.0,0.0,47.0
+Allegiant Air,2023-08-12,14.0,1820,"Albany, NY",0.0,0.0,0.0,18.0,0.0,0.0
+United Air Lines Inc.,2023-08-12,-27.0,210,"Great Falls, MT",0.0,0.0,0.0,15.0,0.0,0.0
+Envoy Air,2023-08-12,-12.0,3934,"Nantucket, MA",0.0,,,,,
+American Airlines Inc.,2023-08-13,-11.0,1476,"Columbus, OH",0.0,0.0,0.0,0.0,0.0,37.0
+Delta Air Lines Inc.,2023-08-13,-27.0,2897,"Philadelphia, PA",0.0,0.0,0.0,1.0,0.0,22.0
+Allegiant Air,2023-08-13,-8.0,652,"Eugene, OR",0.0,5.0,0.0,0.0,0.0,13.0
+American Airlines Inc.,2023-08-13,-18.0,1907,"Des Moines, IA",0.0,0.0,0.0,0.0,0.0,101.0
+Republic Airline,2023-08-13,-10.0,4795,"Des Moines, IA",0.0,0.0,0.0,74.0,0.0,0.0
+Republic Airline,2023-08-14,-13.0,3450,"Newark, NJ",0.0,0.0,0.0,62.0,0.0,0.0
+Frontier Airlines Inc.,2023-08-14,-14.0,2296,"Fort Lauderdale, FL",0.0,5.0,0.0,18.0,0.0,171.0
+Delta Air Lines Inc.,2023-08-14,-15.0,1691,"Harrisburg, PA",0.0,0.0,0.0,34.0,0.0,0.0
+Allegiant Air,2023-08-14,-11.0,3,"Las Vegas, NV",0.0,23.0,0.0,7.0,0.0,40.0
+Allegiant Air,2023-08-14,2.0,996,"Belleville, IL",0.0,12.0,0.0,0.0,0.0,7.0
+United Air Lines Inc.,2023-08-14,34.0,462,"Albuquerque, NM",1.0,0.0,0.0,34.0,0.0,0.0
+Allegiant Air,2023-08-14,-12.0,33,"Shreveport, LA",0.0,17.0,0.0,0.0,0.0,24.0
+Allegiant Air,2023-08-14,-6.0,1658,"Monterey, CA",0.0,7.0,0.0,7.0,0.0,27.0
+Alaska Airlines Inc.,2023-08-15,-14.0,1031,"Bozeman, MT",0.0,0.0,0.0,0.0,0.0,18.0
+SkyWest Airlines Inc.,2023-08-15,-5.0,5567,"Allentown/Bethlehem/Easton, PA",0.0,39.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-08-15,78.0,5448,"Valparaiso, FL",0.0,6.0,0.0,48.0,0.0,24.0
+Spirit Air Lines,2023-08-16,-38.0,727,"Newark, NJ",0.0,282.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-08-16,-17.0,3620,"Burlington, VT",0.0,73.0,0.0,0.0,0.0,18.0
+Alaska Airlines Inc.,2023-08-16,-2.0,64,"Wrangell, AK",0.0,0.0,0.0,0.0,0.0,20.0
+JetBlue Airways,2023-08-16,79.0,2769,"Aguadilla, PR",0.0,0.0,0.0,5.0,0.0,74.0
+Endeavor Air Inc.,2023-08-16,179.0,5382,"Lafayette, LA",0.0,157.0,0.0,0.0,0.0,22.0
+American Airlines Inc.,2023-08-16,-1.0,1476,"Manchester, NH",0.0,,,,,
+United Air Lines Inc.,2023-08-17,11.0,573,"San Francisco, CA",0.0,0.0,0.0,0.0,0.0,158.0
+American Airlines Inc.,2023-08-17,-3.0,2827,"Los Angeles, CA",0.0,24.0,0.0,0.0,0.0,0.0
+Spirit Air Lines,2023-08-17,-9.0,965,"Los Angeles, CA",0.0,73.0,0.0,14.0,0.0,0.0
+Southwest Airlines Co.,2023-08-17,4.0,2633,"Sacramento, CA",0.0,11.0,0.0,12.0,0.0,52.0
+Republic Airline,2023-08-17,3.0,5845,"Nantucket, MA",0.0,13.0,0.0,11.0,0.0,0.0
+Envoy Air,2023-08-17,-25.0,3523,"Memphis, TN",0.0,1.0,0.0,5.0,0.0,60.0
+Republic Airline,2023-08-17,6.0,4332,"Key West, FL",0.0,0.0,0.0,17.0,0.0,26.0
+Allegiant Air,2023-08-17,364.0,1704,"Fort Wayne, IN",0.0,196.0,0.0,0.0,0.0,168.0
+Republic Airline,2023-08-17,-3.0,4318,"Little Rock, AR",0.0,162.0,0.0,0.0,0.0,0.0
+JetBlue Airways,2023-08-17,78.0,354,"Ontario, CA",0.0,1.0,0.0,0.0,0.0,77.0
+Delta Air Lines Inc.,2023-08-17,-2.0,311,"Kona, HI",0.0,0.0,0.0,21.0,0.0,0.0
+SkyWest Airlines Inc.,2023-08-17,-33.0,3295,"Fayetteville, NC",0.0,0.0,0.0,0.0,0.0,21.0
+Frontier Airlines Inc.,2023-08-18,-22.0,1617,"Raleigh/Durham, NC",0.0,9.0,0.0,0.0,0.0,114.0
+Delta Air Lines Inc.,2023-08-18,-14.0,1469,"Jacksonville/Camp Lejeune, NC",0.0,0.0,0.0,0.0,0.0,105.0
+PSA Airlines Inc.,2023-08-18,2.0,5372,"Gainesville, FL",0.0,0.0,0.0,0.0,0.0,46.0
+American Airlines Inc.,2023-08-18,-1.0,1368,"Little Rock, AR",0.0,0.0,0.0,0.0,0.0,189.0
+Southwest Airlines Co.,2023-08-19,13.0,2011,"Long Beach, CA",0.0,14.0,0.0,0.0,0.0,11.0
+Spirit Air Lines,2023-08-19,7.0,1805,"Sacramento, CA",0.0,25.0,0.0,0.0,0.0,0.0
+SkyWest Airlines Inc.,2023-08-19,-20.0,3240,"Texarkana, AR",0.0,28.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-08-19,4.0,3380,"Portland, ME",0.0,0.0,0.0,30.0,0.0,0.0
+PSA Airlines Inc.,2023-08-19,-11.0,5627,"Madison, WI",0.0,0.0,0.0,54.0,0.0,0.0
+Envoy Air,2023-08-19,-22.0,3362,"San Antonio, TX",0.0,,,,,
+PSA Airlines Inc.,2023-08-19,-7.0,5437,"Traverse City, MI",0.0,,,,,
+American Airlines Inc.,2023-08-20,-1.0,364,"Asheville, NC",0.0,21.0,0.0,0.0,0.0,161.0
+Envoy Air,2023-08-20,-8.0,3368,"Bristol/Johnson City/Kingsport, TN",0.0,740.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-08-20,-33.0,5437,"Fayetteville, NC",0.0,0.0,0.0,0.0,0.0,15.0
+Alaska Airlines Inc.,2023-08-20,21.0,641,"Tucson, AZ",0.0,0.0,0.0,0.0,0.0,21.0
+Endeavor Air Inc.,2023-08-21,-20.0,5247,"Raleigh/Durham, NC",0.0,0.0,0.0,1.0,0.0,33.0
+American Airlines Inc.,2023-08-21,36.0,1950,"Phoenix, AZ",0.0,36.0,0.0,0.0,0.0,0.0
+PSA Airlines Inc.,2023-08-21,-14.0,5308,"Asheville, NC",0.0,0.0,0.0,0.0,0.0,28.0
+Republic Airline,2023-08-21,2.0,3443,"Duluth, MN",0.0,,,,,
+PSA Airlines Inc.,2023-08-21,-17.0,5128,"Buffalo, NY",0.0,0.0,0.0,39.0,0.0,0.0
+Delta Air Lines Inc.,2023-08-22,-12.0,2228,"Salt Lake City, UT",0.0,7.0,0.0,2.0,0.0,22.0
+American Airlines Inc.,2023-08-22,-8.0,2335,"Albuquerque, NM",0.0,0.0,0.0,4.0,0.0,53.0
+American Airlines Inc.,2023-08-22,-21.0,2276,"Providence, RI",0.0,0.0,0.0,0.0,0.0,33.0
+Frontier Airlines Inc.,2023-08-22,46.0,4889,"Ponce, PR",0.0,0.0,0.0,28.0,0.0,18.0
+SkyWest Airlines Inc.,2023-08-22,-11.0,4776,"Greensboro/High Point, NC",0.0,0.0,0.0,0.0,0.0,54.0
+Southwest Airlines Co.,2023-08-23,13.0,1156,"Honolulu, HI",0.0,47.0,0.0,0.0,0.0,0.0
+Frontier Airlines Inc.,2023-08-23,-23.0,2737,"Dallas/Fort Worth, TX",0.0,62.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-08-23,-10.0,3583,"Birmingham, AL",0.0,7.0,0.0,4.0,0.0,16.0
+United Air Lines Inc.,2023-08-23,-33.0,1162,"Aguadilla, PR",0.0,3.0,0.0,0.0,0.0,28.0
+United Air Lines Inc.,2023-08-23,-6.0,224,"Madison, WI",0.0,11.0,0.0,17.0,0.0,109.0
+Delta Air Lines Inc.,2023-08-23,-19.0,2663,"Buffalo, NY",0.0,76.0,0.0,0.0,0.0,0.0
+Southwest Airlines Co.,2023-08-23,-18.0,3867,"Wichita, KS",0.0,9.0,0.0,19.0,0.0,2.0
+Spirit Air Lines,2023-08-23,-11.0,2044,"Manchester, NH",0.0,0.0,0.0,0.0,0.0,44.0
+Envoy Air,2023-08-23,1.0,3372,"Laredo, TX",0.0,284.0,0.0,0.0,0.0,1.0
+Endeavor Air Inc.,2023-08-23,-15.0,5287,"Austin, TX",0.0,20.0,0.0,23.0,0.0,0.0
+Envoy Air,2023-08-23,3.0,3622,"Manchester, NH",0.0,0.0,0.0,33.0,0.0,0.0
+SkyWest Airlines Inc.,2023-08-24,27.0,3249,"Dallas/Fort Worth, TX",0.0,27.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-08-24,-2.0,4696,"Philadelphia, PA",0.0,18.0,0.0,87.0,0.0,0.0
+American Airlines Inc.,2023-08-24,-4.0,1939,"San Diego, CA",0.0,7.0,0.0,0.0,0.0,10.0
+SkyWest Airlines Inc.,2023-08-24,12.0,4865,"Nashville, TN",0.0,0.0,20.0,0.0,0.0,0.0
+Spirit Air Lines,2023-08-24,-10.0,1130,"St. Louis, MO",0.0,6.0,0.0,1.0,9.0,0.0
+Alaska Airlines Inc.,2023-08-24,3.0,443,"Philadelphia, PA",0.0,0.0,0.0,0.0,0.0,42.0
+Allegiant Air,2023-08-24,50.0,1600,"Billings, MT",0.0,32.0,0.0,0.0,0.0,18.0
+Envoy Air,2023-08-25,-1.0,3472,"Dallas/Fort Worth, TX",0.0,0.0,2.0,4.0,0.0,32.0
+Alaska Airlines Inc.,2023-08-25,-19.0,330,"Cleveland, OH",0.0,12.0,0.0,0.0,0.0,25.0
+SkyWest Airlines Inc.,2023-08-25,-1.0,3400,"Bellingham, WA",0.0,0.0,0.0,0.0,0.0,19.0
+Southwest Airlines Co.,2023-08-26,-27.0,2827,"Fort Lauderdale, FL",0.0,15.0,0.0,0.0,0.0,0.0
+Republic Airline,2023-08-26,-24.0,4588,"Cleveland, OH",0.0,22.0,0.0,17.0,0.0,9.0
+PSA Airlines Inc.,2023-08-26,-20.0,5524,"Oklahoma City, OK",0.0,0.0,21.0,0.0,0.0,0.0
+Alaska Airlines Inc.,2023-08-27,-20.0,534,"San Francisco, CA",0.0,0.0,0.0,21.0,0.0,47.0
+Allegiant Air,2023-08-27,5.0,1142,"Pittsburgh, PA",0.0,11.0,0.0,5.0,0.0,0.0
+Envoy Air,2023-08-27,-7.0,3914,"Lexington, KY",0.0,0.0,2.0,25.0,0.0,0.0
+Delta Air Lines Inc.,2023-08-27,-13.0,2691,"Green Bay, WI",0.0,0.0,121.0,26.0,0.0,0.0
+Southwest Airlines Co.,2023-08-27,28.0,1529,"Washington, DC",0.0,20.0,0.0,8.0,0.0,0.0
+PSA Airlines Inc.,2023-08-27,0.0,5159,"Manchester, NH",0.0,0.0,0.0,65.0,0.0,0.0
+United Air Lines Inc.,2023-08-27,-1.0,798,"Durango, CO",0.0,0.0,0.0,25.0,0.0,0.0
+United Air Lines Inc.,2023-08-27,-13.0,117,"Saipan, TT",0.0,44.0,0.0,0.0,0.0,0.0
+Envoy Air,2023-08-27,-26.0,3315,"Omaha, NE",0.0,,,,,
+Southwest Airlines Co.,2023-08-28,-3.0,1109,"Las Vegas, NV",0.0,19.0,0.0,0.0,0.0,3.0
+SkyWest Airlines Inc.,2023-08-28,-23.0,4890,"Tulsa, OK",0.0,15.0,0.0,0.0,0.0,0.0
+Allegiant Air,2023-08-28,2.0,1230,"Hagerstown, MD",0.0,57.0,0.0,1.0,0.0,0.0
+Republic Airline,2023-08-28,-34.0,4761,"Knoxville, TN",0.0,1.0,0.0,0.0,0.0,35.0
+JetBlue Airways,2023-08-28,-21.0,2278,"Asheville, NC",0.0,0.0,0.0,79.0,0.0,0.0
+Frontier Airlines Inc.,2023-08-28,31.0,483,"Madison, WI",0.0,0.0,0.0,0.0,0.0,31.0
+SkyWest Airlines Inc.,2023-08-28,5.0,4714,"Charlottesville, VA",0.0,,,,,
+Alaska Airlines Inc.,2023-08-29,-14.0,153,"Kotzebue, AK",0.0,0.0,0.0,5.0,0.0,35.0
+Alaska Airlines Inc.,2023-08-29,-11.0,1139,"Santa Barbara, CA",0.0,0.0,0.0,6.0,0.0,292.0
+SkyWest Airlines Inc.,2023-08-29,-6.0,5856,"Rochester, NY",0.0,168.0,0.0,0.0,0.0,0.0
+JetBlue Airways,2023-08-30,-22.0,2122,"Nantucket, MA",0.0,0.0,0.0,6.0,0.0,33.0
+PSA Airlines Inc.,2023-08-30,-23.0,5086,"Detroit, MI",0.0,375.0,0.0,0.0,0.0,0.0
+United Air Lines Inc.,2023-08-30,-28.0,1548,"Pensacola, FL",0.0,0.0,0.0,0.0,0.0,15.0
+Alaska Airlines Inc.,2023-08-30,2.0,450,"Columbus, OH",0.0,3.0,0.0,0.0,0.0,26.0
+United Air Lines Inc.,2023-08-30,-6.0,453,"Myrtle Beach, SC",0.0,0.0,0.0,3.0,0.0,41.0
+Frontier Airlines Inc.,2023-08-31,-21.0,2479,"Houston, TX",0.0,30.0,0.0,10.0,0.0,14.0
+Delta Air Lines Inc.,2023-08-31,-19.0,1850,"Charlotte, NC",0.0,0.0,0.0,0.0,0.0,33.0
+Endeavor Air Inc.,2023-08-31,-5.0,5141,"Minneapolis, MN",0.0,0.0,0.0,29.0,0.0,0.0
+Republic Airline,2023-08-31,-25.0,4280,"Memphis, TN",0.0,0.0,0.0,0.0,0.0,19.0
+Southwest Airlines Co.,2023-08-31,-2.0,1650,"Hartford, CT",0.0,19.0,0.0,14.0,0.0,0.0
+Southwest Airlines Co.,2023-08-31,-11.0,1333,"Hilo, HI",0.0,0.0,0.0,24.0,0.0,0.0
+Republic Airline,2023-08-31,-35.0,3418,"Asheville, NC",0.0,0.0,0.0,117.0,0.0,0.0
+SkyWest Airlines Inc.,2023-08-31,-18.0,4258,"Escanaba, MI",0.0,55.0,0.0,0.0,0.0,0.0
+Endeavor Air Inc.,2023-08-31,-10.0,5355,"Columbia, SC",0.0,0.0,69.0,13.0,0.0,0.0

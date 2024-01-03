@@ -1,0 +1,1001 @@
+AIRLINE,FL_DATE,ARR_DELAY,FL_NUMBER,ORIGIN_CITY,CANCELLED,DELAY_DUE_CARRIER,DELAY_DUE_WEATHER,DELAY_DUE_NAS,DELAY_DUE_SECURITY,DELAY_DUE_AIRCRAFT
+"Southwest Airlines Co.",2023-01-01,-00:03,1254,"Kansas City, MO",0,00:07,00:00,00:00,00:00,00:09
+"Republic Airline",2023-01-01,-00:17,5592,"Richmond, VA",0,00:00,00:00,00:34,00:00,00:00
+"Envoy Air",2023-01-01,-00:16,3505,"Madison, WI",0,00:00,00:00,00:18,00:00,00:00
+"Allegiant Air",2023-01-01,01:32,661,"Springfield, MO",0,00:04,00:00,00:05,00:00,01:23
+"SkyWest Airlines Inc.",2023-01-01,00:02,5077,"Liberal, KS",0,00:00,00:00,00:00,00:00,00:36
+"Spirit Air Lines",2023-01-01,00:03,1746,"Charleston/Dunbar, WV",1,00:13,00:00,00:00,00:00,01:20
+"United Air Lines Inc.",2023-01-02,00:12,2632,"Sarasota/Bradenton, FL",0,00:09,00:00,00:00,00:00,00:14
+"Spirit Air Lines",2023-01-02,03:12,1190,"Chicago, IL",0,00:00,00:00,02:28,00:00,00:44
+"JetBlue Airways",2023-01-02,00:04,2222,"Kansas City, MO",0,00:18,00:00,00:00,00:00,05:27
+"Republic Airline",2023-01-02,-00:21,4715,"Huntsville, AL",0,00:22,00:00,00:00,00:00,00:54
+"Alaska Airlines Inc.",2023-01-02,03:15,362,"Jackson, WY",0,03:15,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-01-02,-00:41,428,"Lihue, HI",0,00:03,00:00,00:00,00:00,01:43
+"Allegiant Air",2023-01-03,00:02,1206,"Concord, NC",0,00:00,00:00,00:04,00:00,00:31
+"Endeavor Air Inc.",2023-01-03,-00:26,4867,"Buffalo, NY",0,00:00,00:00,00:17,00:00,00:00
+"Endeavor Air Inc.",2023-01-03,-00:17,5531,"Montgomery, AL",0,00:00,00:00,00:00,00:00,02:48
+"Delta Air Lines Inc.",2023-01-03,-00:16,462,"Knoxville, TN",1,00:00,00:00,00:00,00:00,01:51
+"PSA Airlines Inc.",2023-01-03,-00:25,5150,"St. Louis, MO",0,00:35,00:00,00:41,00:00,00:00
+"Spirit Air Lines",2023-01-04,-00:14,303,"Atlantic City, NJ",0,00:00,00:00,00:31,00:00,00:00
+"American Airlines Inc.",2023-01-04,-00:06,590,"St. Louis, MO",0,00:00,00:00,00:00,00:00,01:54
+"Allegiant Air",2023-01-04,00:30,3964,"Nashville, TN",0,00:00,00:00,00:30,00:00,00:00
+"SkyWest Airlines Inc.",2023-01-04,01:25,4995,"Springfield, IL",0,01:25,00:00,00:00,00:00,00:00
+"Alaska Airlines Inc.",2023-01-05,02:21,279,"Seattle, WA",0,02:17,00:00,00:04,00:00,00:00
+"Allegiant Air",2023-01-05,00:25,2587,"Punta Gorda, FL",0,00:25,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-01-05,00:10,1689,"Fort Myers, FL",0,02:03,00:00,00:00,00:00,00:00
+"Frontier Airlines Inc.",2023-01-05,02:17,1322,"Cedar Rapids/Iowa City, IA",0,01:04,00:00,00:48,00:00,00:25
+"Envoy Air",2023-01-05,-00:06,3358,"St. Louis, MO",0,00:34,00:00,00:00,00:00,00:00
+"Envoy Air",2023-01-05,-00:10,4036,"Marquette, MI",1,00:18,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-01-05,00:41,4682,"Minot, ND",0,00:20,00:00,00:21,00:00,00:00
+"Delta Air Lines Inc.",2023-01-06,-00:42,2064,"New York, NY",0,00:00,00:00,00:01,00:00,00:47
+"SkyWest Airlines Inc.",2023-01-06,01:04,5856,"Tucson, AZ",0,00:00,00:00,01:04,00:00,00:00
+"Delta Air Lines Inc.",2023-01-06,-00:20,2893,"Oklahoma City, OK",0,00:00,00:00,00:06,00:00,01:53
+"Envoy Air",2023-01-06,-00:17,4192,"Abilene, TX",0,00:01,00:00,00:00,00:00,00:14
+"SkyWest Airlines Inc.",2023-01-06,-00:07,3867,"Washington, DC",0,03:00,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-01-06,-00:02,1415,"Traverse City, MI",0,00:00,00:00,01:58,00:00,00:00
+"Endeavor Air Inc.",2023-01-07,-00:32,5392,"Dothan, AL",0,00:00,00:00,00:14,00:00,00:11
+"SkyWest Airlines Inc.",2023-01-07,-00:15,5079,"Sheridan, WY",0,00:50,00:00,00:00,00:00,00:00
+"Frontier Airlines Inc.",2023-01-07,00:31,2174,"Reno, NV",0,00:10,00:00,00:00,00:00,00:21
+"Republic Airline",2023-01-07,-00:25,3491,"West Palm Beach/Palm Beach, FL",0,00:05,00:00,00:00,00:00,01:16
+"American Airlines Inc.",2023-01-08,-00:18,2489,"West Palm Beach/Palm Beach, FL",0,00:16,00:00,00:04,00:00,00:04
+"PSA Airlines Inc.",2023-01-08,-00:41,5365,"Augusta, GA",0,00:15,00:00,00:00,00:00,00:00
+"JetBlue Airways",2023-01-08,01:02,579,"Washington, DC",0,00:39,00:00,00:17,00:00,00:06
+"JetBlue Airways",2023-01-08,-00:12,1075,"Providence, RI",0,00:00,00:00,00:54,00:00,00:00
+"United Air Lines Inc.",2023-01-08,-00:20,1608,"Montrose/Delta, CO",0,00:00,00:00,00:00,00:00,04:34
+"Delta Air Lines Inc.",2023-01-08,-00:25,2387,"Montrose/Delta, CO",0,00:00,00:00,00:00,00:00,01:13
+"Alaska Airlines Inc.",2023-01-09,00:05,1259,"San Diego, CA",0,00:00,00:00,00:10,00:00,00:35
+"Delta Air Lines Inc.",2023-01-09,-00:09,1634,"Tucson, AZ",0,00:00,00:00,00:00,00:00,00:45
+"Envoy Air",2023-01-09,-00:14,3519,"Houston, TX",0,00:13,00:00,00:44,00:00,00:42
+"Envoy Air",2023-01-09,00:11,4222,"Lafayette, LA",0,00:00,00:00,00:24,00:00,00:17
+"Endeavor Air Inc.",2023-01-09,-00:02,5463,"Albany, NY",0,00:00,00:00,02:11,00:00,00:00
+"JetBlue Airways",2023-01-09,-00:21,1826,"San Antonio, TX",0,00:00,00:00,00:32,00:00,00:00
+"Frontier Airlines Inc.",2023-01-09,-00:18,1075,"Grand Rapids, MI",0,00:00,00:00,00:32,00:00,00:00
+"Endeavor Air Inc.",2023-01-09,-00:13,4718,"Evansville, IN",0,00:00,00:00,00:00,00:00,00:18
+"Envoy Air",2023-01-09,-00:23,3467,"Sioux Falls, SD",0,00:39,00:00,00:07,00:00,00:00
+"Allegiant Air",2023-01-09,00:17,863,"Traverse City, MI",0,00:00,00:00,00:17,00:00,00:00
+"Delta Air Lines Inc.",2023-01-10,-00:11,2936,"Sarasota/Bradenton, FL",0,00:47,00:00,00:00,00:00,01:17
+"Frontier Airlines Inc.",2023-01-10,-00:25,2347,"Philadelphia, PA",0,00:00,00:00,00:19,00:00,00:00
+"Alaska Airlines Inc.",2023-01-10,00:11,543,"Dallas/Fort Worth, TX",0,00:00,00:00,00:15,00:00,00:00
+"Hawaiian Airlines Inc.",2023-01-11,00:46,45,"San Jose, CA",0,00:32,00:14,00:00,00:00,00:00
+"American Airlines Inc.",2023-01-11,03:13,671,"Raleigh/Durham, NC",0,00:00,00:00,03:13,00:00,00:00
+"Delta Air Lines Inc.",2023-01-11,02:43,2546,"Raleigh/Durham, NC",0,00:00,00:00,02:43,00:00,00:00
+"Spirit Air Lines",2023-01-11,-00:18,430,"Seattle, WA",0,00:13,00:00,00:01,00:00,00:08
+"United Air Lines Inc.",2023-01-11,-00:04,362,"Honolulu, HI",0,00:00,00:00,00:36,00:00,00:00
+"Southwest Airlines Co.",2023-01-11,00:09,3111,"Ontario, CA",0,00:00,00:00,00:18,00:00,00:30
+"SkyWest Airlines Inc.",2023-01-11,00:04,5029,"Johnstown, PA",0,00:28,00:00,00:00,00:00,00:00
+"Spirit Air Lines",2023-01-11,01:01,1169,"Nashville, TN",0,00:00,00:00,01:01,00:00,00:00
+"JetBlue Airways",2023-01-11,-00:09,2332,"Sarasota/Bradenton, FL",0,00:06,00:00,00:00,00:00,00:38
+"SkyWest Airlines Inc.",2023-01-11,01:04,4939,"Wichita Falls, TX",0,00:00,00:00,01:04,00:00,00:00
+"Endeavor Air Inc.",2023-01-11,00:42,5196,"Chicago, IL",0,00:00,00:00,00:00,00:00,00:42
+"JetBlue Airways",2023-01-11,01:27,458,"Burbank, CA",0,00:22,00:00,00:00,00:00,01:05
+"Frontier Airlines Inc.",2023-01-11,02:29,1299,"Newburgh/Poughkeepsie, NY",0,00:00,00:00,00:00,00:00,02:29
+"SkyWest Airlines Inc.",2023-01-11,00:45,3506,"Raleigh/Durham, NC",0,00:00,00:00,00:00,00:45,00:00
+"Envoy Air",2023-01-12,00:50,3729,"Columbus, OH",0,00:05,00:00,00:34,00:00,00:11
+"SkyWest Airlines Inc.",2023-01-12,00:00,5437,"Fayetteville, AR",0,00:00,01:16,00:00,00:00,00:00
+"Spirit Air Lines",2023-01-12,-00:23,1039,"San Antonio, TX",0,00:00,00:00,00:57,00:00,00:00
+"SkyWest Airlines Inc.",2023-01-12,-00:06,3657,"Providence, RI",0,00:15,00:00,00:00,00:00,00:00
+"Envoy Air",2023-01-12,-00:09,3587,"Harlingen/San Benito, TX",0,00:00,00:00,00:00,00:00,01:33
+"PSA Airlines Inc.",2023-01-12,-00:15,5663,"Burlington, VT",0,00:00,00:00,00:56,00:00,00:00
+"Southwest Airlines Co.",2023-01-13,-00:16,1628,"Houston, TX",0,00:17,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-01-13,-00:18,1383,"Jacksonville, FL",0,00:12,00:00,00:00,00:00,02:15
+"Southwest Airlines Co.",2023-01-13,00:58,845,"Oakland, CA",0,00:49,00:00,00:00,00:00,00:09
+"JetBlue Airways",2023-01-13,-00:08,2835,"San Francisco, CA",0,00:30,00:00,00:00,00:00,00:31
+"Frontier Airlines Inc.",2023-01-13,00:14,2786,"Seattle, WA",0,00:15,00:00,00:00,00:00,02:14
+"SkyWest Airlines Inc.",2023-01-13,-00:01,5290,"Charleston/Dunbar, WV",0,00:00,03:48,00:00,00:00,00:00
+"United Air Lines Inc.",2023-01-13,-00:13,1251,"Portland, ME",0,00:00,00:00,00:18,00:00,00:00
+"Frontier Airlines Inc.",2023-01-13,-00:35,539,"Washington, DC",0,00:00,00:00,00:43,00:00,00:00
+"Envoy Air",2023-01-13,00:45,3492,"Grand Rapids, MI",0,00:07,00:00,00:00,00:00,00:38
+"Envoy Air",2023-01-13,-00:10,4004,"Monterey, CA",0,00:15,00:00,00:00,00:00,00:42
+"Endeavor Air Inc.",2023-01-13,00:15,4695,"Omaha, NE",0,00:00,00:00,00:15,00:00,00:00
+"Envoy Air",2023-01-14,-00:17,3485,"Corpus Christi, TX",0,00:00,00:00,00:35,00:00,00:29
+"SkyWest Airlines Inc.",2023-01-14,-00:06,4935,"Beaumont/Port Arthur, TX",0,00:33,00:00,00:00,00:00,00:00
+"Hawaiian Airlines Inc.",2023-01-14,-00:04,21,"Seattle, WA",0,00:00,00:01,00:20,00:00,00:00
+"Republic Airline",2023-01-15,00:03,3549,"Milwaukee, WI",0,00:00,00:00,00:13,00:00,00:05
+"United Air Lines Inc.",2023-01-15,-00:14,2410,"Fresno, CA",0,00:34,00:00,00:02,00:00,01:09
+"Hawaiian Airlines Inc.",2023-01-15,00:06,59,"Sacramento, CA",0,00:30,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-01-15,-00:29,4814,"Harrisburg, PA",0,00:00,00:00,00:22,00:00,00:55
+"PSA Airlines Inc.",2023-01-15,-00:10,5387,"New Orleans, LA",0,00:03,00:00,00:20,00:00,00:19
+"Allegiant Air",2023-01-15,00:04,82,"Laredo, TX",0,00:32,00:00,00:07,00:00,00:17
+"Envoy Air",2023-01-15,00:00,3601,"Kalamazoo, MI",0,00:00,00:03,00:14,00:00,01:02
+"SkyWest Airlines Inc.",2023-01-16,00:02,5762,"Denver, CO",0,00:00,04:36,00:00,00:00,00:00
+"Envoy Air",2023-01-16,-00:05,3819,"New Orleans, LA",0,00:00,00:00,00:00,00:00,01:56
+"Alaska Airlines Inc.",2023-01-16,-00:26,61,"Yakutat, AK",0,00:24,00:00,00:00,00:00,00:35
+"Alaska Airlines Inc.",2023-01-16,-00:06,176,"Juneau, AK",0,00:00,00:02,00:00,00:00,00:21
+"Frontier Airlines Inc.",2023-01-16,-00:08,2424,"Fort Myers, FL",0,00:00,00:00,00:02,00:00,01:48
+"PSA Airlines Inc.",2023-01-16,-00:05,5577,"Greenville, NC",0,01:03,00:00,00:00,00:00,00:00
+"JetBlue Airways",2023-01-16,01:29,1285,"Rochester, NY",0,00:00,00:00,00:00,00:00,01:29
+"Spirit Air Lines",2023-01-16,-00:07,744,"San Diego, CA",0,00:00,00:00,00:04,00:00,00:11
+"PSA Airlines Inc.",2023-01-16,00:13,5406,"Minneapolis, MN",0,00:01,00:00,00:38,00:00,00:04
+"Allegiant Air",2023-01-16,-00:10,1172,"Savannah, GA",0,01:03,00:00,00:00,00:00,00:00
+"PSA Airlines Inc.",2023-01-16,-00:37,5052,"Allentown/Bethlehem/Easton, PA",0,00:13,00:00,00:02,00:00,00:00
+"Envoy Air",2023-01-16,-00:28,3694,"Flint, MI",0,00:05,00:00,00:27,00:00,00:03
+"Delta Air Lines Inc.",2023-01-17,-00:06,2155,"Spokane, WA",0,00:00,00:00,00:00,00:00,03:34
+"United Air Lines Inc.",2023-01-17,-00:26,1299,"Santa Barbara, CA",0,00:00,00:00,00:00,00:00,00:17
+"American Airlines Inc.",2023-01-17,-00:03,401,"Cedar Rapids/Iowa City, IA",0,00:00,00:00,00:00,00:00,00:21
+"Endeavor Air Inc.",2023-01-17,-00:12,4954,"Norfolk, VA",0,02:38,00:00,00:00,00:00,00:00
+"Envoy Air",2023-01-17,01:46,3581,"Peoria, IL",0,01:46,00:00,00:00,00:00,00:00
+"Envoy Air",2023-01-17,-00:17,3368,"Appleton, WI",0,00:00,00:00,00:02,00:00,00:59
+"Endeavor Air Inc.",2023-01-17,-00:23,4815,"Fayetteville, AR",0,00:00,00:00,00:37,00:00,00:00
+"SkyWest Airlines Inc.",2023-01-18,-00:02,5040,"Sioux City, IA",0,00:00,00:00,01:47,00:00,00:00
+"Spirit Air Lines",2023-01-18,-00:03,1101,"Charlotte, NC",0,00:00,00:00,02:17,00:00,00:00
+"Allegiant Air",2023-01-18,-00:21,2953,"Moline, IL",0,00:08,00:00,00:00,00:00,00:10
+"SkyWest Airlines Inc.",2023-01-18,-00:06,5515,"Greer, SC",1,01:31,00:00,00:00,00:00,00:00
+"PSA Airlines Inc.",2023-01-18,-00:01,5278,"Indianapolis, IN",0,00:00,00:00,00:59,00:00,02:30
+"SkyWest Airlines Inc.",2023-01-18,-00:04,3114,"Grand Junction, CO",0,00:00,00:00,00:00,00:00,02:05
+"Frontier Airlines Inc.",2023-01-18,-00:15,2196,"Oakland, CA",0,00:00,00:00,00:00,00:00,01:15
+"Envoy Air",2023-01-18,-00:26,3351,"Rochester, NY",0,00:24,00:00,00:00,00:00,00:41
+"Endeavor Air Inc.",2023-01-18,-00:20,4743,"White Plains, NY",0,00:00,00:00,00:00,00:00,01:52
+"Spirit Air Lines",2023-01-19,00:19,169,"Minneapolis, MN",0,00:00,00:00,00:19,00:00,00:00
+"Republic Airline",2023-01-19,00:22,3473,"State College, PA",0,00:05,00:00,00:00,00:00,00:17
+"Allegiant Air",2023-01-19,-00:25,1215,"Akron, OH",0,00:12,00:00,00:00,00:00,00:50
+"Spirit Air Lines",2023-01-19,-00:05,250,"Hartford, CT",0,00:00,00:00,00:00,00:00,03:00
+"United Air Lines Inc.",2023-01-19,-00:05,716,"Burbank, CA",0,00:08,00:00,00:12,00:00,00:00
+"JetBlue Airways",2023-01-19,-00:35,610,"Dallas/Fort Worth, TX",0,00:00,00:00,00:32,00:00,00:00
+"JetBlue Airways",2023-01-19,-00:17,836,"Minneapolis, MN",0,00:27,00:00,00:00,00:00,00:22
+"Envoy Air",2023-01-20,-00:21,3577,"Champaign/Urbana, IL",0,00:15,00:00,00:00,00:00,00:00
+"PSA Airlines Inc.",2023-01-20,-00:03,5137,"Charlotte, NC",0,11:37,00:00,00:27,00:00,01:12
+"Frontier Airlines Inc.",2023-01-20,01:15,2169,"Las Vegas, NV",0,00:07,00:00,00:00,00:00,01:08
+"United Air Lines Inc.",2023-01-20,-00:06,466,"Lihue, HI",0,23:29,00:00,00:00,00:00,00:00
+"Republic Airline",2023-01-20,-00:07,5805,"Norfolk, VA",0,02:10,00:00,00:28,00:00,00:00
+"United Air Lines Inc.",2023-01-20,00:14,2644,"Reno, NV",0,00:14,00:00,00:05,00:00,00:00
+"United Air Lines Inc.",2023-01-20,-00:40,694,"Kansas City, MO",0,00:00,00:00,01:19,00:00,00:00
+"Alaska Airlines Inc.",2023-01-20,-00:14,1005,"Spokane, WA",0,00:00,00:00,00:26,00:00,00:00
+"American Airlines Inc.",2023-01-20,00:11,569,"Grand Rapids, MI",0,01:26,00:00,00:00,00:00,02:14
+"Endeavor Air Inc.",2023-01-20,-00:10,5166,"Lexington, KY",0,00:00,00:00,00:39,00:00,00:16
+"SkyWest Airlines Inc.",2023-01-20,00:22,3967,"Elmira/Corning, NY",0,00:00,00:22,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-01-20,-00:33,4066,"Syracuse, NY",0,00:00,00:00,00:00,00:00,00:28
+"Delta Air Lines Inc.",2023-01-21,-00:09,1015,"Orlando, FL",0,00:00,00:00,00:33,00:00,00:00
+"Southwest Airlines Co.",2023-01-21,-00:11,3113,"Reno, NV",0,00:01,00:00,01:02,00:00,00:22
+"Delta Air Lines Inc.",2023-01-21,00:05,2185,"Pittsburgh, PA",0,00:00,00:00,00:26,00:00,00:00
+"Alaska Airlines Inc.",2023-01-21,-00:27,796,"Salt Lake City, UT",0,00:00,00:00,00:18,00:00,00:00
+"Allegiant Air",2023-01-21,00:25,2329,"Grand Forks, ND",0,00:00,00:01,00:00,00:00,00:24
+"United Air Lines Inc.",2023-01-21,-00:06,769,"Hartford, CT",0,00:00,00:00,00:00,00:00,00:22
+"PSA Airlines Inc.",2023-01-21,00:05,5643,"Columbus, OH",0,00:00,00:00,00:16,00:00,00:00
+"Republic Airline",2023-01-21,-00:11,4410,"Tampa, FL",0,00:00,00:00,09:45,00:00,00:00
+"Envoy Air",2023-01-21,00:20,3423,"Norfolk, VA",0,00:00,00:00,00:20,00:00,00:00
+"Delta Air Lines Inc.",2023-01-22,-00:06,1719,"Phoenix, AZ",0,00:00,00:00,00:00,00:00,00:22
+"SkyWest Airlines Inc.",2023-01-22,-00:15,3720,"Seattle, WA",0,00:00,00:00,00:00,00:00,00:29
+"Allegiant Air",2023-01-22,01:20,2537,"Richmond, VA",0,00:00,00:00,00:00,00:00,01:20
+"Allegiant Air",2023-01-22,-00:18,946,"St. Cloud, MN",0,00:00,00:00,03:06,00:00,00:00
+"Allegiant Air",2023-01-23,-00:11,8,"Stockton, CA",0,01:51,00:00,00:09,00:00,02:06
+"SkyWest Airlines Inc.",2023-01-23,00:11,4786,"Wichita, KS",0,02:07,00:00,00:00,00:00,00:00
+"Republic Airline",2023-01-23,-00:21,4732,"Providence, RI",0,00:00,00:00,00:18,00:00,00:00
+"Alaska Airlines Inc.",2023-01-23,-00:26,388,"St. Louis, MO",0,00:03,00:00,00:04,00:00,00:10
+"Delta Air Lines Inc.",2023-01-23,-00:10,726,"Kahului, HI",0,00:00,00:00,00:32,00:00,04:41
+"JetBlue Airways",2023-01-23,00:20,36,"Phoenix, AZ",0,00:20,00:00,00:00,00:00,00:00
+"Envoy Air",2023-01-23,00:07,3555,"Milwaukee, WI",0,00:00,00:00,00:27,00:00,01:32
+"SkyWest Airlines Inc.",2023-01-24,-00:07,4792,"Jacksonville, FL",0,01:05,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-01-24,-00:29,478,"Greer, SC",0,00:00,00:00,00:00,00:00,01:08
+"American Airlines Inc.",2023-01-24,-00:09,1553,"Tulsa, OK",0,00:00,00:00,00:00,00:00,11:16
+"Frontier Airlines Inc.",2023-01-24,00:10,2647,"Providence, RI",0,00:08,00:00,00:34,00:00,00:02
+"Spirit Air Lines",2023-01-25,-00:18,2513,"Boise, ID",0,00:09,00:00,05:45,00:00,00:00
+"PSA Airlines Inc.",2023-01-25,02:48,5134,"Columbia, SC",0,00:00,00:00,00:50,00:00,01:58
+"Alaska Airlines Inc.",2023-01-25,-00:20,834,"Honolulu, HI",0,00:12,00:00,00:00,00:00,02:57
+"Envoy Air",2023-01-25,00:14,3432,"Cedar Rapids/Iowa City, IA",0,00:00,00:00,00:15,00:00,00:00
+"American Airlines Inc.",2023-01-25,-00:18,575,"Ontario, CA",0,00:51,00:00,00:00,00:00,00:00
+"Republic Airline",2023-01-25,-00:07,3621,"Grand Rapids, MI",0,00:00,00:00,00:16,00:00,00:00
+"American Airlines Inc.",2023-01-25,00:08,2862,"Wichita, KS",0,04:20,00:00,00:04,00:00,00:00
+"SkyWest Airlines Inc.",2023-01-25,01:08,4809,"Lubbock, TX",0,00:00,00:00,00:00,00:00,01:08
+"Delta Air Lines Inc.",2023-01-25,00:14,2194,"Cedar Rapids/Iowa City, IA",0,00:10,00:00,00:18,00:00,00:00
+"Frontier Airlines Inc.",2023-01-25,-00:30,2059,"Omaha, NE",0,00:11,00:00,00:00,00:00,02:52
+"Endeavor Air Inc.",2023-01-25,00:59,4891,"Louisville, KY",0,00:00,00:00,00:00,00:00,00:59
+"Delta Air Lines Inc.",2023-01-26,02:07,2316,"Detroit, MI",0,01:52,00:00,00:15,00:00,00:00
+"United Air Lines Inc.",2023-01-26,-00:17,751,"Atlanta, GA",0,00:06,00:00,00:00,00:00,00:12
+"Southwest Airlines Co.",2023-01-26,00:06,616,"Charlotte, NC",0,00:07,00:00,00:32,00:00,00:38
+"SkyWest Airlines Inc.",2023-01-26,00:59,5104,"Devils Lake, ND",1,00:00,00:00,00:59,00:00,00:00
+"Republic Airline",2023-01-26,-00:11,3410,"Harrisburg, PA",0,00:08,00:00,00:11,00:00,00:00
+"Allegiant Air",2023-01-26,-00:16,238,"Key West, FL",0,00:00,00:00,00:25,00:00,00:01
+"SkyWest Airlines Inc.",2023-01-26,00:25,3063,"La Crosse, WI",0,00:00,00:00,00:00,00:00,00:25
+"United Air Lines Inc.",2023-01-27,-00:14,1131,"Denver, CO",0,00:10,00:00,00:00,00:00,00:32
+"Delta Air Lines Inc.",2023-01-27,-00:08,522,"Honolulu, HI",0,00:49,00:00,00:11,00:00,00:00
+"Delta Air Lines Inc.",2023-01-27,-00:20,1132,"West Palm Beach/Palm Beach, FL",0,00:00,00:00,00:54,00:00,00:00
+"Southwest Airlines Co.",2023-01-27,-00:05,1253,"Kona, HI",0,00:00,00:00,00:00,00:00,00:17
+"Envoy Air",2023-01-27,00:06,3412,"Atlanta, GA",0,00:33,00:00,00:08,00:00,00:52
+"SkyWest Airlines Inc.",2023-01-27,-00:24,4082,"Spokane, WA",0,00:00,00:17,00:00,00:00,00:00
+"Alaska Airlines Inc.",2023-01-28,00:11,334,"Atlanta, GA",0,01:19,00:00,00:27,00:00,00:00
+"Southwest Airlines Co.",2023-01-28,00:01,2893,"Palm Springs, CA",0,00:00,00:00,00:01,00:00,00:58
+"American Airlines Inc.",2023-01-28,-00:03,2663,"Key West, FL",0,00:00,00:00,00:00,00:00,00:17
+"PSA Airlines Inc.",2023-01-28,-00:18,5359,"Jackson/Vicksburg, MS",0,00:01,00:00,00:00,00:00,00:35
+"Envoy Air",2023-01-28,00:25,4087,"Des Moines, IA",0,00:01,00:00,00:24,00:00,00:00
+"SkyWest Airlines Inc.",2023-01-28,-00:10,4232,"Hibbing, MN",0,01:49,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-01-28,-00:14,3831,"Albany, NY",0,00:00,00:32,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-01-29,-00:17,2576,"Tampa, FL",0,00:12,00:00,00:00,00:00,00:44
+"American Airlines Inc.",2023-01-29,-00:12,706,"Fort Myers, FL",0,00:00,00:00,00:08,00:00,00:42
+"Alaska Airlines Inc.",2023-01-29,-00:20,721,"Reno, NV",0,00:04,00:00,00:01,00:00,00:28
+"SkyWest Airlines Inc.",2023-01-29,00:30,5427,"Billings, MT",0,00:00,00:00,00:00,00:00,00:30
+"Allegiant Air",2023-01-29,01:36,1988,"New Orleans, LA",0,01:05,00:00,00:31,00:00,00:00
+"Spirit Air Lines",2023-01-30,04:40,867,"Dallas/Fort Worth, TX",0,00:00,00:08,00:57,00:00,03:35
+"Hawaiian Airlines Inc.",2023-01-30,00:02,68,"Lihue, HI",0,00:48,00:00,00:00,00:00,00:00
+"Southwest Airlines Co.",2023-01-30,-00:26,2592,"El Paso, TX",0,00:05,00:00,00:00,00:00,00:18
+"Southwest Airlines Co.",2023-01-30,-00:10,2549,"Savannah, GA",0,00:00,00:00,00:10,00:00,00:13
+"Delta Air Lines Inc.",2023-01-30,-00:16,2096,"Milwaukee, WI",0,00:00,00:00,00:26,00:00,00:00
+"JetBlue Airways",2023-01-30,00:46,87,"Albany, NY",0,00:03,00:00,00:43,00:00,00:00
+"Envoy Air",2023-01-30,00:49,4006,"Dayton, OH",0,00:00,00:00,00:17,00:00,00:32
+"American Airlines Inc.",2023-01-31,-00:21,2981,"Jacksonville, FL",0,00:14,00:00,00:04,00:00,06:08
+"Hawaiian Airlines Inc.",2023-01-31,00:55,51,"New York, NY",0,00:00,00:55,00:00,00:00,00:00
+"Southwest Airlines Co.",2023-01-31,-00:22,1817,"Santa Barbara, CA",0,00:01,00:00,00:00,00:00,00:16
+"Endeavor Air Inc.",2023-01-31,-00:19,4795,"Huntsville, AL",0,00:00,00:00,00:01,00:00,00:40
+"Southwest Airlines Co.",2023-02-01,00:10,1854,"Denver, CO",0,00:07,00:00,00:27,00:00,00:00
+"Envoy Air",2023-02-01,-00:09,3496,"Lubbock, TX",1,00:00,00:16,00:32,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-01,-00:34,5188,"Hattiesburg/Laurel, MS",0,00:00,02:42,00:00,00:00,00:00
+"American Airlines Inc.",2023-02-01,29:01,1009,"San Luis Obispo, CA",1,28:52,00:00,00:09,00:00,00:00
+"American Airlines Inc.",2023-02-01,00:04,1314,"Birmingham, AL",1,00:00,00:19,00:00,00:00,00:00
+"Envoy Air",2023-02-01,00:33,3790,"Hartford, CT",0,00:00,00:00,00:07,00:00,00:26
+"United Air Lines Inc.",2023-02-01,-00:25,522,"Hayden, CO",0,00:00,00:00,00:17,00:00,00:00
+"Southwest Airlines Co.",2023-02-02,-00:17,1449,"Salt Lake City, UT",0,00:20,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-02-02,00:24,1770,"New York, NY",0,00:00,00:00,00:24,00:00,00:00
+"United Air Lines Inc.",2023-02-02,00:31,1660,"Midland/Odessa, TX",0,00:00,00:00,00:31,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-02,00:16,5077,"Hays, KS",0,00:16,00:00,00:00,00:00,00:00
+"Republic Airline",2023-02-02,00:16,3601,"Jacksonville, FL",0,00:00,00:00,00:16,00:00,00:00
+"Delta Air Lines Inc.",2023-02-02,-00:14,2895,"Kansas City, MO",0,06:34,00:00,00:00,00:00,00:00
+"PSA Airlines Inc.",2023-02-02,-00:10,5019,"Harrisburg, PA",0,01:50,00:00,00:34,00:00,00:48
+"American Airlines Inc.",2023-02-02,00:04,530,"Syracuse, NY",0,03:51,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-02,-00:20,4284,"International Falls, MN",0,00:18,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-02-03,-00:07,1292,"Fort Myers, FL",0,00:00,00:00,00:43,00:00,00:00
+"American Airlines Inc.",2023-02-03,-00:11,2455,"New Orleans, LA",0,00:04,00:00,00:00,00:00,00:23
+"Southwest Airlines Co.",2023-02-03,-00:30,1775,"Philadelphia, PA",0,00:00,00:00,00:00,00:00,00:16
+"Spirit Air Lines",2023-02-03,-00:12,1191,"Tampa, FL",0,00:07,00:00,01:13,00:00,00:00
+"Envoy Air",2023-02-03,-00:02,4232,"Austin, TX",0,00:02,00:00,00:00,00:00,02:05
+"American Airlines Inc.",2023-02-03,-00:04,1486,"Daytona Beach, FL",0,00:00,00:00,00:28,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-03,00:00,4917,"College Station/Bryan, TX",0,00:00,03:09,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-03,00:13,3963,"Augusta, GA",0,01:04,00:00,00:00,00:00,00:00
+"Republic Airline",2023-02-03,00:11,4373,"Chattanooga, TN",0,00:00,00:00,01:04,00:00,00:00
+"Hawaiian Airlines Inc.",2023-02-04,00:10,119,"Hilo, HI",0,00:00,00:00,00:24,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-04,00:00,3939,"Asheville, NC",0,00:00,00:00,01:43,00:00,00:00
+"Alaska Airlines Inc.",2023-02-04,-00:22,739,"Phoenix, AZ",0,00:00,00:00,00:00,00:00,00:24
+"SkyWest Airlines Inc.",2023-02-04,-00:16,5368,"Kansas City, MO",0,00:27,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-02-04,00:21,1049,"Evansville, IN",0,00:00,00:00,00:21,00:00,00:00
+"American Airlines Inc.",2023-02-05,-00:19,1953,"Santa Ana, CA",0,01:12,00:00,00:00,00:00,00:24
+"Southwest Airlines Co.",2023-02-05,-00:08,101,"Providence, RI",0,00:00,00:00,00:27,00:00,00:00
+"Alaska Airlines Inc.",2023-02-05,00:01,1329,"Oakland, CA",0,00:00,00:00,00:00,00:00,00:40
+"Spirit Air Lines",2023-02-05,01:42,2907,"Santa Ana, CA",0,00:00,00:00,01:20,00:00,00:22
+"United Air Lines Inc.",2023-02-06,-00:13,369,"Boston, MA",0,03:18,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-02-06,-00:29,2087,"Tucson, AZ",0,00:00,00:00,01:59,00:00,00:34
+"Alaska Airlines Inc.",2023-02-06,00:29,64,"Petersburg, AK",0,00:00,00:00,00:00,00:00,00:29
+"Frontier Airlines Inc.",2023-02-06,-00:02,641,"Pensacola, FL",0,00:00,00:00,00:09,00:00,00:50
+"JetBlue Airways",2023-02-06,-00:20,2064,"Key West, FL",0,00:18,00:00,00:21,00:00,00:17
+"Envoy Air",2023-02-06,00:14,3624,"La Crosse, WI",0,00:00,00:00,00:58,00:00,00:00
+"Republic Airline",2023-02-07,-00:15,4648,"Washington, DC",0,00:00,00:00,00:20,00:00,00:00
+"Spirit Air Lines",2023-02-07,-00:20,1903,"Raleigh/Durham, NC",0,00:00,00:00,00:50,00:00,00:00
+"Delta Air Lines Inc.",2023-02-07,-00:10,2905,"San Jose, CA",0,00:00,00:00,00:15,00:00,00:00
+"Envoy Air",2023-02-07,-00:13,3538,"Jackson/Vicksburg, MS",0,00:00,00:22,00:00,00:00,00:00
+"Envoy Air",2023-02-07,-00:30,3658,"Lansing, MI",0,00:04,00:00,00:00,00:00,00:14
+"Envoy Air",2023-02-08,-00:19,3617,"Miami, FL",0,00:00,00:00,00:22,00:00,00:02
+"United Air Lines Inc.",2023-02-08,01:32,1216,"Eugene, OR",0,00:00,00:00,00:00,00:00,01:32
+"Southwest Airlines Co.",2023-02-09,-00:20,1549,"Baltimore, MD",0,00:05,00:00,00:00,00:00,00:18
+"SkyWest Airlines Inc.",2023-02-09,00:57,3760,"Cedar Rapids/Iowa City, IA",0,00:57,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-09,-00:02,3731,"Grand Rapids, MI",0,00:00,00:00,00:00,00:00,00:43
+"American Airlines Inc.",2023-02-09,00:06,2376,"Detroit, MI",0,00:01,00:00,00:00,00:00,00:14
+"Envoy Air",2023-02-09,-00:10,3447,"Baton Rouge, LA",0,00:00,00:00,00:02,00:00,00:14
+"Alaska Airlines Inc.",2023-02-09,00:08,1103,"Boise, ID",0,00:25,00:00,00:01,00:00,00:00
+"PSA Airlines Inc.",2023-02-09,-00:07,5317,"Pittsburgh, PA",0,00:00,00:00,00:00,00:00,00:41
+"Envoy Air",2023-02-09,-00:21,3433,"Manhattan/Ft. Riley, KS",0,00:00,00:00,00:00,00:00,00:25
+"United Air Lines Inc.",2023-02-10,-00:03,2163,"Tampa, FL",0,00:22,00:00,00:00,00:00,00:00
+"American Airlines Inc.",2023-02-10,00:16,2479,"Las Vegas, NV",0,00:16,00:00,00:00,00:00,00:00
+"Southwest Airlines Co.",2023-02-10,00:33,290,"Austin, TX",0,00:04,00:00,00:00,00:00,00:29
+"SkyWest Airlines Inc.",2023-02-10,-00:28,5449,"South Bend, IN",0,00:34,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-02-10,-00:27,2109,"Norfolk, VA",0,00:00,00:00,03:06,00:00,00:00
+"United Air Lines Inc.",2023-02-10,00:10,2441,"Palm Springs, CA",0,00:06,00:00,00:00,00:00,03:44
+"Delta Air Lines Inc.",2023-02-10,-00:02,2392,"Gainesville, FL",0,00:00,00:00,00:29,00:00,00:00
+"Endeavor Air Inc.",2023-02-11,-00:20,5088,"Indianapolis, IN",0,00:00,00:00,03:06,00:00,00:00
+"Endeavor Air Inc.",2023-02-11,-00:24,4650,"Knoxville, TN",0,00:26,00:00,00:00,00:00,00:00
+"Hawaiian Airlines Inc.",2023-02-11,-00:10,47,"Oakland, CA",0,00:26,00:00,00:00,00:00,00:00
+"American Airlines Inc.",2023-02-11,-00:07,2500,"Eagle, CO",0,00:00,00:00,00:04,00:00,01:14
+"Frontier Airlines Inc.",2023-02-11,00:00,2092,"Sacramento, CA",0,00:00,00:00,00:16,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-11,00:02,5609,"Jackson/Vicksburg, MS",0,00:55,00:00,00:00,00:00,00:00
+"Spirit Air Lines",2023-02-12,-00:11,590,"Houston, TX",0,00:32,00:00,00:04,00:00,00:01
+"Southwest Airlines Co.",2023-02-12,-00:22,2160,"Orlando, FL",0,00:00,00:00,00:20,00:00,00:00
+"PSA Airlines Inc.",2023-02-12,01:57,5267,"Milwaukee, WI",0,01:51,00:00,00:00,00:00,00:06
+"Frontier Airlines Inc.",2023-02-12,00:34,2007,"Austin, TX",0,00:34,00:00,00:00,00:00,00:00
+"Frontier Airlines Inc.",2023-02-12,-00:34,1187,"Portland, ME",0,00:07,00:00,00:16,00:00,00:00
+"American Airlines Inc.",2023-02-13,-00:28,1701,"San Juan, PR",0,00:44,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-02-13,-00:02,2668,"Omaha, NE",0,00:19,00:00,00:09,00:00,00:30
+"Southwest Airlines Co.",2023-02-13,-00:10,2884,"Tulsa, OK",0,00:05,00:00,00:00,00:00,00:39
+"Envoy Air",2023-02-13,00:00,3402,"Hilton Head, SC",0,00:09,00:00,00:14,00:00,01:54
+"Hawaiian Airlines Inc.",2023-02-13,00:15,31,"Las Vegas, NV",0,00:15,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-02-13,-00:36,4737,"Marquette, MI",0,02:37,00:00,00:00,00:00,01:36
+"Republic Airline",2023-02-14,-00:11,3464,"Chicago, IL",0,00:00,00:00,00:29,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-14,00:06,4641,"Scranton/Wilkes-Barre, PA",0,00:19,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-14,-00:11,3955,"Atlanta, GA",0,10:34,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-14,-00:25,3782,"Mobile, AL",0,08:22,00:00,00:00,00:00,00:00
+"Republic Airline",2023-02-14,-00:02,5802,"Charleston, SC",0,00:00,00:00,00:24,00:00,00:00
+"Endeavor Air Inc.",2023-02-15,-00:25,4641,"Bangor, ME",0,00:00,00:00,00:00,00:00,00:40
+"Delta Air Lines Inc.",2023-02-15,-00:30,1309,"St. Louis, MO",0,00:00,00:00,00:21,00:00,00:00
+"Frontier Airlines Inc.",2023-02-15,-00:10,572,"Salt Lake City, UT",0,00:44,00:00,00:36,00:00,00:00
+"Allegiant Air",2023-02-15,-00:08,183,"Allentown/Bethlehem/Easton, PA",0,00:00,00:00,00:39,00:00,00:00
+"PSA Airlines Inc.",2023-02-15,-00:25,5409,"Chattanooga, TN",0,00:00,00:00,00:39,00:00,00:00
+"American Airlines Inc.",2023-02-15,-00:04,1203,"Buffalo, NY",0,00:00,00:00,00:00,00:00,00:33
+"Hawaiian Airlines Inc.",2023-02-15,04:44,79,"Ontario, CA",0,04:44,00:00,00:00,00:00,00:00
+"American Airlines Inc.",2023-02-16,01:29,2067,"Kansas City, MO",0,00:00,00:53,00:36,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-16,-00:01,3764,"Medford, OR",0,00:45,00:00,00:00,00:00,00:00
+"Southwest Airlines Co.",2023-02-16,-00:07,536,"Cleveland, OH",1,00:04,00:00,00:00,00:00,00:18
+"Southwest Airlines Co.",2023-02-16,00:05,2402,"Spokane, WA",0,00:00,00:00,01:17,00:00,00:18
+"SkyWest Airlines Inc.",2023-02-16,-00:16,3030,"Albuquerque, NM",0,00:38,00:00,00:00,00:00,00:00
+"Spirit Air Lines",2023-02-16,00:26,252,"Milwaukee, WI",0,00:00,00:00,00:26,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-16,05:37,5636,"Little Rock, AR",0,00:00,05:37,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-02-16,00:16,2688,"Traverse City, MI",0,00:16,00:00,00:00,00:00,00:00
+"Frontier Airlines Inc.",2023-02-16,00:34,567,"Kansas City, MO",0,00:16,00:00,00:18,00:00,00:00
+"Frontier Airlines Inc.",2023-02-16,-00:30,675,"Norfolk, VA",0,00:00,00:00,00:59,00:00,00:31
+"Southwest Airlines Co.",2023-02-17,00:04,760,"Buffalo, NY",0,00:02,00:00,00:00,00:00,00:43
+"Southwest Airlines Co.",2023-02-17,-00:21,1583,"Fort Myers, FL",0,00:08,00:00,00:28,00:00,00:00
+"Endeavor Air Inc.",2023-02-17,00:05,4735,"Milwaukee, WI",0,00:00,00:00,00:28,00:00,00:00
+"PSA Airlines Inc.",2023-02-18,00:17,5247,"Des Moines, IA",0,00:00,00:00,00:00,00:00,00:17
+"United Air Lines Inc.",2023-02-18,-00:06,1009,"Detroit, MI",0,00:08,00:00,00:15,00:00,00:00
+"American Airlines Inc.",2023-02-18,-00:15,2955,"Jackson, WY",0,00:00,00:00,00:20,00:00,00:00
+"Envoy Air",2023-02-19,-00:08,3638,"Cincinnati, OH",0,00:00,00:14,00:04,00:00,00:00
+"Envoy Air",2023-02-19,00:41,3543,"Santa Fe, NM",0,00:00,00:12,00:29,00:00,00:00
+"Republic Airline",2023-02-19,-00:12,5602,"Baltimore, MD",0,00:00,00:00,00:45,00:00,00:00
+"United Air Lines Inc.",2023-02-19,-00:06,1953,"Syracuse, NY",0,00:00,00:00,01:12,00:00,00:00
+"American Airlines Inc.",2023-02-20,-00:10,2193,"Tucson, AZ",0,00:00,00:00,00:00,00:00,04:28
+"SkyWest Airlines Inc.",2023-02-20,00:00,3072,"Sacramento, CA",0,00:00,00:00,00:00,00:24,00:00
+"Southwest Airlines Co.",2023-02-20,00:04,2156,"Myrtle Beach, SC",0,00:01,00:00,00:00,00:00,00:15
+"Allegiant Air",2023-02-20,00:19,530,"Plattsburgh, NY",0,00:00,00:00,00:02,00:00,00:17
+"Allegiant Air",2023-02-20,00:14,277,"Oakland, CA",0,00:23,00:00,00:00,00:00,01:10
+"Endeavor Air Inc.",2023-02-21,-00:15,4808,"Asheville, NC",0,00:00,00:00,01:19,00:00,00:00
+"Spirit Air Lines",2023-02-21,-00:03,212,"Charlotte Amalie, VI",0,00:45,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-02-21,-00:04,1289,"Charleston, SC",0,00:00,00:00,00:15,00:00,00:00
+"Alaska Airlines Inc.",2023-02-21,-00:33,873,"Kona, HI",0,00:00,00:00,00:00,00:00,00:16
+"SkyWest Airlines Inc.",2023-02-21,-00:15,5044,"Meridian, MS",0,01:21,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-21,-00:20,3714,"Long Beach, CA",1,00:16,00:00,00:00,00:00,00:00
+"American Airlines Inc.",2023-02-21,00:44,1663,"Fayetteville, AR",0,00:20,00:00,00:00,00:00,00:24
+"Alaska Airlines Inc.",2023-02-21,00:13,832,"Lihue, HI",0,00:00,00:00,00:00,00:00,00:48
+"JetBlue Airways",2023-02-21,-00:02,1882,"Houston, TX",0,00:21,00:00,00:00,00:00,06:22
+"Republic Airline",2023-02-22,-00:17,4804,"Oklahoma City, OK",0,00:00,00:00,00:25,00:00,00:00
+"United Air Lines Inc.",2023-02-22,01:38,1584,"Salt Lake City, UT",0,00:28,00:00,00:30,00:00,00:40
+"Allegiant Air",2023-02-22,00:24,582,"Grand Rapids, MI",0,00:00,00:00,00:24,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-22,00:01,5005,"Grand Island, NE",0,00:17,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-22,00:19,5571,"Santa Barbara, CA",0,00:19,00:00,00:00,00:00,00:00
+"PSA Airlines Inc.",2023-02-23,-00:20,5519,"Tulsa, OK",0,00:12,00:00,00:00,00:00,00:06
+"American Airlines Inc.",2023-02-23,-00:03,2046,"San Jose, CA",0,00:00,00:00,00:19,00:00,00:00
+"Allegiant Air",2023-02-23,01:00,669,"Idaho Falls, ID",0,00:09,00:00,00:21,00:00,00:30
+"Hawaiian Airlines Inc.",2023-02-24,-00:01,347,"Kona, HI",0,00:13,00:00,00:00,00:00,00:18
+"Southwest Airlines Co.",2023-02-24,00:42,241,"New Orleans, LA",0,00:10,00:00,00:00,00:00,00:32
+"Endeavor Air Inc.",2023-02-24,00:44,4700,"State College, PA",0,00:00,00:00,00:44,00:00,00:00
+"PSA Airlines Inc.",2023-02-24,-00:05,5140,"Nashville, TN",0,00:01,00:00,00:54,00:00,00:21
+"Endeavor Air Inc.",2023-02-24,-00:15,4919,"Brunswick, GA",0,00:00,00:00,00:00,00:00,01:07
+"American Airlines Inc.",2023-02-24,00:01,2404,"Palm Springs, CA",0,00:00,00:00,00:00,00:00,01:43
+"PSA Airlines Inc.",2023-02-24,01:28,5581,"Huntsville, AL",0,00:06,00:00,00:00,00:00,01:22
+"Spirit Air Lines",2023-02-24,-00:09,1349,"Oakland, CA",0,00:00,00:00,00:02,00:00,00:30
+"JetBlue Airways",2023-02-24,00:03,944,"Bozeman, MT",1,02:27,00:00,00:13,00:00,00:00
+"Envoy Air",2023-02-24,00:13,3434,"Fresno, CA",0,02:24,00:00,00:30,00:00,01:35
+"SkyWest Airlines Inc.",2023-02-25,00:03,3928,"Columbus, OH",0,01:49,00:00,00:00,00:00,00:00
+"Allegiant Air",2023-02-25,00:17,1593,"Santa Ana, CA",0,00:06,00:00,00:00,00:00,00:11
+"United Air Lines Inc.",2023-02-25,00:23,490,"Providence, RI",0,00:00,00:00,00:23,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-26,-00:06,4926,"Stillwater, OK",0,00:26,00:00,00:00,00:00,00:00
+"Spirit Air Lines",2023-02-26,00:00,512,"Austin, TX",0,00:00,00:00,01:06,00:00,00:00
+"Allegiant Air",2023-02-26,-00:12,2302,"Minot, ND",0,00:00,02:25,00:01,00:00,00:27
+"United Air Lines Inc.",2023-02-26,00:10,735,"Fort Lauderdale, FL",0,00:00,00:00,00:00,00:00,08:48
+"American Airlines Inc.",2023-02-26,-00:11,526,"Boise, ID",0,01:37,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-02-26,-00:07,4644,"Key West, FL",0,00:45,00:00,00:00,00:00,00:00
+"Allegiant Air",2023-02-26,00:07,363,"Charleston, SC",0,00:14,00:00,00:00,00:00,00:11
+"American Airlines Inc.",2023-02-27,-00:13,2456,"Indianapolis, IN",0,00:00,00:00,00:10,00:00,00:09
+"Frontier Airlines Inc.",2023-02-27,-00:08,502,"Denver, CO",0,00:04,00:00,00:00,00:00,00:21
+"JetBlue Airways",2023-02-27,00:15,906,"Chicago, IL",0,00:00,00:00,00:15,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-27,-00:02,5680,"Houston, TX",0,01:15,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-02-27,-00:19,229,"Baltimore, MD",0,00:00,00:00,00:26,00:00,00:00
+"Southwest Airlines Co.",2023-02-27,-00:17,1470,"Corpus Christi, TX",0,00:00,00:00,00:52,00:00,00:00
+"American Airlines Inc.",2023-02-27,-00:06,1354,"Salt Lake City, UT",0,00:03,00:00,00:00,00:00,00:23
+"Envoy Air",2023-02-28,-00:29,3635,"Moline, IL",0,00:00,00:00,00:42,00:00,00:00
+"Republic Airline",2023-02-28,00:06,3412,"Syracuse, NY",0,00:00,00:00,00:27,00:00,00:00
+"Delta Air Lines Inc.",2023-02-28,-00:30,2838,"Cleveland, OH",0,00:39,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-02-28,-00:01,4717,"Rapid City, SD",0,00:00,01:04,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-02-28,00:32,2121,"Burbank, CA",0,00:15,00:00,00:00,00:00,00:17
+"JetBlue Airways",2023-02-28,01:56,2050,"Palm Springs, CA",0,00:28,00:00,00:00,00:00,01:28
+"Republic Airline",2023-02-28,-00:07,4670,"Rochester, MN",0,00:00,00:00,00:03,00:00,00:29
+"Envoy Air",2023-03-01,00:24,3735,"Allentown/Bethlehem/Easton, PA",0,00:00,00:00,00:24,00:00,00:00
+"SkyWest Airlines Inc.",2023-03-01,00:20,3941,"Norfolk, VA",0,00:20,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-03-02,-00:02,1578,"Houston, TX",0,00:00,00:00,00:27,00:00,00:00
+"Republic Airline",2023-03-02,-00:21,4682,"Wilmington, NC",0,00:00,00:00,00:52,00:00,00:04
+"Southwest Airlines Co.",2023-03-02,-00:01,1119,"Louisville, KY",0,00:02,00:00,00:00,00:00,00:14
+"American Airlines Inc.",2023-03-02,01:23,2263,"Albany, NY",0,01:23,00:00,00:00,00:00,00:00
+"Envoy Air",2023-03-02,01:42,3385,"Colorado Springs, CO",0,00:00,00:00,00:13,00:00,01:29
+"Southwest Airlines Co.",2023-03-02,-00:23,4579,"Syracuse, NY",0,00:13,00:00,00:00,00:00,00:13
+"Delta Air Lines Inc.",2023-03-02,00:18,2579,"Reno, NV",0,00:18,00:00,00:00,00:00,00:00
+"Allegiant Air",2023-03-02,00:32,1241,"Evansville, IN",0,00:00,00:00,00:11,00:00,00:21
+"Envoy Air",2023-03-03,-00:17,3615,"Wichita, KS",0,00:00,00:00,00:25,00:00,00:00
+"Southwest Airlines Co.",2023-03-03,00:17,888,"Rochester, NY",0,00:00,00:00,00:17,00:00,00:00
+"Endeavor Air Inc.",2023-03-03,-00:04,5004,"Charleston, SC",0,00:05,00:00,00:28,00:00,00:12
+"American Airlines Inc.",2023-03-03,00:45,922,"Bakersfield, CA",0,00:45,00:00,00:00,00:00,00:00
+"PSA Airlines Inc.",2023-03-03,00:02,5336,"Providence, RI",0,00:14,00:00,00:01,00:00,00:00
+"Endeavor Air Inc.",2023-03-03,01:39,4799,"Baton Rouge, LA",0,00:00,00:00,00:00,00:00,01:39
+"Delta Air Lines Inc.",2023-03-03,00:37,1664,"Eagle, CO",0,00:21,00:00,00:16,00:00,00:00
+"Delta Air Lines Inc.",2023-03-04,00:39,540,"Boston, MA",0,00:00,00:39,00:00,00:00,00:00
+"Hawaiian Airlines Inc.",2023-03-04,00:29,71,"Long Beach, CA",0,00:29,00:00,00:00,00:00,00:00
+"JetBlue Airways",2023-03-04,03:36,2036,"Detroit, MI",0,03:36,00:00,00:00,00:00,00:00
+"JetBlue Airways",2023-03-04,00:58,55,"Syracuse, NY",0,00:24,00:00,00:10,00:00,00:24
+"Alaska Airlines Inc.",2023-03-04,00:32,489,"New Orleans, LA",0,00:00,00:00,00:00,00:00,00:32
+"Alaska Airlines Inc.",2023-03-04,-00:16,153,"Nome, AK",1,00:00,00:00,00:00,00:00,00:30
+"American Airlines Inc.",2023-03-04,00:07,415,"Scranton/Wilkes-Barre, PA",0,00:00,00:00,00:00,00:00,00:36
+"SkyWest Airlines Inc.",2023-03-05,00:25,3897,"Moline, IL",0,00:25,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-03-05,-00:23,4986,"Providence, RI",0,01:58,00:00,00:00,00:00,00:00
+"Allegiant Air",2023-03-05,00:20,2891,"Bristol/Johnson City/Kingsport, TN",0,00:00,00:00,00:00,00:00,00:20
+"Republic Airline",2023-03-05,01:30,3605,"Sarasota/Bradenton, FL",0,00:13,00:00,00:00,00:00,01:17
+"Delta Air Lines Inc.",2023-03-06,00:24,2295,"Minneapolis, MN",0,00:00,00:00,00:24,00:00,00:00
+"Delta Air Lines Inc.",2023-03-06,-00:22,513,"Washington, DC",0,00:55,00:00,00:00,00:00,00:11
+"Allegiant Air",2023-03-06,-00:21,1193,"Sanford, FL",0,01:43,00:00,00:00,00:00,00:00
+"Allegiant Air",2023-03-06,01:47,3190,"Appleton, WI",0,00:00,00:00,01:47,00:00,00:00
+"Alaska Airlines Inc.",2023-03-06,-00:02,46,"Bethel, AK",0,00:00,00:00,00:00,00:29,00:00
+"SkyWest Airlines Inc.",2023-03-06,00:00,5078,"Gillette, WY",0,00:00,00:00,00:00,00:00,02:50
+"SkyWest Airlines Inc.",2023-03-06,00:22,4744,"Jackson, WY",0,00:22,00:00,00:00,00:00,00:00
+"Republic Airline",2023-03-06,00:11,3442,"Buffalo, NY",0,00:15,00:00,00:03,00:00,00:00
+"SkyWest Airlines Inc.",2023-03-07,-00:09,4714,"Colorado Springs, CO",0,00:00,00:00,00:22,00:00,00:00
+"United Air Lines Inc.",2023-03-07,-00:15,2358,"New Orleans, LA",0,00:00,00:00,00:21,00:00,01:25
+"American Airlines Inc.",2023-03-07,-00:27,675,"Honolulu, HI",0,00:00,00:00,00:00,00:00,00:50
+"Republic Airline",2023-03-07,-00:12,4337,"St. Louis, MO",0,00:09,00:00,00:00,00:00,00:15
+"SkyWest Airlines Inc.",2023-03-07,-00:21,5238,"Gunnison, CO",0,00:00,00:00,00:00,00:00,03:01
+"PSA Airlines Inc.",2023-03-07,09:02,5019,"Scranton/Wilkes-Barre, PA",0,00:00,09:02,00:00,00:00,00:00
+"Spirit Air Lines",2023-03-07,-00:16,2080,"Rochester, NY",0,00:00,00:00,01:02,00:00,00:00
+"Republic Airline",2023-03-08,-00:05,4256,"Houston, TX",0,00:00,00:00,00:24,00:00,00:24
+"Frontier Airlines Inc.",2023-03-08,-00:32,1023,"Chicago, IL",0,00:12,00:00,00:30,00:00,00:11
+"Envoy Air",2023-03-08,-00:08,3728,"Fort Myers, FL",0,00:00,00:00,00:01,00:00,00:46
+"Delta Air Lines Inc.",2023-03-08,-00:23,2705,"Palm Springs, CA",0,00:00,00:00,00:16,00:00,00:00
+"JetBlue Airways",2023-03-08,-00:10,144,"West Palm Beach/Palm Beach, FL",0,00:00,00:00,00:18,00:00,00:00
+"SkyWest Airlines Inc.",2023-03-08,00:02,5848,"Sioux Falls, SD",0,00:00,00:36,00:00,00:00,00:00
+"American Airlines Inc.",2023-03-08,00:06,1461,"Charlotte Amalie, VI",0,00:00,00:00,00:14,00:00,00:19
+"Republic Airline",2023-03-08,-00:09,3477,"Greensboro/High Point, NC",0,00:18,00:00,00:00,00:00,00:03
+"American Airlines Inc.",2023-03-09,00:28,2629,"Miami, FL",0,00:24,00:00,00:00,00:00,00:04
+"Southwest Airlines Co.",2023-03-09,-00:01,2806,"San Juan, PR",0,00:00,00:00,00:00,00:00,02:03
+"Delta Air Lines Inc.",2023-03-09,-00:11,2201,"Kalispell, MT",0,00:00,00:00,00:00,00:00,03:07
+"Alaska Airlines Inc.",2023-03-09,00:00,517,"Fort Lauderdale, FL",0,02:21,00:00,00:00,00:00,00:00
+"Envoy Air",2023-03-09,-00:20,3573,"Reno, NV",0,00:00,00:00,00:19,00:00,00:00
+"United Air Lines Inc.",2023-03-09,00:01,1445,"Charlotte Amalie, VI",0,00:00,00:00,00:16,00:00,00:00
+"Republic Airline",2023-03-09,-00:25,4696,"Charlottesville, VA",0,00:00,00:00,00:00,00:00,00:48
+"Southwest Airlines Co.",2023-03-10,-00:14,2504,"Indianapolis, IN",0,00:00,00:00,00:00,00:00,00:23
+"Delta Air Lines Inc.",2023-03-10,-00:08,1064,"Austin, TX",0,00:17,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-03-10,-00:05,3362,"San Diego, CA",0,00:00,00:00,00:00,00:00,01:09
+"Endeavor Air Inc.",2023-03-10,00:12,5371,"Columbus, MS",0,00:00,00:00,00:56,00:00,01:08
+"SkyWest Airlines Inc.",2023-03-10,-00:15,4670,"Des Moines, IA",0,00:43,00:00,00:00,00:00,00:00
+"Allegiant Air",2023-03-10,-00:11,2854,"Memphis, TN",0,00:00,00:00,00:12,00:00,00:06
+"JetBlue Airways",2023-03-10,00:02,526,"Baltimore, MD",0,00:03,00:00,00:16,00:00,00:00
+"JetBlue Airways",2023-03-11,-00:15,353,"Fort Lauderdale, FL",0,00:20,00:00,00:07,00:00,00:00
+"SkyWest Airlines Inc.",2023-03-11,-00:23,4272,"Detroit, MI",0,00:51,00:00,00:00,00:00,00:00
+"American Airlines Inc.",2023-03-11,-00:07,1985,"Sarasota/Bradenton, FL",0,00:00,00:00,00:00,00:00,01:37
+"Frontier Airlines Inc.",2023-03-11,01:27,1217,"Syracuse, NY",0,00:00,00:00,01:27,00:00,00:00
+"United Air Lines Inc.",2023-03-11,-00:07,1757,"Pittsburgh, PA",0,01:47,00:00,00:08,00:00,00:00
+"Envoy Air",2023-03-11,00:17,3458,"White Plains, NY",0,00:09,00:00,00:00,00:00,00:08
+"Envoy Air",2023-03-11,00:17,3323,"Bozeman, MT",0,00:00,00:00,00:17,00:00,00:00
+"Envoy Air",2023-03-12,00:00,4151,"Asheville, NC",0,00:12,00:00,00:03,00:00,00:00
+"Southwest Airlines Co.",2023-03-12,00:00,3556,"Miami, FL",0,00:00,00:00,00:02,00:00,00:21
+"Frontier Airlines Inc.",2023-03-12,02:09,818,"West Palm Beach/Palm Beach, FL",0,00:15,00:00,01:40,00:00,00:14
+"Allegiant Air",2023-03-12,00:56,499,"Indianapolis, IN",0,00:00,00:09,00:47,00:00,00:00
+"Spirit Air Lines",2023-03-12,-00:05,1735,"Richmond, VA",0,00:00,00:00,00:01,00:16,00:00
+"Envoy Air",2023-03-12,-00:16,3721,"Brownsville, TX",0,00:00,00:00,00:00,00:00,00:27
+"SkyWest Airlines Inc.",2023-03-12,00:16,5480,"Midland/Odessa, TX",0,00:16,00:00,00:00,00:00,00:00
+"Frontier Airlines Inc.",2023-03-12,00:11,2370,"Sarasota/Bradenton, FL",1,00:00,00:00,00:00,00:00,02:34
+"JetBlue Airways",2023-03-13,00:38,2539,"New York, NY",0,00:03,00:00,00:00,00:00,00:35
+"SkyWest Airlines Inc.",2023-03-13,-00:04,3136,"Chicago, IL",0,00:00,00:00,00:00,00:00,02:52
+"Republic Airline",2023-03-13,-00:06,5839,"New York, NY",0,00:00,00:00,00:00,00:00,01:00
+"United Air Lines Inc.",2023-03-13,-00:13,622,"Los Angeles, CA",0,00:15,00:00,00:01,00:00,00:00
+"SkyWest Airlines Inc.",2023-03-13,-00:18,3838,"Oklahoma City, OK",0,00:29,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-03-13,01:05,5292,"Richmond, VA",0,00:00,00:00,00:54,00:00,00:11
+"Allegiant Air",2023-03-13,01:52,2930,"Houston, TX",0,00:04,00:00,00:02,00:00,01:46
+"Allegiant Air",2023-03-13,-00:10,142,"Great Falls, MT",0,00:00,00:57,00:00,00:00,00:05
+"Endeavor Air Inc.",2023-03-13,-00:22,4991,"Albany, GA",0,00:00,00:00,00:00,00:00,00:21
+"American Airlines Inc.",2023-03-13,-00:15,2277,"Amarillo, TX",0,00:00,00:00,00:32,00:00,00:14
+"American Airlines Inc.",2023-03-13,00:03,2616,"Hayden, CO",0,00:00,00:00,00:00,00:00,00:20
+"Allegiant Air",2023-03-13,01:12,2885,"Owensboro, KY",0,00:00,00:00,01:12,00:00,00:00
+"Allegiant Air",2023-03-13,03:14,2875,"Norfolk, VA",0,00:03,00:00,00:01,00:00,03:10
+"Delta Air Lines Inc.",2023-03-14,00:02,2291,"Chicago, IL",0,00:00,00:00,00:15,00:00,00:55
+"United Air Lines Inc.",2023-03-14,-00:03,1828,"Orlando, FL",0,00:06,00:00,00:01,00:00,00:58
+"Frontier Airlines Inc.",2023-03-14,00:04,119,"San Juan, PR",0,01:46,00:00,00:39,00:00,00:00
+"SkyWest Airlines Inc.",2023-03-14,-00:10,4673,"Kalispell, MT",0,01:21,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-03-14,-00:10,4953,"Garden City, KS",0,01:07,00:00,00:00,00:00,00:00
+"Alaska Airlines Inc.",2023-03-14,00:27,315,"San Antonio, TX",0,00:07,00:00,00:20,00:00,00:00
+"Envoy Air",2023-03-14,-00:08,3336,"Richmond, VA",0,01:22,00:00,00:43,00:00,00:02
+"Endeavor Air Inc.",2023-03-14,00:28,4648,"Oklahoma City, OK",0,00:00,00:00,00:28,00:00,00:00
+"Endeavor Air Inc.",2023-03-15,03:10,5239,"Wilmington, NC",0,00:00,00:20,00:33,00:00,02:17
+"American Airlines Inc.",2023-03-15,00:02,1751,"Fresno, CA",0,00:00,00:00,00:00,00:00,00:31
+"SkyWest Airlines Inc.",2023-03-15,00:01,4248,"Pocatello, ID",0,05:06,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-03-16,-00:01,3159,"Waco, TX",1,00:00,01:22,00:00,00:00,00:00
+"American Airlines Inc.",2023-03-16,-00:16,2083,"Sacramento, CA",0,00:00,00:00,00:24,00:00,00:19
+"American Airlines Inc.",2023-03-16,01:27,2436,"Newark, NJ",0,00:37,00:00,00:25,00:00,00:25
+"Alaska Airlines Inc.",2023-03-16,00:54,305,"Miami, FL",0,00:45,00:00,00:09,00:00,00:00
+"Envoy Air",2023-03-16,00:06,3453,"Durango, CO",1,04:15,00:00,00:00,00:00,00:00
+"Frontier Airlines Inc.",2023-03-16,-00:11,2310,"Charleston, SC",0,00:00,00:00,00:00,00:00,00:37
+"Envoy Air",2023-03-16,-00:07,4102,"Lake Charles, LA",0,00:00,00:00,00:10,00:00,01:22
+"United Air Lines Inc.",2023-03-17,-00:14,1778,"Norfolk, VA",0,00:00,00:00,00:37,00:00,00:00
+"Envoy Air",2023-03-17,00:27,4164,"Nashville, TN",0,00:00,00:00,00:07,00:00,00:20
+"United Air Lines Inc.",2023-03-17,00:42,1873,"Savannah, GA",1,00:00,00:00,00:40,00:00,00:02
+"Allegiant Air",2023-03-17,-00:09,66,"Tulsa, OK",0,00:00,00:06,00:51,00:00,02:01
+"Alaska Airlines Inc.",2023-03-18,-00:39,193,"Los Angeles, CA",0,00:00,00:00,00:00,00:00,00:17
+"SkyWest Airlines Inc.",2023-03-18,-00:22,5563,"Bishop, CA",0,00:00,00:00,02:13,00:00,00:00
+"Envoy Air",2023-03-18,00:24,3773,"Providence, RI",0,00:00,00:00,00:00,00:00,00:24
+"Alaska Airlines Inc.",2023-03-18,-00:20,1041,"Burbank, CA",0,00:00,00:00,00:38,00:00,00:20
+"SkyWest Airlines Inc.",2023-03-18,00:10,4980,"Panama City, FL",0,00:15,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-03-18,-00:03,5358,"Saginaw/Bay City/Midland, MI",0,01:04,00:00,00:00,00:00,00:00
+"Republic Airline",2023-03-18,00:20,4315,"Miami, FL",0,00:20,00:00,00:00,00:00,00:00
+"Envoy Air",2023-03-18,-00:04,4030,"Green Bay, WI",0,00:00,00:00,00:29,00:00,00:00
+"SkyWest Airlines Inc.",2023-03-18,-00:20,3754,"Bristol/Johnson City/Kingsport, TN",0,00:16,00:00,00:00,00:00,00:00
+"Southwest Airlines Co.",2023-03-19,-00:14,199,"Greer, SC",0,00:18,00:00,00:10,00:00,00:00
+"SkyWest Airlines Inc.",2023-03-19,00:00,3166,"Roswell, NM",0,01:52,00:00,00:00,00:00,00:00
+"Frontier Airlines Inc.",2023-03-19,-00:09,1122,"Memphis, TN",0,00:00,00:00,00:31,00:00,00:00
+"PSA Airlines Inc.",2023-03-19,-00:24,5091,"Savannah, GA",0,00:00,00:00,00:46,00:00,00:00
+"United Air Lines Inc.",2023-03-19,-00:17,2154,"Jackson, WY",0,00:19,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-03-19,-00:06,5352,"Valdosta, GA",0,00:00,00:02,00:00,00:00,00:42
+"JetBlue Airways",2023-03-19,-00:04,746,"Ponce, PR",0,00:59,00:00,00:00,00:00,00:00
+"Envoy Air",2023-03-19,00:09,4121,"Buffalo, NY",0,00:00,00:00,00:05,00:00,00:14
+"PSA Airlines Inc.",2023-03-19,-00:29,5397,"Bristol/Johnson City/Kingsport, TN",0,00:00,00:00,00:00,00:00,01:09
+"Endeavor Air Inc.",2023-03-19,-00:05,5010,"Roanoke, VA",0,00:00,00:00,00:00,00:00,00:24
+"Delta Air Lines Inc.",2023-03-19,00:12,1201,"Syracuse, NY",0,00:42,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-03-19,-00:10,1475,"Springfield, MO",0,00:00,00:31,00:00,00:00,00:00
+"Frontier Airlines Inc.",2023-03-19,-00:18,1026,"Bloomington/Normal, IL",0,00:03,00:00,00:22,00:00,00:00
+"Southwest Airlines Co.",2023-03-20,-00:03,3176,"Minneapolis, MN",0,00:00,00:00,00:00,00:00,01:29
+"Spirit Air Lines",2023-03-20,00:10,1701,"Kansas City, MO",0,00:21,00:00,00:01,00:00,00:33
+"Allegiant Air",2023-03-20,00:34,227,"Columbus, OH",0,00:09,00:00,00:04,00:00,00:21
+"Allegiant Air",2023-03-20,-00:15,217,"Asheville, NC",0,00:00,00:00,00:19,00:00,00:00
+"Alaska Airlines Inc.",2023-03-20,-00:03,1107,"Palm Springs, CA",0,01:35,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-03-20,-00:20,4695,"Springfield, MO",0,00:41,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-03-21,-00:11,4953,"Atlanta, GA",0,00:17,00:00,00:00,00:00,00:01
+"SkyWest Airlines Inc.",2023-03-21,-00:09,3145,"Los Angeles, CA",0,00:20,00:00,00:00,00:00,00:00
+"Frontier Airlines Inc.",2023-03-21,-00:05,1039,"Buffalo, NY",0,00:39,00:00,00:00,00:00,00:00
+"JetBlue Airways",2023-03-21,-00:08,184,"Raleigh/Durham, NC",0,07:00,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-03-21,-00:19,2277,"Albany, NY",0,00:00,00:00,00:20,00:00,01:25
+"United Air Lines Inc.",2023-03-21,-00:37,2182,"Eagle, CO",0,00:00,00:36,00:39,00:00,00:57
+"Envoy Air",2023-03-21,00:11,3442,"Gulfport/Biloxi, MS",0,00:04,00:00,00:07,00:00,00:35
+"United Air Lines Inc.",2023-03-22,-00:19,2278,"Chicago, IL",0,01:57,00:00,00:00,00:00,00:00
+"Envoy Air",2023-03-22,-00:15,3511,"Birmingham, AL",0,00:00,00:00,00:14,00:00,01:33
+"Envoy Air",2023-03-22,-00:11,3413,"Boston, MA",0,00:02,00:00,00:09,00:00,00:34
+"American Airlines Inc.",2023-03-22,-00:26,2131,"Columbia, SC",0,00:00,00:00,00:00,00:00,01:08
+"Allegiant Air",2023-03-23,-00:15,3016,"Peoria, IL",0,00:00,00:00,00:46,00:00,00:00
+"Frontier Airlines Inc.",2023-03-23,00:54,1055,"Columbus, OH",0,00:07,00:00,00:00,00:00,00:47
+"Envoy Air",2023-03-23,00:10,3420,"Washington, DC",0,00:03,00:00,00:02,00:00,01:06
+"JetBlue Airways",2023-03-23,-00:24,1731,"Salt Lake City, UT",0,00:32,00:00,00:25,00:00,00:08
+"Allegiant Air",2023-03-23,-00:15,417,"Newburgh/Poughkeepsie, NY",0,00:00,00:00,00:07,00:00,00:29
+"Envoy Air",2023-03-23,00:20,4013,"Mosinee, WI",0,00:20,00:00,00:00,00:00,00:00
+"Frontier Airlines Inc.",2023-03-24,-00:02,2015,"Cleveland, OH",0,00:00,00:00,00:05,00:00,01:55
+"Southwest Airlines Co.",2023-03-24,-00:08,3542,"New York, NY",0,00:02,00:00,00:00,00:00,00:19
+"Hawaiian Airlines Inc.",2023-03-24,00:12,25,"Portland, OR",0,00:29,00:00,00:00,00:00,00:00
+"PSA Airlines Inc.",2023-03-24,00:05,5050,"Panama City, FL",0,00:00,00:00,00:15,00:00,00:00
+"Southwest Airlines Co.",2023-03-25,02:11,1170,"Milwaukee, WI",0,00:00,00:00,00:01,00:00,02:10
+"Spirit Air Lines",2023-03-25,00:14,3173,"Miami, FL",0,04:28,00:00,00:32,00:00,00:00
+"Spirit Air Lines",2023-03-25,00:19,1833,"Indianapolis, IN",0,00:00,00:00,00:19,00:00,00:00
+"Delta Air Lines Inc.",2023-03-25,01:37,2461,"Greensboro/High Point, NC",0,00:00,00:00,00:00,00:00,01:37
+"Allegiant Air",2023-03-25,00:25,2555,"Springfield, IL",0,00:00,00:00,00:25,00:00,00:00
+"Endeavor Air Inc.",2023-03-25,00:32,4729,"Gainesville, FL",0,00:00,00:00,00:01,00:00,00:31
+"PSA Airlines Inc.",2023-03-26,-00:19,5119,"Mobile, AL",0,00:00,00:00,00:05,00:00,00:57
+"Frontier Airlines Inc.",2023-03-27,00:21,1210,"St. Louis, MO",0,00:00,00:00,00:11,00:00,00:10
+"JetBlue Airways",2023-03-27,01:15,1812,"Fort Myers, FL",0,00:00,00:00,00:59,00:00,00:16
+"American Airlines Inc.",2023-03-27,00:08,1293,"Christiansted, VI",0,00:00,00:00,00:26,00:00,00:00
+"American Airlines Inc.",2023-03-27,-00:02,455,"Santa Barbara, CA",0,00:08,00:00,00:00,00:00,00:14
+"SkyWest Airlines Inc.",2023-03-27,01:06,4957,"Del Rio, TX",0,00:00,01:06,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-03-27,-00:17,5105,"Fort Dodge, IA",0,00:00,00:00,00:35,00:00,00:00
+"American Airlines Inc.",2023-03-27,-00:12,2609,"Gunnison, CO",0,00:36,00:00,00:14,00:00,00:00
+"Republic Airline",2023-03-28,-00:17,3428,"Columbus, OH",0,00:00,00:00,00:27,00:00,00:00
+"Delta Air Lines Inc.",2023-03-28,00:02,890,"Houston, TX",0,00:49,00:00,00:00,00:00,00:03
+"Southwest Airlines Co.",2023-03-28,-00:11,2124,"Boston, MA",0,00:24,00:00,00:00,00:00,01:37
+"Delta Air Lines Inc.",2023-03-28,-00:20,2782,"Little Rock, AR",0,00:00,00:00,00:00,00:00,00:30
+"Delta Air Lines Inc.",2023-03-28,00:08,2707,"Mobile, AL",0,00:00,00:00,00:56,00:00,00:00
+"SkyWest Airlines Inc.",2023-03-29,-00:06,4680,"Knoxville, TN",0,00:00,00:00,00:00,00:00,01:27
+"Alaska Airlines Inc.",2023-03-29,00:58,772,"Everett, WA",0,00:00,00:00,00:58,00:00,00:00
+"Envoy Air",2023-03-29,-00:18,3640,"Greensboro/High Point, NC",0,03:34,00:00,00:00,00:00,00:00
+"Spirit Air Lines",2023-03-29,-00:21,366,"West Palm Beach/Palm Beach, FL",0,00:15,00:00,00:18,00:00,00:36
+"Delta Air Lines Inc.",2023-03-30,-00:24,2364,"Tallahassee, FL",0,00:00,00:38,00:00,00:00,00:00
+"Allegiant Air",2023-03-30,-00:15,681,"Phoenix, AZ",0,00:00,00:00,00:14,00:00,00:09
+"SkyWest Airlines Inc.",2023-03-30,00:21,3460,"Las Vegas, NV",0,00:21,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-03-30,-00:07,4815,"Syracuse, NY",0,00:01,00:00,00:00,00:00,00:20
+"PSA Airlines Inc.",2023-03-30,-00:29,5445,"Cincinnati, OH",0,00:10,00:00,00:14,00:00,00:00
+"Delta Air Lines Inc.",2023-03-30,-00:12,2386,"Louisville, KY",0,00:00,00:00,00:00,00:00,01:05
+"Envoy Air",2023-03-30,00:06,3455,"Killeen, TX",0,00:49,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-03-30,-00:26,431,"Hayden, CO",0,00:06,00:00,00:22,00:00,00:01
+"PSA Airlines Inc.",2023-03-30,-00:16,5211,"Charleston, SC",0,00:00,00:00,00:00,00:00,00:39
+"American Airlines Inc.",2023-03-31,00:37,980,"Atlanta, GA",0,00:00,00:12,00:25,00:00,00:00
+"Frontier Airlines Inc.",2023-03-31,-00:06,1963,"New Orleans, LA",0,00:00,00:00,00:00,00:00,00:36
+"SkyWest Airlines Inc.",2023-03-31,-00:09,5410,"Monterey, CA",0,01:16,00:00,00:00,00:00,00:00
+"Envoy Air",2023-03-31,-00:08,3592,"Tallahassee, FL",0,00:00,00:00,00:00,00:00,00:18
+"Allegiant Air",2023-03-31,01:24,956,"Kansas City, MO",0,00:00,00:00,00:54,00:00,00:30
+"Delta Air Lines Inc.",2023-03-31,00:21,2384,"Duluth, MN",0,00:00,00:00,00:21,00:00,00:00
+"Southwest Airlines Co.",2023-04-01,00:12,242,"Charleston, SC",0,00:00,00:00,00:00,00:00,03:09
+"Delta Air Lines Inc.",2023-04-01,-00:13,729,"San Francisco, CA",0,00:00,00:00,00:00,00:00,05:17
+"SkyWest Airlines Inc.",2023-04-01,01:18,5498,"Lexington, KY",0,01:18,00:00,00:00,00:00,00:00
+"Frontier Airlines Inc.",2023-04-01,-00:02,1291,"Rochester, NY",0,00:05,00:00,00:00,00:00,00:51
+"Envoy Air",2023-04-01,-00:13,3688,"Pittsburgh, PA",0,00:00,00:00,00:20,00:00,00:00
+"Hawaiian Airlines Inc.",2023-04-02,00:04,57,"San Diego, CA",0,00:48,00:00,00:00,00:00,00:00
+"Envoy Air",2023-04-02,00:30,3366,"Charlotte, NC",0,00:00,00:00,00:30,00:00,00:00
+"Republic Airline",2023-04-02,00:16,5748,"White Plains, NY",0,00:01,00:00,00:00,00:00,00:15
+"Endeavor Air Inc.",2023-04-02,00:24,4730,"Wichita, KS",0,00:18,00:00,00:00,00:00,00:06
+"Endeavor Air Inc.",2023-04-03,-00:12,4714,"Kansas City, MO",0,00:00,00:00,11:58,00:00,00:00
+"PSA Airlines Inc.",2023-04-03,00:04,5207,"Charleston/Dunbar, WV",0,00:00,00:00,00:18,00:00,00:00
+"United Air Lines Inc.",2023-04-03,-00:16,174,"Guam, TT",0,00:22,00:00,00:00,00:00,00:00
+"Allegiant Air",2023-04-03,-00:13,639,"Bismarck/Mandan, ND",0,00:00,00:07,00:00,00:00,00:26
+"Allegiant Air",2023-04-03,00:21,12,"El Paso, TX",0,00:00,00:00,00:10,00:00,00:11
+"Envoy Air",2023-04-04,-00:02,3565,"Midland/Odessa, TX",0,00:00,00:15,00:00,00:00,00:14
+"Allegiant Air",2023-04-04,-00:09,1269,"Syracuse, NY",0,00:10,00:00,00:36,00:00,00:53
+"JetBlue Airways",2023-04-04,00:03,1369,"Buffalo, NY",0,02:13,00:00,00:00,00:00,00:00
+"PSA Airlines Inc.",2023-04-04,-00:08,5355,"Knoxville, TN",0,00:00,00:00,00:24,00:00,00:12
+"United Air Lines Inc.",2023-04-04,-00:08,1797,"Louisville, KY",0,01:28,00:00,00:04,00:00,00:00
+"Alaska Airlines Inc.",2023-04-04,-00:28,87,"Deadhorse, AK",0,00:00,00:00,00:04,00:00,00:20
+"Delta Air Lines Inc.",2023-04-04,-00:25,2216,"Wichita, KS",0,00:00,00:00,00:00,00:00,00:29
+"Allegiant Air",2023-04-04,-00:13,239,"Elmira/Corning, NY",0,00:00,00:00,00:26,00:00,00:16
+"American Airlines Inc.",2023-04-04,00:14,2788,"Colorado Springs, CO",0,00:57,00:00,00:24,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-04,02:20,5173,"Cheyenne, WY",0,00:00,00:00,02:20,00:00,00:00
+"Spirit Air Lines",2023-04-05,-00:18,1271,"Burbank, CA",0,01:08,00:00,00:00,00:00,00:00
+"Republic Airline",2023-04-05,-00:28,3452,"Portland, ME",0,00:00,00:00,00:21,00:00,00:00
+"Delta Air Lines Inc.",2023-04-05,03:09,1292,"Augusta, GA",0,00:00,00:00,00:00,00:00,03:09
+"JetBlue Airways",2023-04-06,00:14,1248,"Tampa, FL",0,00:16,00:00,00:00,00:00,00:15
+"Allegiant Air",2023-04-06,00:22,2568,"Louisville, KY",0,00:06,00:00,00:16,00:00,00:00
+"Envoy Air",2023-04-06,-00:06,3839,"Daytona Beach, FL",0,00:00,02:08,00:41,00:00,00:13
+"Spirit Air Lines",2023-04-06,04:04,2511,"Albuquerque, NM",0,03:45,00:00,00:19,00:00,00:00
+"American Airlines Inc.",2023-04-06,-00:02,2234,"Augusta, GA",0,00:06,00:00,00:31,00:00,00:14
+"United Air Lines Inc.",2023-04-07,-00:09,1300,"Washington, DC",0,00:00,00:00,00:15,00:00,00:00
+"American Airlines Inc.",2023-04-07,00:18,1912,"Chicago, IL",0,00:16,00:00,00:02,00:00,00:00
+"Delta Air Lines Inc.",2023-04-07,00:06,1809,"Christiansted, VI",0,00:00,00:00,00:47,00:00,00:00
+"Southwest Airlines Co.",2023-04-07,-00:18,27,"Pensacola, FL",0,00:00,00:23,00:07,00:00,01:19
+"Republic Airline",2023-04-07,-00:31,3637,"Scranton/Wilkes-Barre, PA",0,00:00,00:00,00:26,00:00,00:00
+"Delta Air Lines Inc.",2023-04-07,00:03,1688,"Albuquerque, NM",0,00:18,00:00,00:00,00:00,00:00
+"Republic Airline",2023-04-07,-00:16,3646,"Albany, NY",0,02:56,00:00,00:00,00:00,00:00
+"Spirit Air Lines",2023-04-07,00:18,1100,"Pensacola, FL",0,00:00,00:00,00:18,00:00,00:00
+"Envoy Air",2023-04-07,00:05,4064,"Fayetteville, NC",0,00:01,00:00,00:00,00:00,01:32
+"Republic Airline",2023-04-07,00:20,4388,"Fargo, ND",0,00:05,00:00,00:00,00:00,00:15
+"Southwest Airlines Co.",2023-04-08,-00:10,3355,"Chicago, IL",0,00:06,00:00,00:08,00:00,00:13
+"PSA Airlines Inc.",2023-04-08,00:11,5543,"Raleigh/Durham, NC",0,00:58,00:00,00:00,00:00,00:00
+"JetBlue Airways",2023-04-09,-00:18,680,"Milwaukee, WI",0,00:00,00:00,00:00,00:00,01:23
+"Spirit Air Lines",2023-04-09,00:02,449,"Christiansted, VI",0,00:00,00:00,03:15,00:00,00:00
+"Allegiant Air",2023-04-09,-00:27,233,"West Palm Beach/Palm Beach, FL",0,00:06,00:00,00:10,00:00,00:08
+"Republic Airline",2023-04-09,00:38,4688,"Roanoke, VA",0,00:00,00:00,00:00,00:00,00:38
+"Spirit Air Lines",2023-04-10,-00:23,960,"Detroit, MI",0,00:00,00:00,00:53,00:00,00:00
+"PSA Airlines Inc.",2023-04-10,-00:18,5169,"Hartford, CT",0,00:00,00:00,00:31,00:00,00:00
+"Frontier Airlines Inc.",2023-04-10,01:03,2362,"Savannah, GA",0,00:00,00:00,00:00,00:00,01:03
+"Alaska Airlines Inc.",2023-04-10,00:09,1275,"Fresno, CA",0,00:00,00:00,00:51,00:00,00:00
+"Endeavor Air Inc.",2023-04-11,00:01,4906,"Myrtle Beach, SC",0,00:00,00:15,00:00,00:00,00:00
+"PSA Airlines Inc.",2023-04-11,-00:08,5560,"Memphis, TN",0,00:00,00:00,00:23,00:00,00:00
+"American Airlines Inc.",2023-04-11,-00:08,1590,"Mission/McAllen/Edinburg, TX",0,00:00,00:00,00:18,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-11,-00:19,5023,"Hancock/Houghton, MI",0,00:00,01:41,00:00,00:00,00:00
+"United Air Lines Inc.",2023-04-11,-00:20,1007,"Milwaukee, WI",0,00:32,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-12,-00:16,5062,"Mason City, IA",0,00:00,00:00,00:00,00:00,00:48
+"PSA Airlines Inc.",2023-04-12,-00:21,5495,"Akron, OH",0,00:00,00:00,00:21,00:00,00:00
+"JetBlue Airways",2023-04-12,-00:04,1271,"Worcester, MA",0,00:00,03:43,00:00,00:00,00:00
+"United Air Lines Inc.",2023-04-12,-00:08,1346,"Wichita, KS",0,00:00,00:00,00:42,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-12,-00:03,3737,"Cleveland, OH",0,00:45,00:00,00:00,00:00,00:00
+"JetBlue Airways",2023-04-12,00:29,17,"Jacksonville, FL",1,00:00,00:00,00:14,00:00,00:15
+"Delta Air Lines Inc.",2023-04-13,-00:11,2610,"Santa Ana, CA",0,00:00,00:00,00:00,00:00,02:22
+"PSA Airlines Inc.",2023-04-13,-00:14,5551,"Rochester, NY",0,00:00,00:00,00:00,00:00,00:31
+"Spirit Air Lines",2023-04-13,00:20,3139,"Denver, CO",0,00:09,00:00,00:11,00:00,00:00
+"Envoy Air",2023-04-13,-00:11,3480,"Fort Smith, AR",0,00:00,00:00,00:16,00:00,00:00
+"Hawaiian Airlines Inc.",2023-04-13,00:16,466,"Pago Pago, TT",0,00:04,00:00,00:00,00:00,00:12
+"Allegiant Air",2023-04-13,01:06,3240,"Spokane, WA",0,00:09,00:00,00:02,00:00,00:55
+"SkyWest Airlines Inc.",2023-04-14,-00:02,3624,"Salt Lake City, UT",0,00:00,00:00,00:27,00:00,00:00
+"Envoy Air",2023-04-14,00:09,4185,"Huntsville, AL",0,00:48,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-04-14,00:00,5204,"Newark, NJ",0,00:41,00:00,00:00,00:00,00:25
+"SkyWest Airlines Inc.",2023-04-14,00:02,5376,"Erie, PA",0,05:16,00:00,00:00,00:00,00:00
+"Envoy Air",2023-04-14,00:46,3846,"Gainesville, FL",0,00:12,00:00,00:00,00:00,00:34
+"Republic Airline",2023-04-15,18:44,3615,"Minneapolis, MN",0,00:00,00:00,18:44,00:00,00:00
+"American Airlines Inc.",2023-04-15,-00:15,2493,"Charlotte, NC",0,00:36,00:00,00:26,00:00,00:00
+"American Airlines Inc.",2023-04-15,00:03,2146,"Minneapolis, MN",0,00:00,00:00,00:36,00:00,00:00
+"Spirit Air Lines",2023-04-15,-00:01,714,"Pittsburgh, PA",0,00:00,00:00,01:06,00:00,00:00
+"American Airlines Inc.",2023-04-15,00:31,2680,"Pensacola, FL",0,00:31,00:00,00:00,00:00,00:00
+"Envoy Air",2023-04-15,00:18,3471,"Shreveport, LA",0,00:00,00:00,00:18,00:00,00:00
+"Spirit Air Lines",2023-04-15,00:06,2086,"Boston, MA",0,00:00,00:00,00:00,00:00,00:43
+"SkyWest Airlines Inc.",2023-04-15,00:19,4162,"Savannah, GA",0,00:19,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-04-16,-00:28,1950,"Charlotte Amalie, VI",0,00:00,00:00,00:17,00:00,00:00
+"Southwest Airlines Co.",2023-04-16,00:33,1103,"Bellingham, WA",0,00:08,00:00,00:03,00:00,00:22
+"Spirit Air Lines",2023-04-16,01:23,1900,"Aguadilla, PR",0,00:00,00:00,00:24,00:00,00:59
+"SkyWest Airlines Inc.",2023-04-16,00:00,4733,"Springfield, MO",0,01:25,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-16,-00:26,4323,"Butte, MT",0,00:22,00:00,00:00,00:00,00:00
+"American Airlines Inc.",2023-04-16,-00:07,1363,"Madison, WI",0,06:43,00:00,00:00,00:00,00:00
+"Envoy Air",2023-04-16,-00:09,3849,"Scranton/Wilkes-Barre, PA",0,00:00,00:07,00:00,00:00,00:16
+"United Air Lines Inc.",2023-04-17,-00:09,2022,"San Juan, PR",0,00:00,00:00,00:04,00:00,00:16
+"Allegiant Air",2023-04-17,-00:26,1017,"St. Petersburg, FL",0,00:00,00:00,00:00,00:00,01:15
+"Southwest Airlines Co.",2023-04-17,00:24,406,"Grand Rapids, MI",0,00:00,00:00,00:24,00:00,00:00
+"Envoy Air",2023-04-17,-00:27,3889,"Indianapolis, IN",0,00:00,00:00,00:04,00:00,00:15
+"Allegiant Air",2023-04-17,00:03,918,"Portsmouth, NH",0,00:08,00:00,00:00,00:00,00:13
+"SkyWest Airlines Inc.",2023-04-17,00:04,3558,"Madison, WI",0,00:00,00:16,00:00,00:00,00:00
+"Envoy Air",2023-04-17,-00:02,3912,"Santa Barbara, CA",0,00:00,01:17,00:00,00:00,00:00
+"Allegiant Air",2023-04-17,00:09,2740,"Greensboro/High Point, NC",0,00:07,00:00,00:00,00:00,00:50
+"Delta Air Lines Inc.",2023-04-18,-00:24,2147,"Rochester, NY",0,00:00,00:00,00:28,00:00,00:00
+"American Airlines Inc.",2023-04-18,-00:11,1085,"Greensboro/High Point, NC",0,00:16,00:00,00:07,00:00,00:00
+"United Air Lines Inc.",2023-04-18,00:04,1904,"Columbus, OH",0,00:00,00:00,00:19,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-18,-00:10,3143,"Lawton/Fort Sill, OK",0,00:00,00:17,00:00,00:00,00:00
+"JetBlue Airways",2023-04-18,00:04,808,"Charlotte Amalie, VI",0,01:56,00:00,00:00,00:00,02:58
+"Southwest Airlines Co.",2023-04-19,01:11,397,"Kahului, HI",0,00:00,00:00,00:00,00:00,01:11
+"Allegiant Air",2023-04-19,-00:23,1015,"Rockford, IL",0,00:00,00:00,00:00,00:00,00:33
+"SkyWest Airlines Inc.",2023-04-19,00:14,5523,"Portland, ME",0,00:00,00:00,00:00,00:00,01:17
+"Delta Air Lines Inc.",2023-04-19,-00:03,1628,"Harlingen/San Benito, TX",0,00:22,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-20,-00:26,3662,"Missoula, MT",0,00:33,00:00,00:00,00:00,00:00
+"Southwest Airlines Co.",2023-04-20,00:41,2232,"Omaha, NE",0,00:00,00:28,00:13,00:00,00:00
+"Spirit Air Lines",2023-04-20,03:09,889,"Columbus, OH",0,00:00,00:00,03:09,00:00,00:00
+"Allegiant Air",2023-04-20,-00:21,2323,"Sioux Falls, SD",0,00:00,00:00,00:05,00:00,00:54
+"SkyWest Airlines Inc.",2023-04-20,-00:14,3563,"Traverse City, MI",0,00:00,01:21,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-04-20,-00:07,4956,"Dayton, OH",0,02:01,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-21,-00:10,3681,"Newark, NJ",0,00:00,01:46,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-21,00:08,4642,"Bismarck/Mandan, ND",0,00:43,00:00,00:00,00:00,00:00
+"Allegiant Air",2023-04-21,00:06,1881,"Baltimore, MD",0,00:00,00:00,00:53,00:00,01:18
+"Southwest Airlines Co.",2023-04-21,00:15,897,"Bozeman, MT",0,00:02,00:00,00:00,00:00,00:13
+"Envoy Air",2023-04-21,01:29,3651,"Kansas City, MO",0,01:25,00:00,00:04,00:00,00:00
+"Delta Air Lines Inc.",2023-04-21,-00:13,2803,"Valparaiso, FL",0,02:03,00:00,00:00,00:00,00:00
+"Southwest Airlines Co.",2023-04-22,-00:06,2720,"Oklahoma City, OK",0,00:00,00:29,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-22,-00:21,4039,"Appleton, WI",0,00:00,00:41,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-22,-00:09,5059,"Decatur, IL",0,00:00,00:00,00:00,00:00,00:59
+"Republic Airline",2023-04-22,00:30,3669,"Austin, TX",1,00:17,00:00,00:05,00:00,00:08
+"Alaska Airlines Inc.",2023-04-22,00:10,455,"Fort Myers, FL",0,00:32,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-04-23,-00:16,1196,"Atlanta, GA",0,00:02,00:00,00:00,00:00,00:20
+"Spirit Air Lines",2023-04-23,00:02,1304,"Atlanta, GA",0,00:00,00:00,00:56,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-23,-00:15,3835,"Fargo, ND",0,01:02,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-04-23,00:07,2165,"Raleigh/Durham, NC",0,00:33,00:00,00:00,00:00,00:00
+"American Airlines Inc.",2023-04-23,00:33,1242,"Charleston, SC",0,00:02,00:00,00:00,00:00,00:31
+"Delta Air Lines Inc.",2023-04-23,04:11,2208,"Madison, WI",0,04:11,00:00,00:00,00:00,00:00
+"Allegiant Air",2023-04-23,-00:27,762,"Boise, ID",0,00:02,00:00,00:00,00:00,00:55
+"Southwest Airlines Co.",2023-04-23,00:19,154,"Little Rock, AR",0,00:00,00:00,00:00,00:00,00:19
+"Spirit Air Lines",2023-04-23,01:01,225,"Phoenix, AZ",0,00:14,00:00,00:47,00:00,00:00
+"Allegiant Air",2023-04-23,03:30,1048,"Toledo, OH",0,00:02,00:00,00:00,00:00,03:28
+"Spirit Air Lines",2023-04-24,-00:17,1005,"Philadelphia, PA",0,00:00,00:31,00:51,00:00,00:00
+"Hawaiian Airlines Inc.",2023-04-24,-00:27,46,"Kahului, HI",0,03:58,00:00,00:00,00:00,00:00
+"PSA Airlines Inc.",2023-04-24,-00:02,5528,"Kansas City, MO",0,00:00,00:00,00:42,00:00,00:12
+"SkyWest Airlines Inc.",2023-04-24,00:20,5997,"Palm Springs, CA",0,00:20,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-24,00:43,3401,"Santa Rosa, CA",0,00:00,00:00,00:00,00:00,00:43
+"Allegiant Air",2023-04-24,-00:24,273,"Bellingham, WA",0,00:47,00:00,00:01,00:00,00:58
+"SkyWest Airlines Inc.",2023-04-24,-00:13,3633,"Sun Valley/Hailey/Ketchum, ID",0,00:00,00:17,00:00,00:00,00:00
+"American Airlines Inc.",2023-04-25,00:49,1208,"Burbank, CA",0,00:00,00:00,00:00,00:00,00:49
+"SkyWest Airlines Inc.",2023-04-25,-00:12,4749,"St. Louis, MO",0,00:00,00:16,00:00,00:00,00:00
+"Envoy Air",2023-04-25,-00:05,3417,"Savannah, GA",0,00:00,00:00,00:27,00:00,00:00
+"American Airlines Inc.",2023-04-25,-00:17,1945,"Kahului, HI",0,00:00,00:00,00:00,00:00,00:47
+"Envoy Air",2023-04-25,-00:14,3806,"Albuquerque, NM",0,00:00,00:00,00:21,00:00,00:00
+"United Air Lines Inc.",2023-04-26,00:09,1419,"Cleveland, OH",0,03:05,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-04-26,00:13,249,"Charlotte, NC",0,00:00,00:00,00:19,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-26,-00:09,4772,"Pasco/Kennewick/Richland, WA",0,00:21,00:00,00:00,00:00,00:00
+"Alaska Airlines Inc.",2023-04-26,00:13,1035,"Pasco/Kennewick/Richland, WA",0,00:35,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-04-27,00:04,2215,"Providence, RI",0,00:00,00:14,00:04,00:00,00:00
+"Delta Air Lines Inc.",2023-04-27,-00:04,2358,"Melbourne, FL",0,00:00,00:00,00:02,00:00,00:18
+"SkyWest Airlines Inc.",2023-04-28,-00:19,5637,"Harrisburg, PA",0,02:25,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-04-28,-00:15,5532,"Columbus, GA",0,00:00,00:00,00:00,00:00,00:37
+"United Air Lines Inc.",2023-04-29,-00:21,521,"Boise, ID",0,00:00,00:00,00:18,00:00,00:00
+"American Airlines Inc.",2023-04-29,04:46,2213,"Hartford, CT",0,03:48,00:00,00:00,00:00,00:58
+"SkyWest Airlines Inc.",2023-04-29,-00:11,4236,"Alpena, MI",0,00:39,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-29,-00:25,3598,"Lafayette, LA",0,00:36,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-29,-00:14,4991,"Yuma, AZ",0,00:00,00:00,00:00,00:00,00:28
+"SkyWest Airlines Inc.",2023-04-30,00:05,4662,"Columbia, SC",0,00:00,00:00,00:28,00:00,00:00
+"Allegiant Air",2023-04-30,-00:12,642,"Cedar Rapids/Iowa City, IA",0,00:00,01:35,01:27,00:00,00:00
+"SkyWest Airlines Inc.",2023-04-30,-00:21,4289,"Cedar City, UT",0,01:35,00:00,00:00,00:00,00:00
+"Allegiant Air",2023-04-30,-00:20,1499,"Austin, TX",0,00:37,00:00,00:01,00:00,00:00
+"Endeavor Air Inc.",2023-04-30,-00:23,5001,"Duluth, MN",0,03:52,00:00,00:00,00:00,00:00
+"Envoy Air",2023-04-30,-00:07,3378,"Yuma, AZ",0,00:17,00:00,00:00,00:00,00:11
+"American Airlines Inc.",2023-05-01,-00:33,2880,"Sioux Falls, SD",0,00:09,00:00,00:05,00:00,09:03
+"Alaska Airlines Inc.",2023-05-01,-00:37,289,"Newark, NJ",0,00:00,00:00,00:00,00:00,00:28
+"PSA Airlines Inc.",2023-05-01,00:20,5653,"Myrtle Beach, SC",0,00:00,00:00,00:19,00:00,00:01
+"Allegiant Air",2023-05-01,-00:13,890,"Lexington, KY",0,00:00,01:02,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-05-01,-00:33,2867,"Omaha, NE",0,03:48,00:00,00:08,00:00,00:00
+"Allegiant Air",2023-05-01,-00:20,992,"Dayton, OH",0,00:24,00:00,00:00,00:00,00:00
+"Allegiant Air",2023-05-01,00:04,78,"Rapid City, SD",0,00:45,00:00,00:14,00:00,00:00
+"Republic Airline",2023-05-02,-00:20,4549,"Louisville, KY",0,00:00,00:00,00:53,00:00,00:00
+"Alaska Airlines Inc.",2023-05-02,-00:19,1322,"Santa Rosa, CA",0,00:00,00:00,00:07,00:00,00:40
+"SkyWest Airlines Inc.",2023-05-02,-00:02,3461,"Helena, MT",0,01:01,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-05-02,-00:15,5086,"Fayetteville, NC",0,00:08,00:00,00:23,00:00,00:09
+"Envoy Air",2023-05-02,-00:10,3845,"Tampa, FL",0,00:00,00:00,00:00,00:00,01:46
+"Delta Air Lines Inc.",2023-05-02,00:13,2967,"Myrtle Beach, SC",0,00:00,00:00,00:29,00:00,01:43
+"SkyWest Airlines Inc.",2023-05-02,00:06,4666,"El Paso, TX",0,04:26,00:00,00:00,00:00,00:00
+"Envoy Air",2023-05-02,-00:10,3870,"Missoula, MT",0,00:00,00:00,01:03,00:00,00:00
+"United Air Lines Inc.",2023-05-03,-00:13,1251,"Phoenix, AZ",0,00:00,00:00,00:42,00:00,00:00
+"American Airlines Inc.",2023-05-03,00:04,216,"Louisville, KY",0,00:15,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-03,-00:05,4981,"Phoenix, AZ",0,00:00,00:00,00:20,00:00,00:00
+"PSA Airlines Inc.",2023-05-03,-00:11,5534,"Tallahassee, FL",0,02:10,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-03,-00:18,5572,"Cincinnati, OH",0,00:56,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-05-03,-00:14,1719,"Rochester, NY",0,00:00,00:00,00:00,00:00,03:40
+"United Air Lines Inc.",2023-05-04,00:18,2239,"Miami, FL",0,00:00,00:00,00:18,00:00,00:00
+"Southwest Airlines Co.",2023-05-04,-00:17,1076,"Harlingen/San Benito, TX",0,00:00,00:00,00:00,00:00,00:58
+"SkyWest Airlines Inc.",2023-05-04,-00:21,5051,"Dodge City, KS",0,00:37,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-04,01:11,5505,"Aspen, CO",0,00:00,00:00,00:00,00:00,01:11
+"SkyWest Airlines Inc.",2023-05-04,00:03,3020,"Flagstaff, AZ",0,00:00,00:00,00:00,00:00,01:36
+"Envoy Air",2023-05-04,00:01,4144,"Santa Rosa, CA",0,00:00,02:29,00:05,00:00,00:00
+"PSA Airlines Inc.",2023-05-04,00:06,5587,"Montgomery, AL",0,00:00,00:00,00:20,00:00,00:00
+"Southwest Airlines Co.",2023-05-05,-00:21,168,"Atlanta, GA",0,00:18,00:00,00:00,00:00,00:00
+"American Airlines Inc.",2023-05-05,-00:07,1535,"Cleveland, OH",0,01:15,00:00,00:00,00:00,00:00
+"Republic Airline",2023-05-05,-00:12,4366,"New Orleans, LA",0,00:00,00:00,00:21,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-05,00:49,4787,"Eagle, CO",0,00:00,00:49,00:00,00:00,00:00
+"United Air Lines Inc.",2023-05-05,-00:20,1780,"Mission/McAllen/Edinburg, TX",0,00:58,00:00,00:00,00:00,00:00
+"JetBlue Airways",2023-05-06,09:56,400,"New Orleans, LA",0,07:17,00:00,00:00,00:00,02:39
+"Envoy Air",2023-05-06,-00:16,3992,"Fayetteville, AR",0,01:27,00:00,00:00,00:00,00:00
+"Republic Airline",2023-05-06,-00:15,4326,"Atlanta, GA",0,00:00,00:00,00:00,00:00,00:16
+"Frontier Airlines Inc.",2023-05-06,00:28,431,"Little Rock, AR",0,00:02,00:00,00:13,00:00,00:13
+"Allegiant Air",2023-05-06,-00:17,872,"Rochester, NY",0,00:36,00:00,00:00,00:00,00:00
+"PSA Airlines Inc.",2023-05-07,-00:11,5436,"Greensboro/High Point, NC",0,00:00,00:01,00:00,00:00,01:02
+"SkyWest Airlines Inc.",2023-05-07,04:42,3657,"Shreveport, LA",0,04:42,00:00,00:00,00:00,00:00
+"Envoy Air",2023-05-07,00:13,3506,"Evansville, IN",0,00:00,00:04,00:18,00:00,00:00
+"Envoy Air",2023-05-07,-00:11,3463,"Augusta, GA",0,00:04,00:00,00:02,00:00,01:01
+"Allegiant Air",2023-05-07,-00:07,1272,"Ashland, WV",0,00:00,00:56,00:00,00:00,00:19
+"Envoy Air",2023-05-07,-00:13,3313,"College Station/Bryan, TX",0,00:00,00:00,00:31,00:00,01:43
+"SkyWest Airlines Inc.",2023-05-07,00:02,5054,"North Platte, NE",0,00:17,00:00,00:00,00:00,00:00
+"JetBlue Airways",2023-05-07,00:54,1006,"Portland, OR",0,00:00,00:00,00:00,00:00,00:54
+"Delta Air Lines Inc.",2023-05-08,01:07,1312,"Seattle, WA",0,00:10,00:00,00:00,00:00,00:57
+"Alaska Airlines Inc.",2023-05-08,-00:01,545,"Omaha, NE",0,01:44,00:00,00:20,00:00,00:00
+"Alaska Airlines Inc.",2023-05-08,00:11,869,"San Jose, CA",0,00:00,00:00,00:23,00:00,00:00
+"Envoy Air",2023-05-08,00:07,4068,"Myrtle Beach, SC",0,00:00,00:00,01:10,00:00,00:46
+"United Air Lines Inc.",2023-05-08,-00:23,216,"Buffalo, NY",0,00:00,00:00,00:34,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-08,-00:06,3099,"Durango, CO",0,00:37,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-08,00:23,5480,"San Antonio, TX",0,00:23,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-08,-00:23,5181,"Joplin, MO",0,00:17,00:00,00:00,00:00,00:00
+"Envoy Air",2023-05-08,-00:06,3537,"Minneapolis, MN",0,00:20,00:00,00:03,00:00,03:53
+"Allegiant Air",2023-05-08,00:01,411,"Jacksonville, FL",0,00:00,00:00,00:00,00:00,00:34
+"Envoy Air",2023-05-08,00:29,3870,"Cleveland, OH",0,00:10,00:00,00:19,00:00,00:00
+"American Airlines Inc.",2023-05-09,01:54,2503,"Tampa, FL",0,00:03,00:00,00:32,00:00,01:19
+"Southwest Airlines Co.",2023-05-09,-00:17,2867,"Jackson/Vicksburg, MS",0,00:00,00:00,00:00,00:00,00:17
+"Spirit Air Lines",2023-05-09,-00:11,3829,"Baltimore, MD",0,00:00,00:00,00:00,00:00,01:09
+"United Air Lines Inc.",2023-05-09,00:01,2240,"Kalispell, MT",0,00:52,00:00,00:11,00:00,00:08
+"Alaska Airlines Inc.",2023-05-09,-00:23,934,"Eugene, OR",0,00:00,00:00,00:10,00:00,00:16
+"SkyWest Airlines Inc.",2023-05-09,00:16,4892,"Killeen, TX",0,00:16,00:00,00:00,00:00,00:00
+"Southwest Airlines Co.",2023-05-10,-00:19,354,"Albuquerque, NM",0,00:00,00:00,00:15,00:00,00:06
+"Alaska Airlines Inc.",2023-05-10,00:02,1173,"Santa Ana, CA",0,03:50,00:00,00:00,00:00,00:00
+"Envoy Air",2023-05-10,-00:03,3362,"Newark, NJ",0,00:20,00:00,00:00,00:00,00:10
+"Spirit Air Lines",2023-05-11,-00:16,1810,"Fort Lauderdale, FL",0,00:28,00:00,01:12,00:00,00:00
+"United Air Lines Inc.",2023-05-11,-00:21,2339,"Las Vegas, NV",0,02:54,00:00,00:05,00:00,00:56
+"Southwest Airlines Co.",2023-05-11,00:02,429,"Boise, ID",0,00:00,00:00,00:00,00:00,00:26
+"SkyWest Airlines Inc.",2023-05-11,-00:04,3503,"Milwaukee, WI",0,00:29,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-05-11,-00:36,1653,"Columbia, SC",0,00:00,00:42,00:00,00:00,00:00
+"Envoy Air",2023-05-11,-00:17,3935,"Rochester, MN",0,02:30,00:00,00:16,00:00,00:00
+"JetBlue Airways",2023-05-11,-00:10,707,"Seattle, WA",0,00:27,00:00,00:11,00:00,00:00
+"JetBlue Airways",2023-05-11,-00:22,1746,"Charlotte, NC",0,00:19,00:00,00:00,00:00,02:19
+"Allegiant Air",2023-05-11,-00:16,1118,"Melbourne, FL",0,00:00,00:00,00:36,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-12,-00:06,3189,"Alexandria, LA",0,04:23,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-05-12,-00:14,2574,"Jackson/Vicksburg, MS",0,00:00,00:00,00:20,00:00,00:00
+"Delta Air Lines Inc.",2023-05-12,00:16,2418,"Savannah, GA",0,00:00,00:00,00:00,00:00,00:16
+"SkyWest Airlines Inc.",2023-05-12,04:00,4176,"Minot, ND",0,04:00,00:00,00:00,00:00,00:00
+"PSA Airlines Inc.",2023-05-12,-00:06,5397,"Jacksonville/Camp Lejeune, NC",0,00:00,00:00,00:16,00:00,00:13
+"SkyWest Airlines Inc.",2023-05-12,00:03,5463,"Roanoke, VA",0,00:00,00:00,00:00,00:00,00:34
+"SkyWest Airlines Inc.",2023-05-12,00:14,3669,"Pittsburgh, PA",0,00:00,02:11,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-05-13,00:16,1763,"San Juan, PR",0,00:16,00:00,00:00,00:00,00:00
+"PSA Airlines Inc.",2023-05-13,00:09,5103,"Lexington, KY",0,00:01,00:00,00:48,00:00,00:02
+"SkyWest Airlines Inc.",2023-05-13,-00:01,3436,"Great Falls, MT",0,00:00,03:51,00:00,00:00,00:00
+"JetBlue Airways",2023-05-13,01:23,98,"Denver, CO",0,00:24,00:00,00:00,00:00,00:59
+"SkyWest Airlines Inc.",2023-05-13,-00:15,5016,"Scottsbluff, NE",0,00:15,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-05-14,-00:06,2394,"Grand Rapids, MI",0,01:07,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-05-14,00:12,539,"Los Angeles, CA",0,00:14,00:00,00:00,00:00,00:42
+"Southwest Airlines Co.",2023-05-14,-00:08,1708,"San Antonio, TX",0,00:03,00:00,00:24,00:00,00:14
+"American Airlines Inc.",2023-05-14,-00:20,2621,"Milwaukee, WI",0,13:30,00:00,00:33,00:00,01:37
+"Alaska Airlines Inc.",2023-05-14,-00:07,1091,"Ontario, CA",0,00:00,00:00,00:00,00:00,00:33
+"Allegiant Air",2023-05-15,00:22,328,"Harrisburg, PA",0,00:00,00:00,00:00,00:00,00:22
+"Southwest Airlines Co.",2023-05-15,00:01,1193,"Albany, NY",0,00:00,00:00,00:00,00:00,00:42
+"Delta Air Lines Inc.",2023-05-15,-00:09,1382,"Burlington, VT",0,00:00,00:00,00:21,00:00,00:00
+"Delta Air Lines Inc.",2023-05-15,-00:25,1167,"Grand Forks, ND",0,00:05,00:00,00:00,00:00,06:36
+"Alaska Airlines Inc.",2023-05-15,-00:15,563,"Kansas City, MO",0,00:00,00:00,00:06,00:00,00:33
+"Allegiant Air",2023-05-16,-00:20,324,"Fargo, ND",0,00:00,00:00,00:41,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-16,-00:11,3216,"Brownsville, TX",0,00:34,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-05-16,-00:13,5225,"Greensboro/High Point, NC",0,00:27,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-16,-00:25,3956,"Duluth, MN",0,00:00,00:00,00:00,00:00,00:52
+"Endeavor Air Inc.",2023-05-16,00:01,4875,"Columbus, OH",0,00:00,00:00,00:00,00:00,02:29
+"SkyWest Airlines Inc.",2023-05-17,-00:16,4231,"St. George, UT",0,00:00,00:29,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-05-17,-00:16,4628,"Rochester, NY",0,00:00,00:00,00:10,00:00,01:12
+"Hawaiian Airlines Inc.",2023-05-17,00:18,81,"Austin, TX",0,00:18,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-05-17,-00:16,4767,"Mosinee, WI",0,00:00,01:54,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-17,-00:11,3009,"Laredo, TX",0,03:17,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-05-17,-00:13,4670,"Appleton, WI",0,00:00,00:00,01:05,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-17,00:10,5522,"North Bend/Coos Bay, OR",0,03:39,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-05-18,-00:01,862,"Fort Lauderdale, FL",0,00:00,00:00,00:21,00:00,00:00
+"United Air Lines Inc.",2023-05-18,00:05,2125,"Nashville, TN",0,00:26,00:00,00:00,00:00,00:19
+"PSA Airlines Inc.",2023-05-18,-00:12,5218,"Philadelphia, PA",0,00:03,00:00,00:14,00:00,00:00
+"Frontier Airlines Inc.",2023-05-18,01:18,2337,"Miami, FL",0,00:01,00:00,00:00,00:00,01:17
+"Frontier Airlines Inc.",2023-05-18,-00:10,4229,"Cincinnati, OH",0,00:10,00:00,00:34,00:00,00:13
+"SkyWest Airlines Inc.",2023-05-18,00:03,4766,"Charleston, SC",0,00:00,00:20,00:00,00:00,00:00
+"Envoy Air",2023-05-18,-00:03,3741,"Louisville, KY",0,00:00,00:00,00:23,00:00,00:02
+"Delta Air Lines Inc.",2023-05-18,-00:04,1077,"Fayetteville, NC",0,01:49,00:00,00:13,00:00,00:00
+"Delta Air Lines Inc.",2023-05-18,-00:08,2810,"Charleston, SC",0,00:00,00:00,00:03,00:00,00:34
+"JetBlue Airways",2023-05-18,00:33,943,"Reno, NV",0,00:00,00:00,00:20,00:00,00:13
+"SkyWest Airlines Inc.",2023-05-18,-00:24,4241,"Sault Ste. Marie, MI",0,00:00,02:06,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-05-18,-00:18,5334,"Worcester, MA",0,00:00,00:00,00:21,00:00,03:01
+"Delta Air Lines Inc.",2023-05-19,-00:15,976,"Denver, CO",0,07:43,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-05-19,-00:11,624,"Santa Ana, CA",0,00:01,00:00,00:17,00:00,00:23
+"American Airlines Inc.",2023-05-19,-00:05,1832,"Denver, CO",1,00:00,00:00,00:00,00:00,01:01
+"Southwest Airlines Co.",2023-05-19,01:19,755,"Amarillo, TX",0,00:01,00:00,00:00,00:00,01:18
+"Republic Airline",2023-05-19,00:09,4713,"Nashville, TN",0,00:03,00:00,00:00,00:00,00:31
+"Endeavor Air Inc.",2023-05-19,-00:21,5439,"Charlottesville, VA",0,00:00,00:00,02:33,00:00,00:00
+"United Air Lines Inc.",2023-05-19,-00:03,646,"El Paso, TX",0,03:48,00:00,00:02,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-19,-00:35,4913,"Gulfport/Biloxi, MS",0,00:00,00:41,00:06,00:00,00:29
+"American Airlines Inc.",2023-05-20,-00:10,2170,"Omaha, NE",0,00:00,00:00,00:05,00:00,01:06
+"Endeavor Air Inc.",2023-05-20,-00:12,4857,"Kalamazoo, MI",0,00:28,00:00,00:05,00:00,00:00
+"American Airlines Inc.",2023-05-20,00:00,2501,"Valparaiso, FL",0,00:00,00:00,01:01,00:00,00:31
+"American Airlines Inc.",2023-05-20,01:12,665,"Lubbock, TX",0,01:12,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-21,-00:16,3926,"San Jose, CA",0,00:00,00:00,00:00,00:00,00:23
+"Delta Air Lines Inc.",2023-05-21,00:47,2853,"Jacksonville, FL",0,00:00,00:00,00:04,00:00,00:43
+"JetBlue Airways",2023-05-21,-00:03,794,"Austin, TX",0,00:03,00:00,00:00,00:00,00:46
+"Republic Airline",2023-05-21,00:01,5664,"Hilton Head, SC",0,00:56,00:00,00:00,00:00,00:00
+"JetBlue Airways",2023-05-21,-00:04,2592,"Miami, FL",0,01:59,00:00,00:09,00:00,04:01
+"Envoy Air",2023-05-21,-00:17,3869,"Baltimore, MD",0,00:00,00:00,00:00,00:00,00:45
+"Allegiant Air",2023-05-21,00:20,95,"Fayetteville, AR",0,00:00,00:00,00:11,00:00,00:09
+"Frontier Airlines Inc.",2023-05-22,00:26,1622,"Nashville, TN",0,00:05,00:00,00:17,00:00,00:04
+"Alaska Airlines Inc.",2023-05-22,-00:10,447,"El Paso, TX",0,00:00,00:00,00:15,00:00,00:00
+"American Airlines Inc.",2023-05-22,-00:25,2722,"Reno, NV",0,00:00,00:00,00:26,00:00,00:00
+"United Air Lines Inc.",2023-05-22,04:06,2225,"Albany, NY",0,04:06,00:00,00:00,00:00,00:00
+"Southwest Airlines Co.",2023-05-23,-00:02,1109,"Santa Ana, CA",0,00:16,00:00,00:03,00:00,00:15
+"American Airlines Inc.",2023-05-23,00:03,2823,"Nashville, TN",0,00:02,00:00,00:00,00:00,00:46
+"United Air Lines Inc.",2023-05-23,00:17,706,"Kahului, HI",0,00:00,00:00,00:17,00:00,00:00
+"Delta Air Lines Inc.",2023-05-23,-00:08,2200,"Columbus, OH",0,00:46,00:00,00:19,00:00,00:00
+"JetBlue Airways",2023-05-23,-00:19,1383,"Portland, ME",0,00:00,00:00,00:28,00:00,00:00
+"Republic Airline",2023-05-23,-00:29,3511,"Hartford, CT",0,00:00,00:00,00:25,00:00,00:00
+"Delta Air Lines Inc.",2023-05-24,-00:09,2304,"Hartford, CT",0,00:00,00:00,00:00,00:00,00:40
+"SkyWest Airlines Inc.",2023-05-24,-00:20,3713,"Burbank, CA",0,00:00,00:00,00:17,00:00,00:00
+"Delta Air Lines Inc.",2023-05-24,01:01,1707,"Bismarck/Mandan, ND",0,01:01,00:00,00:00,00:00,00:00
+"Frontier Airlines Inc.",2023-05-24,00:19,553,"Knoxville, TN",1,00:01,00:00,00:00,00:00,00:18
+"SkyWest Airlines Inc.",2023-05-25,-00:11,4748,"Green Bay, WI",0,00:00,00:00,00:00,00:00,00:24
+"SkyWest Airlines Inc.",2023-05-25,-00:06,4976,"Monroe, LA",0,00:00,00:00,00:00,00:00,04:50
+"JetBlue Airways",2023-05-26,00:31,1284,"Orlando, FL",0,00:02,00:00,00:00,00:00,00:29
+"Alaska Airlines Inc.",2023-05-26,-00:30,1282,"Portland, OR",0,00:00,00:00,00:06,00:00,00:16
+"Frontier Airlines Inc.",2023-05-26,-00:10,801,"Ontario, CA",0,00:14,00:00,00:00,00:00,00:37
+"American Airlines Inc.",2023-05-26,-00:24,1812,"Wilmington, NC",0,00:00,00:00,00:06,00:00,00:56
+"Envoy Air",2023-05-26,-00:08,3475,"Bloomington/Normal, IL",0,00:04,00:00,00:17,00:00,00:00
+"United Air Lines Inc.",2023-05-26,-00:09,465,"Cedar Rapids/Iowa City, IA",0,00:00,00:00,03:24,00:00,00:00
+"Spirit Air Lines",2023-05-26,00:00,246,"Cleveland, OH",0,00:39,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-26,-00:18,5053,"Jamestown, ND",0,00:00,00:00,00:00,00:00,00:23
+"Envoy Air",2023-05-26,-00:17,4231,"Columbia, MO",0,00:04,00:00,00:00,00:00,00:18
+"Envoy Air",2023-05-26,-00:27,4225,"Detroit, MI",0,00:25,00:00,00:00,00:00,00:00
+"American Airlines Inc.",2023-05-27,-00:27,707,"Austin, TX",0,00:20,00:00,00:00,00:00,00:01
+"SkyWest Airlines Inc.",2023-05-27,-00:10,4966,"Lake Charles, LA",0,00:55,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-27,-00:25,3999,"Marquette, MI",0,00:51,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-05-27,-00:06,2125,"Oakland, CA",0,00:00,00:00,00:00,00:00,01:29
+"Republic Airline",2023-05-27,-00:24,5590,"Traverse City, MI",0,00:00,00:00,00:14,00:00,00:25
+"SkyWest Airlines Inc.",2023-05-27,00:00,3419,"Walla Walla, WA",0,00:00,00:00,00:00,00:00,00:21
+"American Airlines Inc.",2023-05-28,-00:04,1594,"Oklahoma City, OK",0,18:13,00:00,00:14,00:00,00:00
+"Southwest Airlines Co.",2023-05-28,-00:12,1354,"Sarasota/Bradenton, FL",0,00:08,00:00,00:52,00:00,00:03
+"Alaska Airlines Inc.",2023-05-28,-00:39,385,"Boston, MA",0,00:00,00:00,00:18,00:00,00:00
+"Endeavor Air Inc.",2023-05-28,-00:07,4628,"Des Moines, IA",0,00:00,00:00,00:22,00:00,00:00
+"PSA Airlines Inc.",2023-05-28,00:01,5618,"Roanoke, VA",0,00:00,00:00,00:00,00:00,00:35
+"Frontier Airlines Inc.",2023-05-28,00:00,2269,"New York, NY",0,00:00,00:00,00:00,00:00,00:34
+"Allegiant Air",2023-05-28,-00:06,466,"Portland, OR",0,04:07,00:00,00:08,00:00,00:00
+"Alaska Airlines Inc.",2023-05-28,-00:07,1217,"Sacramento, CA",0,00:06,00:00,00:00,00:00,00:45
+"Allegiant Air",2023-05-28,-00:27,983,"Bangor, ME",0,00:00,00:00,00:00,00:00,02:29
+"Frontier Airlines Inc.",2023-05-28,00:04,517,"Oklahoma City, OK",0,00:00,00:00,00:15,00:00,00:00
+"Delta Air Lines Inc.",2023-05-29,-00:13,1432,"Dallas, TX",0,00:00,00:00,00:57,00:00,00:01
+"Alaska Airlines Inc.",2023-05-29,-00:22,541,"Austin, TX",0,00:00,00:00,00:27,00:00,00:00
+"JetBlue Airways",2023-05-29,00:02,896,"Atlanta, GA",0,00:02,00:00,00:43,00:00,00:18
+"Allegiant Air",2023-05-29,-00:30,3101,"Minneapolis, MN",0,00:00,00:00,00:26,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-29,-00:01,5023,"Prescott, AZ",0,00:00,00:00,00:00,00:00,00:42
+"Alaska Airlines Inc.",2023-05-29,00:08,500,"Indianapolis, IN",0,00:00,02:10,00:00,00:00,00:00
+"Alaska Airlines Inc.",2023-05-30,-00:08,643,"Denver, CO",0,00:00,00:00,00:00,00:00,00:34
+"SkyWest Airlines Inc.",2023-05-30,00:56,4696,"Bakersfield, CA",0,00:00,00:00,00:56,00:00,00:00
+"Envoy Air",2023-05-30,-00:22,3777,"Sacramento, CA",0,00:04,00:00,00:00,00:00,00:12
+"Alaska Airlines Inc.",2023-05-30,00:34,88,"Kodiak, AK",0,00:00,00:00,00:04,00:00,00:30
+"SkyWest Airlines Inc.",2023-05-30,-00:25,4237,"Pellston, MI",0,01:44,00:00,00:00,00:00,00:00
+"Republic Airline",2023-05-30,-00:14,5749,"Lexington, KY",0,00:00,00:00,00:38,00:00,00:00
+"Endeavor Air Inc.",2023-05-31,-00:22,5463,"New York, NY",0,00:00,00:00,00:00,00:00,00:49
+"JetBlue Airways",2023-05-31,-00:19,1470,"Charleston, SC",0,00:00,00:00,00:00,00:00,00:20
+"American Airlines Inc.",2023-05-31,-00:10,1355,"Savannah, GA",0,00:00,00:08,00:06,00:00,01:14
+"SkyWest Airlines Inc.",2023-05-31,-00:08,3126,"Bend/Redmond, OR",0,00:22,00:00,00:00,00:00,00:00
+"Spirit Air Lines",2023-05-31,00:50,1261,"Portland, OR",0,00:00,00:00,00:18,00:00,00:32
+"SkyWest Airlines Inc.",2023-05-31,-00:18,5312,"Saginaw/Bay City/Midland, MI",0,00:24,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-05-31,00:07,4666,"Amarillo, TX",0,00:00,00:00,00:00,00:00,01:32
+"SkyWest Airlines Inc.",2023-05-31,-00:24,4334,"Iron Mountain/Kingsfd, MI",0,00:00,00:20,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-05-31,-00:06,1622,"Wilmington, NC",0,01:56,00:00,00:00,00:00,00:00
+"Republic Airline",2023-06-01,-00:17,3540,"Manchester, NH",0,00:00,00:00,00:24,00:00,00:00
+"Delta Air Lines Inc.",2023-06-01,-00:11,2514,"Indianapolis, IN",0,00:00,00:00,00:19,00:00,00:00
+"Alaska Airlines Inc.",2023-06-01,-00:34,589,"Dallas, TX",0,00:00,00:00,00:16,00:00,00:06
+"SkyWest Airlines Inc.",2023-06-01,-00:03,5060,"Salina, KS",0,00:00,00:00,00:00,00:00,00:16
+"Alaska Airlines Inc.",2023-06-01,00:03,812,"Kahului, HI",0,00:00,00:00,00:00,00:00,00:49
+"Southwest Airlines Co.",2023-06-01,-00:20,1438,"Valparaiso, FL",0,00:00,00:00,00:00,00:00,02:26
+"Allegiant Air",2023-06-01,-00:19,2262,"Pasco/Kennewick/Richland, WA",0,00:00,00:00,00:02,00:00,01:54
+"PSA Airlines Inc.",2023-06-01,-00:24,5404,"Atlanta, GA",0,00:00,02:12,00:01,00:00,00:00
+"SkyWest Airlines Inc.",2023-06-01,-00:11,4721,"Mission/McAllen/Edinburg, TX",0,00:19,00:00,00:00,00:00,00:00
+"Endeavor Air Inc.",2023-06-02,00:01,5258,"Detroit, MI",0,00:14,00:00,00:00,00:00,00:08
+"SkyWest Airlines Inc.",2023-06-02,-00:02,3841,"Reno, NV",0,04:59,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-06-02,00:06,5616,"Fresno, CA",0,07:40,00:00,00:00,00:00,00:00
+"Hawaiian Airlines Inc.",2023-06-02,00:40,9,"Los Angeles, CA",0,00:40,00:00,00:00,00:00,00:00
+"Allegiant Air",2023-06-02,00:13,623,"Fort Lauderdale, FL",0,00:00,00:00,00:39,00:00,00:00
+"Alaska Airlines Inc.",2023-06-02,00:27,66,"Cordova, AK",0,00:12,00:00,00:00,00:00,00:15
+"Allegiant Air",2023-06-02,-00:09,996,"Bloomington/Normal, IL",0,00:00,00:00,02:01,00:00,00:39
+"Envoy Air",2023-06-02,-00:09,3478,"Amarillo, TX",0,00:00,00:00,00:25,00:00,00:06
+"United Air Lines Inc.",2023-06-02,-00:13,2397,"Ontario, CA",0,00:00,00:00,00:00,00:00,01:22
+"JetBlue Airways",2023-06-02,03:24,670,"San Jose, CA",0,00:16,00:00,00:22,00:00,02:46
+"United Air Lines Inc.",2023-06-02,-00:20,539,"Fayetteville, AR",0,00:07,00:00,00:00,00:00,00:51
+"SkyWest Airlines Inc.",2023-06-02,01:59,3984,"Baltimore, MD",0,01:59,00:00,00:00,00:00,00:00
+"Southwest Airlines Co.",2023-06-03,00:33,462,"Manchester, NH",0,00:26,00:00,00:00,00:00,00:07
+"American Airlines Inc.",2023-06-03,00:02,406,"Eugene, OR",0,00:00,00:18,00:00,00:00,00:00
+"JetBlue Airways",2023-06-04,01:41,946,"Nashville, TN",0,00:00,00:00,00:16,00:00,01:25
+"Southwest Airlines Co.",2023-06-04,-00:12,5158,"Fresno, CA",0,00:00,00:00,00:00,00:00,00:16
+"Republic Airline",2023-06-04,00:02,3402,"Cincinnati, OH",0,00:00,00:00,00:00,00:00,00:41
+"Endeavor Air Inc.",2023-06-04,00:00,4678,"Ithaca/Cortland, NY",0,00:00,00:00,00:05,00:00,00:15
+"Delta Air Lines Inc.",2023-06-04,-00:10,2997,"Bozeman, MT",0,00:00,00:00,00:01,00:00,07:19
+"Spirit Air Lines",2023-06-04,-00:15,2517,"Reno, NV",0,00:00,00:00,00:00,00:00,03:09
+"SkyWest Airlines Inc.",2023-06-04,-00:22,4759,"Birmingham, AL",0,01:29,00:00,00:00,00:00,00:00
+"JetBlue Airways",2023-06-04,-00:26,360,"Philadelphia, PA",0,00:13,00:00,00:12,00:00,00:00
+"SkyWest Airlines Inc.",2023-06-05,-00:10,3883,"Minneapolis, MN",0,00:21,00:00,00:00,00:00,00:00
+"United Air Lines Inc.",2023-06-05,01:12,541,"San Diego, CA",0,00:00,00:00,00:00,00:00,01:12
+"Delta Air Lines Inc.",2023-06-05,-00:23,1179,"New Orleans, LA",0,00:00,00:00,09:17,00:00,00:00
+"Envoy Air",2023-06-05,00:18,3499,"Billings, MT",0,00:00,00:00,00:18,00:00,00:00
+"Delta Air Lines Inc.",2023-06-05,02:36,2745,"Huntsville, AL",0,00:00,00:00,00:00,00:00,02:36
+"SkyWest Airlines Inc.",2023-06-05,-00:09,4834,"Austin, TX",0,00:00,00:00,00:00,00:00,00:52
+"Endeavor Air Inc.",2023-06-05,-00:07,4946,"Portland, ME",0,00:29,00:00,00:00,00:00,00:00
+"Delta Air Lines Inc.",2023-06-05,-00:16,2384,"Daytona Beach, FL",0,00:29,00:00,00:00,00:00,00:00
+"SkyWest Airlines Inc.",2023-06-05,00:02,4283,"Bemidji, MN",0,00:33,00:00,00:00,00:00,00:00
+"Envoy Air",2023-06-05,00:26,3644,"Little Rock, AR",0,00:25,00:00,00:00,00:00,00:01
+"Spirit Air Lines",2023-06-05,-00:24,1234,"Fort Myers, FL",0,00:00,00:00,00:00,00:00,00:54
+"Republic Airline",2023-06-05,-00:22,4369,"Panama City, FL",0,00:00,00:00,00:00,00:00,00:31
+"SkyWest Airlines Inc.",2023-06-05,-00:01,4714,"Flint, MI",0,00:15,00:00,00:00,00:00,00:00
+"Allegiant Air",2023-06-05,01:04,763,"Medford, OR",0,00:20,00:00,00:24,00:00,00:20
+"American Airlines Inc.",2023-06-06,-00:17,1825,"Dallas/Fort Worth, TX",0,00:18,00:00,00:16,00:00,05:16
+"United Air Lines Inc.",2023-06-06,-00:40,2298,"Minneapolis, MN",0,00:36,00:00,00:16,00:00,00:00
+"American Airlines Inc.",2023-06-06,-00:04,2879,"Monterey, CA",0,00:00,00:00,00:03,00:00,00:41
